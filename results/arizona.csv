@@ -1,0 +1,570 @@
+,zipcode,type,commoncity,county,areacode
+0,85001,PO Box,Phoenix,Maricopa County,Area Code 602
+1,85002,PO Box,Phoenix,Maricopa County,Area Code 602
+2,85003,Standard,Phoenix,Maricopa County,Area Code 480Area Code 623Area Code 602Area Code 928
+3,85004,Standard,Phoenix,Maricopa County,Area Code 520Area Code 928Area Code 480Area Code 602Area Code 623
+4,85005,PO Box,Phoenix,Maricopa County,Area Code 602
+5,85006,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602Area Code 928Area Code 623
+6,85007,Standard,Phoenix,Maricopa County,Area Code 602
+7,85008,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623Area Code 480
+8,85009,Standard,Phoenix,Maricopa County,Area Code 480Area Code 623Area Code 602
+9,85010,PO Box,Phoenix,Maricopa County,Area Code 602
+10,85011,PO Box,Phoenix,Maricopa County,Area Code 602
+11,85012,Standard,Phoenix,Maricopa County,Area Code 623Area Code 928Area Code 480Area Code 520Area Code 602
+12,85013,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+13,85014,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+14,85015,Standard,Phoenix,Maricopa County,Area Code 602
+15,85016,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602Area Code 623
+16,85017,Standard,Phoenix,Maricopa County,Area Code 602
+17,85018,Standard,Phoenix,Maricopa County,Area Code 480Area Code 623Area Code 602
+18,85019,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623
+19,85020,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602Area Code 623
+20,85021,Standard,Phoenix,Maricopa County,Area Code 480Area Code 623Area Code 602
+21,85022,Standard,Phoenix,Maricopa County,Area Code 602
+22,85023,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623
+23,85024,Standard,Phoenix,Maricopa County,Area Code 623
+24,85025,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 623Area Code 928Area Code 602
+25,85026,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623Area Code 480
+26,85027,Standard,Phoenix,Maricopa County,Area Code 928Area Code 623
+27,85028,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602
+28,85029,Standard,Phoenix,Maricopa County,Area Code 602
+29,85030,PO Box,Phoenix,Maricopa County,Area Code 602
+30,85031,Standard,Phoenix,Maricopa County,Area Code 623
+31,85032,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602
+32,85033,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623
+33,85034,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+34,85035,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623
+35,85036,PO Box,Phoenix,Maricopa County,Area Code 602
+36,85037,Standard,Phoenix,Maricopa County,Area Code 623
+37,85038,PO Box,Phoenix,Maricopa County,Area Code 602
+38,85039,Standard,Phoenix,Maricopa County,Area Code 623
+39,85040,Standard,Phoenix,Maricopa County,Area Code 602Area Code 480Area Code 623
+40,85041,Standard,Phoenix,Maricopa County,Area Code 602
+41,85042,Standard,Phoenix,Maricopa County,Area Code 623Area Code 480Area Code 602
+42,85043,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602Area Code 623Area Code 520
+43,85044,Standard,Phoenix,Maricopa County,Area Code 602Area Code 520Area Code 480
+44,85045,Standard,Phoenix,Maricopa County,Area Code 480Area Code 602Area Code 520
+45,85046,PO Box,Phoenix,Maricopa County,Area Code 602
+46,85048,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 602
+47,85050,Standard,Phoenix,Maricopa County,Area Code 480
+48,85051,Standard,Phoenix,Maricopa County,Area Code 623
+49,85053,Standard,Phoenix,Maricopa County,Area Code 623Area Code 602
+50,85054,Standard,Phoenix,Maricopa County,Area Code 480
+51,85055,Standard,Phoenix,Maricopa County,Area Code 602
+52,85060,PO Box,Phoenix,Maricopa County,Area Code 602
+53,85061,PO Box,Phoenix,Maricopa County,Area Code 602
+54,85062,PO Box,Phoenix,Maricopa County,Area Code 602
+55,85063,PO Box,Phoenix,Maricopa County,Area Code 602
+56,85064,PO Box,Phoenix,Maricopa County,Area Code 602
+57,85065,Standard,Phoenix,Maricopa County,Area Code 520Area Code 623Area Code 928Area Code 480Area Code 602
+58,85066,PO Box,Phoenix,Maricopa County,Area Code 602
+59,85067,PO Box,Phoenix,Maricopa County,Area Code 602
+60,85068,PO Box,Phoenix,Maricopa County,Area Code 602
+61,85069,PO Box,Phoenix,Maricopa County,Area Code 602
+62,85070,PO Box,Phoenix,Maricopa County,Area Code 602
+63,85071,PO Box,Phoenix,Maricopa County,Area Code 602
+64,85072,PO Box,Phoenix,Maricopa County,Area Code 602
+65,85073,Standard,Phoenix,Maricopa County,Area Code 602Area Code 623Area Code 480Area Code 520Area Code 928
+66,85074,PO Box,Phoenix,Maricopa County,Area Code 602
+67,85075,PO Box,Phoenix,Maricopa County,Area Code 602
+68,85076,PO Box,Phoenix,Maricopa County,Area Code 602
+69,85077,Unique,Phoenix,Maricopa County,Area Code 602
+70,85078,PO Box,Phoenix,Maricopa County,Area Code 602
+71,85079,PO Box,Phoenix,Maricopa County,Area Code 602
+72,85080,PO Box,Phoenix,Maricopa County,Area Code 602
+73,85082,PO Box,Phoenix,Maricopa County,Area Code 602
+74,85083,Standard,Phoenix,Maricopa County,Area Code 602
+75,85085,Standard,Phoenix,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+76,85086,Standard,"Phoenix, Anthem, Desert Hills",Maricopa County,Area Code 602Area Code 623Area Code 928Area Code 480Area Code 520
+77,85087,Standard,"New River, Phoenix",Maricopa County,Area Code 480Area Code 602Area Code 623Area Code 928
+78,85096,Standard,Phoenix,Maricopa County,Area Code 602
+79,85097,Standard,Phoenix,Maricopa County,Area Code 602Area Code 480Area Code 623
+80,85098,Unique,"Phoenix, Ctc",Maricopa County,Area Code 602
+81,85099,Unique,Phoenix,Maricopa County,Area Code 602
+82,85117,PO Box,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+83,85118,Standard,"Gold Canyon, Apache Jct, Apache Junction, Queen Valle...",Pinal County,Area Code 928Area Code 520
+84,85119,Standard,"Apache Junction, Apache Jct, Gold Canyon, Tortilla Flat",Pinal County,Area Code 480
+85,85120,Standard,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+86,85121,PO Box,Bapchule,Pinal County,Area Code 520
+87,85122,Standard,"Casa Grande, Eleven Mile, Eleven Mile Corner",Pinal County,Area Code 480Area Code 520
+88,85123,PO Box,Arizona City,Pinal County,Area Code 520
+89,85127,PO Box,"Chandler Heights, Chandler Hts",Maricopa County,Area Code 480Area Code 520
+90,85128,Standard,Coolidge,Pinal County,Area Code 520
+91,85130,PO Box,Casa Grande,Pinal County,Area Code 480Area Code 520
+92,85131,Standard,"Eloy, Toltec",Pinal County,Area Code 520
+93,85132,Standard,Florence,Pinal County,Area Code 520
+94,85135,PO Box,Hayden,Gila County,Area Code 520
+95,85137,Standard,Kearny,Pinal County,Area Code 520
+96,85138,Standard,Maricopa,Pinal County,Area Code 520
+97,85139,Standard,"Maricopa, Mobile",Pinal County,Area Code 520
+98,85140,Standard,"San Tan Valley, Queen Creek, San Tan Vly",Pinal County,Area Code 520
+99,85141,Standard,Picacho,Pinal County,Area Code 520
+100,85142,Standard,"Queen Creek, Chandler Heights, Chandler Hts, San Tan ...",Maricopa County,Area Code 520Area Code 480
+101,85143,Standard,"San Tan Valley, Queen Creek, San Tan Vly",Pinal County,
+102,85145,Standard,Red Rock,Pinal County,Area Code 520
+103,85147,PO Box,Sacaton,Pinal County,
+104,85172,Standard,Stanfield,Pinal County,Area Code 520
+105,85173,Standard,Superior,Pinal County,Area Code 520Area Code 928
+106,85178,PO Box,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+107,85190,PO Box,Tortilla Flat,Maricopa County,Area Code 480
+108,85191,PO Box,Valley Farms,Pinal County,Area Code 520
+109,85192,Standard,"Winkelman, Dudleyville",Pinal County,Area Code 520
+110,85193,Standard,Casa Grande,Pinal County,Area Code 520
+111,85194,Standard,Casa Grande,Pinal County,Area Code 480Area Code 520
+112,85201,Standard,Mesa,Maricopa County,Area Code 480Area Code 928
+113,85202,Standard,Mesa,Maricopa County,Area Code 480Area Code 928
+114,85203,Standard,Mesa,Maricopa County,Area Code 480
+115,85204,Standard,Mesa,Maricopa County,Area Code 480
+116,85205,Standard,Mesa,Maricopa County,Area Code 480
+117,85206,Standard,Mesa,Maricopa County,Area Code 480
+118,85207,Standard,Mesa,Maricopa County,Area Code 480
+119,85208,Standard,Mesa,Maricopa County,Area Code 480
+120,85209,Standard,Mesa,Maricopa County,Area Code 480
+121,85210,Standard,Mesa,Maricopa County,Area Code 480Area Code 928
+122,85211,PO Box,Mesa,Maricopa County,Area Code 480
+123,85212,Standard,Mesa,Maricopa County,Area Code 480
+124,85213,Standard,Mesa,Maricopa County,Area Code 480
+125,85214,PO Box,Mesa,Maricopa County,Area Code 480
+126,85215,Standard,Mesa,Maricopa County,Area Code 480
+127,85216,PO Box,Mesa,Maricopa County,Area Code 480
+128,85217,Standard,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+129,85218,Standard,"Apache Junction, Suprston Mtn, Superstition Mtn, Gold Can...",Pinal County,Area Code 480
+130,85219,Standard,"Apache Junction, Apache Jct, Tortilla Flat",Pinal County,Area Code 480
+131,85220,Standard,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+132,85221,PO Box,Bapchule,Pinal County,Area Code 520
+133,85222,Standard,"Casa Grande, Eleven Mile, Eleven Mile Corner",Pinal County,Area Code 520
+134,85223,Standard,Arizona City,Pinal County,Area Code 520
+135,85224,Standard,Chandler,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623
+136,85225,Standard,Chandler,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623
+137,85226,Standard,Chandler,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623
+138,85227,Standard,"Chandler Heights, Chandler Hts, Queen Creek",Maricopa County,Area Code 480
+139,85228,Standard,Coolidge,Pinal County,Area Code 520
+140,85230,Standard,Casa Grande,Pinal County,Area Code 520
+141,85231,Standard,"Eloy, Toltec",Pinal County,
+142,85232,Standard,Florence,Pinal County,Area Code 520
+143,85233,Standard,Gilbert,Maricopa County,Area Code 480
+144,85234,Standard,Gilbert,Maricopa County,Area Code 480
+145,85235,PO Box,Hayden,Gila County,Area Code 928
+146,85236,PO Box,Higley,Maricopa County,Area Code 480
+147,85237,Standard,Kearny,Pinal County,
+148,85238,Standard,Maricopa,Pinal County,Area Code 520
+149,85239,Standard,"Maricopa, Mobile",Pinal County,Area Code 520
+150,85240,Standard,Queen Creek,Maricopa County,Area Code 480
+151,85241,PO Box,Picacho,Pinal County,Area Code 520
+152,85242,Standard,"Queen Creek, Chandler Hts, Chandler Heights",Maricopa County,Area Code 480
+153,85243,Standard,Queen Creek,Maricopa County,Area Code 480
+154,85244,PO Box,Chandler,Maricopa County,Area Code 480
+155,85245,PO Box,Red Rock,Pinal County,
+156,85246,PO Box,Chandler,Maricopa County,Area Code 480
+157,85247,PO Box,Sacaton,Pinal County,Area Code 520
+158,85248,Standard,"Chandler, Sun Lakes",Maricopa County,Area Code 480Area Code 520
+159,85249,Standard,Chandler,Maricopa County,Area Code 480Area Code 520
+160,85250,Standard,Scottsdale,Maricopa County,Area Code 480
+161,85251,Standard,Scottsdale,Maricopa County,Area Code 480Area Code 602
+162,85252,PO Box,Scottsdale,Maricopa County,Area Code 480
+163,85253,Standard,"Paradise Valley, Paradise Vly, Scottsdale",Maricopa County,
+164,85254,Standard,Scottsdale,Maricopa County,Area Code 480
+165,85255,Standard,Scottsdale,Maricopa County,Area Code 480
+166,85256,Standard,Scottsdale,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+167,85257,Standard,Scottsdale,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+168,85258,Standard,Scottsdale,Maricopa County,Area Code 480
+169,85259,Standard,Scottsdale,Maricopa County,Area Code 480
+170,85260,Standard,Scottsdale,Maricopa County,Area Code 480
+171,85261,PO Box,Scottsdale,Maricopa County,Area Code 480
+172,85262,Standard,Scottsdale,Maricopa County,Area Code 480Area Code 602
+173,85263,Standard,"Rio Verde, Scottsdale",Maricopa County,Area Code 480
+174,85264,Standard,"Fort Mcdowell, Scottsdale",Maricopa County,Area Code 602
+175,85266,Standard,Scottsdale,Maricopa County,Area Code 480Area Code 520Area Code 602Area Code 623Area Code 928
+176,85267,PO Box,Scottsdale,Maricopa County,Area Code 480
+177,85268,Standard,"Fountain Hills, Fountain Hls, Scottsdale",Maricopa County,Area Code 480
+178,85269,PO Box,"Fountain Hills, Fountain Hls, Scottsdale",Maricopa County,Area Code 480
+179,85271,PO Box,Scottsdale,Maricopa County,Area Code 480
+180,85272,Standard,Stanfield,Pinal County,Area Code 520
+181,85273,Standard,Superior,Pinal County,
+182,85274,PO Box,Mesa,Maricopa County,Area Code 480
+183,85275,PO Box,Mesa,Maricopa County,Area Code 480
+184,85277,PO Box,Mesa,Maricopa County,Area Code 480
+185,85278,Standard,"Apache Junction, Apache Jct",Pinal County,Area Code 480
+186,85279,Standard,Florence,Pinal County,Area Code 520
+187,85280,PO Box,Tempe,Maricopa County,Area Code 480
+188,85281,Standard,Tempe,Maricopa County,Area Code 602
+189,85282,Standard,Tempe,Maricopa County,Area Code 480Area Code 602
+190,85283,Standard,"Tempe, Guadalupe",Maricopa County,Area Code 602Area Code 480
+191,85284,Standard,Tempe,Maricopa County,Area Code 480Area Code 520
+192,85285,PO Box,Tempe,Maricopa County,Area Code 480
+193,85286,Standard,Chandler,Maricopa County,Area Code 480
+194,85287,Unique,Tempe,Maricopa County,Area Code 480
+195,85288,Standard,Tempe,Maricopa County,
+196,85289,Unique,Tempe,Maricopa County,Area Code 480
+197,85290,Standard,"Apache Junction, Apache Jct, Tortilla Flat",Maricopa County,
+198,85291,PO Box,Valley Farms,Pinal County,Area Code 520
+199,85292,Standard,"Winkelman, Dudleyville",Pinal County,
+200,85293,Standard,Casa Grande,Pinal County,Area Code 520
+201,85294,Standard,Casa Grande,Pinal County,Area Code 520
+202,85295,Standard,Gilbert,Maricopa County,Area Code 480
+203,85296,Standard,Gilbert,Maricopa County,Area Code 480
+204,85297,Standard,Gilbert,Maricopa County,Area Code 480
+205,85298,Standard,Gilbert,Maricopa County,Area Code 480
+206,85299,PO Box,Gilbert,Maricopa County,Area Code 480
+207,85301,Standard,Glendale,Maricopa County,Area Code 602
+208,85302,Standard,Glendale,Maricopa County,Area Code 602Area Code 623
+209,85303,Standard,Glendale,Maricopa County,Area Code 602
+210,85304,Standard,Glendale,Maricopa County,Area Code 623
+211,85305,Standard,Glendale,Maricopa County,Area Code 623
+212,85306,Standard,Glendale,Maricopa County,Area Code 623
+213,85307,Standard,"Glendale, Luke AFB",Maricopa County,Area Code 623
+214,85308,Standard,Glendale,Maricopa County,Area Code 623
+215,85309,PO Box,"Luke Air Force Base, Gbafaf, Glendale, Luke AFB",Maricopa County,Area Code 623
+216,85310,Standard,Glendale,Maricopa County,Area Code 623Area Code 928
+217,85311,PO Box,Glendale,Maricopa County,Area Code 623
+218,85312,PO Box,Glendale,Maricopa County,Area Code 623
+219,85313,Unique,"Glendale, Arizona State Univ West",Maricopa County,Area Code 623
+220,85318,PO Box,Glendale,Maricopa County,Area Code 623
+221,85320,PO Box,Aguila,Maricopa County,
+222,85321,Standard,Ajo,Pima County,Area Code 520
+223,85322,Standard,Arlington,Maricopa County,Area Code 623
+224,85323,Standard,Avondale,Maricopa County,Area Code 623
+225,85324,Standard,"Black Canyon City, Black Cyn Cty, Rock Springs",Yavapai County,Area Code 623
+226,85325,PO Box,Bouse,La Paz County,Area Code 928
+227,85326,Standard,Buckeye,Maricopa County,Area Code 623
+228,85327,PO Box,Cave Creek,Maricopa County,Area Code 480
+229,85328,Standard,Cibola,La Paz County,Area Code 928
+230,85329,PO Box,Cashion,Maricopa County,
+231,85331,Standard,Cave Creek,Maricopa County,Area Code 602Area Code 480
+232,85332,PO Box,Congress,Yavapai County,Area Code 928
+233,85333,Standard,Dateland,Yuma County,Area Code 928
+234,85334,PO Box,Ehrenberg,La Paz County,Area Code 928
+235,85335,Standard,El Mirage,Maricopa County,Area Code 623
+236,85336,PO Box,"San Luis, Gadsden",Yuma County,Area Code 928
+237,85337,Standard,Gila Bend,Maricopa County,Area Code 928
+238,85338,Standard,Goodyear,Maricopa County,Area Code 623
+239,85339,Standard,Laveen,Maricopa County,Area Code 520
+240,85340,Standard,"Litchfield Park, Litchfield Pk",Maricopa County,Area Code 623
+241,85341,PO Box,Lukeville,Pima County,Area Code 520
+242,85342,Standard,Morristown,Maricopa County,Area Code 623
+243,85343,PO Box,Palo Verde,Maricopa County,Area Code 623
+244,85344,Standard,Parker,La Paz County,Area Code 928
+245,85345,Standard,Peoria,Maricopa County,Area Code 623
+246,85346,PO Box,Quartzsite,La Paz County,Area Code 928
+247,85347,Standard,Roll,Yuma County,Area Code 928
+248,85348,Standard,Salome,La Paz County,Area Code 928
+249,85349,PO Box,San Luis,Yuma County,Area Code 928
+250,85350,Standard,Somerton,Yuma County,Area Code 928
+251,85351,Standard,Sun City,Maricopa County,Area Code 623
+252,85352,PO Box,Tacna,Yuma County,Area Code 928
+253,85353,Standard,Tolleson,Maricopa County,Area Code 520
+254,85354,Standard,Tonopah,Maricopa County,Area Code 623Area Code 928
+255,85355,Standard,Waddell,Maricopa County,Area Code 623
+256,85356,Standard,Wellton,Yuma County,Area Code 928
+257,85357,PO Box,Wenden,La Paz County,Area Code 928
+258,85358,PO Box,Wickenburg,Maricopa County,Area Code 928
+259,85359,PO Box,Quartzsite,La Paz County,Area Code 928
+260,85360,PO Box,Wikieup,Mohave County,Area Code 928
+261,85361,Standard,Wittmann,Maricopa County,
+262,85362,PO Box,Yarnell,Yavapai County,Area Code 928
+263,85363,Standard,Youngtown,Maricopa County,Area Code 623
+264,85364,Standard,Yuma,Yuma County,Area Code 520Area Code 928
+265,85365,Standard,"Yuma, Martinez Lake, Ypg, Yuma Proving Ground",Yuma County,Area Code 520Area Code 928
+266,85366,PO Box,Yuma,Yuma County,Area Code 928
+267,85367,Standard,Yuma,Yuma County,Area Code 520Area Code 928
+268,85369,PO Box,Yuma,Yuma County,Area Code 928
+269,85371,PO Box,Poston,La Paz County,Area Code 928
+270,85372,PO Box,Sun City,Maricopa County,Area Code 623
+271,85373,Standard,Sun City,Maricopa County,Area Code 623
+272,85374,Standard,"Surprise, Sun City",Maricopa County,Area Code 623
+273,85375,Standard,"Sun City West, Sun City",Maricopa County,Area Code 623
+274,85376,PO Box,Sun City West,Maricopa County,
+275,85377,PO Box,Carefree,Maricopa County,
+276,85378,Standard,Surprise,Maricopa County,Area Code 623
+277,85379,Standard,"Surprise, Sun City",Maricopa County,Area Code 623
+278,85380,PO Box,Peoria,Maricopa County,Area Code 623
+279,85381,Standard,Peoria,Maricopa County,Area Code 623
+280,85382,Standard,Peoria,Maricopa County,Area Code 928Area Code 623
+281,85383,Standard,Peoria,Maricopa County,Area Code 928
+282,85385,PO Box,Peoria,Maricopa County,Area Code 623
+283,85387,Standard,"Surprise, Sun City, Sun City West",Maricopa County,Area Code 623
+284,85388,Standard,Surprise,Maricopa County,Area Code 623
+285,85390,Standard,Wickenburg,Maricopa County,Area Code 928
+286,85392,Standard,Avondale,Maricopa County,Area Code 623
+287,85395,Standard,Goodyear,Maricopa County,Area Code 623
+288,85396,Standard,Buckeye,Maricopa County,Area Code 623
+289,85501,Standard,Globe,Gila County,Area Code 520Area Code 928
+290,85502,PO Box,Globe,Gila County,Area Code 928
+291,85530,PO Box,Bylas,Graham County,Area Code 928
+292,85531,PO Box,Central,Graham County,Area Code 928
+293,85532,PO Box,Claypool,Gila County,Area Code 928
+294,85533,Standard,Clifton,Greenlee County,Area Code 928
+295,85534,Standard,Duncan,Greenlee County,Area Code 928
+296,85535,Standard,Eden,Graham County,Area Code 928
+297,85536,PO Box,Fort Thomas,Graham County,Area Code 928
+298,85539,Standard,Miami,Gila County,Area Code 928Area Code 520
+299,85540,Standard,Morenci,Greenlee County,Area Code 928
+300,85541,Standard,"Payson, Star Valley",Gila County,Area Code 928
+301,85542,Standard,Peridot,Gila County,Area Code 928
+302,85543,Standard,Pima,Graham County,Area Code 928
+303,85544,Standard,"Pine, Strawberry",Gila County,Area Code 928
+304,85545,Standard,Roosevelt,Gila County,Area Code 928
+305,85546,Standard,Safford,Graham County,Area Code 928
+306,85547,PO Box,Payson,Gila County,Area Code 928
+307,85548,PO Box,Safford,Graham County,Area Code 928
+308,85550,PO Box,San Carlos,Graham County,Area Code 928
+309,85551,PO Box,Solomon,Graham County,Area Code 928
+310,85552,Standard,Thatcher,Graham County,Area Code 928
+311,85553,PO Box,Tonto Basin,Gila County,Area Code 928
+312,85554,PO Box,Young,Gila County,Area Code 928
+313,85601,PO Box,Arivaca,Pima County,Area Code 520
+314,85602,Standard,"Benson, Mescal, Redington",Cochise County,Area Code 520
+315,85603,Standard,Bisbee,Cochise County,Area Code 520
+316,85605,PO Box,Bowie,Cochise County,Area Code 520
+317,85606,Standard,Cochise,Cochise County,Area Code 520
+318,85607,Standard,Douglas,Cochise County,Area Code 520
+319,85608,PO Box,Douglas,Cochise County,Area Code 520
+320,85609,PO Box,Dragoon,Cochise County,Area Code 520
+321,85610,Standard,Elfrida,Cochise County,Area Code 520
+322,85611,Standard,Elgin,Santa Cruz County,Area Code 520
+323,85613,Standard,"Fort Huachuca, Sierra Vista",Cochise County,Area Code 520
+324,85614,Standard,"Green Valley, Madera Canyon",Pima County,Area Code 520
+325,85615,Standard,Hereford,Cochise County,Area Code 520
+326,85616,Standard,Huachuca City,Cochise County,Area Code 520
+327,85617,Standard,Mc Neal,Cochise County,Area Code 520
+328,85618,PO Box,Mammoth,Pinal County,Area Code 520
+329,85619,PO Box,Mount Lemmon,Pima County,Area Code 520
+330,85620,PO Box,Naco,Cochise County,Area Code 520
+331,85621,Standard,Nogales,Santa Cruz County,Area Code 520
+332,85622,Standard,Green Valley,Pima County,Area Code 520
+333,85623,Standard,Oracle,Pinal County,Area Code 520
+334,85624,Standard,Patagonia,Santa Cruz County,Area Code 520
+335,85625,Standard,"Pearce, Sunsites",Cochise County,Area Code 520
+336,85626,PO Box,Pirtleville,Cochise County,Area Code 520
+337,85627,PO Box,Pomerene,Cochise County,Area Code 520
+338,85628,PO Box,Nogales,Santa Cruz County,Area Code 520
+339,85629,Standard,Sahuarita,Pima County,Area Code 520
+340,85630,Standard,Saint David,Cochise County,Area Code 520
+341,85631,Standard,San Manuel,Pinal County,Area Code 520
+342,85632,Standard,"San Simon, Portal",Cochise County,Area Code 520
+343,85633,PO Box,Sasabe,Pima County,Area Code 520
+344,85634,Standard,"Sells, Pisinemo",Pima County,Area Code 520
+345,85635,Standard,Sierra Vista,Cochise County,Area Code 520
+346,85636,PO Box,Sierra Vista,Cochise County,Area Code 520
+347,85637,Standard,Sonoita,Santa Cruz County,
+348,85638,Standard,Tombstone,Cochise County,Area Code 520
+349,85639,PO Box,Topawa,Pima County,Area Code 520
+350,85640,Standard,Tumacacori,Santa Cruz County,Area Code 520
+351,85641,Standard,"Vail, Corona, Corona De Tuc, Corona De Tucson,...",Pima County,Area Code 520
+352,85643,Standard,"Willcox, Ft Grant",Cochise County,Area Code 520
+353,85644,PO Box,Willcox,Cochise County,Area Code 520
+354,85645,Standard,Amado,Pima County,
+355,85646,PO Box,Tubac,Santa Cruz County,Area Code 520
+356,85648,Standard,"Rio Rico, Nogales",Santa Cruz County,Area Code 520
+357,85650,Standard,Sierra Vista,Cochise County,Area Code 520
+358,85652,PO Box,Cortaro,Pima County,Area Code 520
+359,85653,Standard,Marana,Pima County,Area Code 520
+360,85654,PO Box,Rillito,Pima County,Area Code 520
+361,85655,PO Box,Douglas,Cochise County,Area Code 520
+362,85658,Standard,Marana,Pima County,Area Code 520
+363,85662,PO Box,Nogales,Santa Cruz County,Area Code 520
+364,85670,PO Box,"Fort Huachuca, Sierra Vista",Cochise County,Area Code 520
+365,85671,PO Box,Sierra Vista,Cochise County,Area Code 520
+366,85701,Standard,Tucson,Pima County,Area Code 520Area Code 928
+367,85702,PO Box,Tucson,Pima County,Area Code 520
+368,85703,PO Box,Tucson,Pima County,Area Code 520
+369,85704,Standard,"Tucson, Oro Valley",Pima County,Area Code 520
+370,85705,Standard,Tucson,Pima County,Area Code 520
+371,85706,Standard,Tucson,Pima County,Area Code 520
+372,85707,PO Box,"Tucson, Davis Monthan AFB, Dm AFB",Pima County,Area Code 520
+373,85708,Standard,Tucson,Pima County,Area Code 520
+374,85709,Unique,Tucson,Pima County,Area Code 520
+375,85710,Standard,Tucson,Pima County,Area Code 520
+376,85711,Standard,Tucson,Pima County,Area Code 520
+377,85712,Standard,Tucson,Pima County,Area Code 520
+378,85713,Standard,"Tucson, South Tucson",Pima County,Area Code 520Area Code 928
+379,85714,Standard,Tucson,Pima County,Area Code 520
+380,85715,Standard,Tucson,Pima County,Area Code 520
+381,85716,Standard,Tucson,Pima County,Area Code 520
+382,85717,PO Box,Tucson,Pima County,Area Code 520
+383,85718,Standard,Tucson,Pima County,Area Code 520
+384,85719,Standard,Tucson,Pima County,Area Code 520Area Code 928
+385,85720,PO Box,Tucson,Pima County,Area Code 520
+386,85721,Unique,Tucson,Pima County,Area Code 520
+387,85722,PO Box,Tucson,Pima County,Area Code 520
+388,85723,Unique,Tucson,Pima County,Area Code 520
+389,85724,Unique,Tucson,Pima County,Area Code 520
+390,85725,PO Box,Tucson,Pima County,Area Code 520
+391,85726,PO Box,Tucson,Pima County,Area Code 520
+392,85728,PO Box,Tucson,Pima County,Area Code 520
+393,85730,Standard,Tucson,Pima County,Area Code 520
+394,85731,PO Box,Tucson,Pima County,Area Code 520
+395,85732,PO Box,Tucson,Pima County,Area Code 520
+396,85733,PO Box,Tucson,Pima County,Area Code 520
+397,85734,PO Box,Tucson,Pima County,Area Code 520
+398,85735,Standard,Tucson,Pima County,Area Code 520
+399,85736,Standard,Tucson,Pima County,Area Code 520
+400,85737,Standard,"Tucson, Oro Valley",Pima County,Area Code 520
+401,85738,PO Box,"Catalina, Tucson",Pima County,Area Code 520
+402,85739,Standard,"Tucson, Catalina, Saddlebrooke",Pinal County,Area Code 520
+403,85740,PO Box,Tucson,Pima County,Area Code 520
+404,85741,Standard,Tucson,Pima County,Area Code 520
+405,85742,Standard,"Tucson, Oro Valley",Pima County,Area Code 520
+406,85743,Standard,Tucson,Pima County,Area Code 520
+407,85744,Unique,Tucson,Pima County,Area Code 520
+408,85745,Standard,Tucson,Pima County,Area Code 520
+409,85746,Standard,Tucson,Pima County,Area Code 520
+410,85747,Standard,Tucson,Pima County,Area Code 520
+411,85748,Standard,Tucson,Pima County,Area Code 520
+412,85749,Standard,Tucson,Pima County,Area Code 520
+413,85750,Standard,Tucson,Pima County,Area Code 520
+414,85751,PO Box,Tucson,Pima County,Area Code 520
+415,85752,PO Box,Tucson,Pima County,Area Code 520
+416,85754,PO Box,Tucson,Pima County,Area Code 520
+417,85755,Standard,"Tucson, Oro Valley",Pima County,Area Code 520
+418,85756,Standard,Tucson,Pima County,Area Code 520
+419,85757,Standard,Tucson,Pima County,Area Code 520
+420,85775,Unique,Tucson,Pima County,Area Code 520
+421,85777,Unique,Tucson,Pima County,Area Code 520
+422,85901,Standard,Show Low,Navajo County,Area Code 928
+423,85902,PO Box,Show Low,Navajo County,Area Code 928
+424,85911,PO Box,"Cibecue, Show Low",Navajo County,Area Code 928
+425,85912,PO Box,"White Mountain Lake, White Mtn Lk",Navajo County,Area Code 928
+426,85920,Standard,Alpine,Apache County,Area Code 928
+427,85922,Standard,Blue,Greenlee County,Area Code 928
+428,85923,PO Box,Clay Springs,Navajo County,Area Code 928
+429,85924,Standard,Concho,Apache County,Area Code 928
+430,85925,Standard,Eagar,Apache County,Area Code 928
+431,85926,PO Box,Fort Apache,Navajo County,Area Code 928
+432,85927,Standard,Greer,Apache County,Area Code 928
+433,85928,Standard,Heber,Navajo County,Area Code 928
+434,85929,Standard,Lakeside,Navajo County,Area Code 928
+435,85930,PO Box,Mcnary,Apache County,Area Code 928
+436,85931,PO Box,"Forest Lakes, Heber",Coconino County,Area Code 928
+437,85932,PO Box,Nutrioso,Apache County,Area Code 928
+438,85933,PO Box,Overgaard,Navajo County,Area Code 928
+439,85934,PO Box,Pinedale,Navajo County,Area Code 928
+440,85935,Standard,"Pinetop, Pinetop Lake, Pinetop Lakeside",Navajo County,Area Code 928
+441,85936,Standard,Saint Johns,Apache County,Area Code 928
+442,85937,Standard,Snowflake,Navajo County,Area Code 928
+443,85938,Standard,Springerville,Apache County,Area Code 928
+444,85939,PO Box,Taylor,Navajo County,Area Code 928
+445,85940,PO Box,Vernon,Apache County,Area Code 928
+446,85941,PO Box,Whiteriver,Apache County,Area Code 928
+447,85942,PO Box,"Woodruff, Snowflake",Navajo County,Area Code 928
+448,86001,Standard,Flagstaff,Coconino County,Area Code 520Area Code 928
+449,86002,PO Box,Flagstaff,Coconino County,Area Code 928
+450,86003,PO Box,Flagstaff,Coconino County,Area Code 928
+451,86004,Standard,Flagstaff,Coconino County,Area Code 520Area Code 928
+452,86005,Standard,Flagstaff,Coconino County,
+453,86011,Unique,Flagstaff,Coconino County,Area Code 928
+454,86015,Standard,"Bellemont, Flagstaff",Coconino County,Area Code 928
+455,86016,PO Box,"Gray Mountain, Cameron",Coconino County,Area Code 928
+456,86017,PO Box,"Munds Park, Flagstaff",Coconino County,Area Code 928
+457,86018,PO Box,"Parks, Flagstaff, Parks Comm Po",Coconino County,Area Code 928
+458,86020,PO Box,Cameron,Coconino County,Area Code 928
+459,86021,PO Box,Colorado City,Mohave County,
+460,86022,Standard,"Fredonia, Cane Beds",Coconino County,Area Code 928
+461,86023,PO Box,Grand Canyon,Coconino County,Area Code 928
+462,86024,Standard,"Happy Jack, Flagstaff",Coconino County,Area Code 928
+463,86025,Standard,Holbrook,Navajo County,Area Code 928
+464,86028,PO Box,"Petrified Forest Natl Pk, Holbrook, Petrified For",Apache County,Area Code 928
+465,86029,PO Box,"Sun Valley, Holbrook",Navajo County,Area Code 928
+466,86030,PO Box,Hotevilla,Navajo County,Area Code 928
+467,86031,PO Box,"Indian Wells, Holbrook",Navajo County,Area Code 928
+468,86032,PO Box,Joseph City,Navajo County,Area Code 928
+469,86033,PO Box,Kayenta,Navajo County,Area Code 928
+470,86034,PO Box,Keams Canyon,Navajo County,Area Code 928
+471,86035,PO Box,Leupp,Coconino County,Area Code 928
+472,86036,Standard,Marble Canyon,Coconino County,Area Code 928
+473,86038,Standard,"Mormon Lake, Flagstaff",Coconino County,Area Code 520Area Code 928
+474,86039,PO Box,"Kykotsmovi Village, Kykotsmovi",Navajo County,Area Code 928
+475,86040,PO Box,"Page, Greenehaven",Coconino County,Area Code 928
+476,86042,PO Box,Polacca,Navajo County,Area Code 928
+477,86043,PO Box,Second Mesa,Navajo County,Area Code 928
+478,86044,Standard,Tonalea,San Juan County,Area Code 928
+479,86045,PO Box,Tuba City,Coconino County,Area Code 928
+480,86046,Standard,Williams,Coconino County,Area Code 928
+481,86047,Standard,Winslow,Navajo County,Area Code 928
+482,86052,PO Box,"North Rim, Fredonia",Coconino County,Area Code 928
+483,86053,PO Box,"Kaibeto, Tonalea",Coconino County,Area Code 928
+484,86054,PO Box,"Shonto, Tonalea",Navajo County,Area Code 928
+485,86301,Standard,Prescott,Yavapai County,Area Code 520Area Code 928
+486,86302,PO Box,Prescott,Yavapai County,Area Code 928
+487,86303,Standard,"Prescott, Groom Creek",Yavapai County,Area Code 520Area Code 928
+488,86304,PO Box,Prescott,Yavapai County,Area Code 928
+489,86305,Standard,"Prescott, Iron Springs",Yavapai County,Area Code 520Area Code 928
+490,86312,PO Box,"Prescott Valley, Prescott Vly",Yavapai County,Area Code 928
+491,86313,PO Box,Prescott,Yavapai County,Area Code 928
+492,86314,Standard,"Prescott Valley, Prescott Vly",Yavapai County,Area Code 928
+493,86315,Standard,"Prescott Valley, Prescott Vly",Yavapai County,Area Code 928
+494,86320,PO Box,Ash Fork,Yavapai County,Area Code 928
+495,86321,Standard,Bagdad,Yavapai County,Area Code 928
+496,86322,Standard,Camp Verde,Yavapai County,Area Code 928
+497,86323,Standard,Chino Valley,Yavapai County,Area Code 928
+498,86324,Standard,Clarkdale,Yavapai County,Area Code 928
+499,86325,Standard,Cornville,Yavapai County,Area Code 520Area Code 928
+500,86326,Standard,Cottonwood,Yavapai County,Area Code 520Area Code 928
+501,86327,Standard,"Dewey, Dewey Humblt, Dewey Humboldt",Yavapai County,Area Code 928
+502,86329,PO Box,"Humboldt, Dewey Humblt, Dewey Humboldt",Yavapai County,Area Code 928
+503,86330,Standard,"Prescott, Iron Springs",Yavapai County,Area Code 928
+504,86331,PO Box,Jerome,Yavapai County,Area Code 928
+505,86332,Standard,"Kirkland, Peeples Valley, Peeples Vly",Yavapai County,Area Code 928
+506,86333,Standard,"Mayer, Bensch Ranch, Cordes Lakes, Spring Valle...",Yavapai County,Area Code 928
+507,86334,Standard,Paulden,Yavapai County,Area Code 928
+508,86335,Standard,Rimrock,Yavapai County,Area Code 928
+509,86336,Standard,Sedona,Yavapai County,Area Code 928
+510,86337,PO Box,Seligman,Yavapai County,Area Code 928
+511,86338,PO Box,Skull Valley,Yavapai County,Area Code 928
+512,86339,PO Box,Sedona,Yavapai County,Area Code 928
+513,86340,PO Box,Sedona,Yavapai County,Area Code 928
+514,86341,PO Box,Sedona,Yavapai County,Area Code 928
+515,86342,PO Box,"Lake Montezuma, Lk Montezuma",Yavapai County,Area Code 928
+516,86343,PO Box,Crown King,Yavapai County,Area Code 928
+517,86351,Standard,Sedona,Yavapai County,Area Code 520Area Code 928
+518,86401,Standard,Kingman,Mohave County,Area Code 928
+519,86402,PO Box,Kingman,Mohave County,Area Code 928
+520,86403,Standard,"Lake Havasu City, Lk Havasu Cty",Mohave County,Area Code 928
+521,86404,Standard,"Lake Havasu City, Lk Havasu Cty",Mohave County,Area Code 928
+522,86405,PO Box,"Lake Havasu City, Lk Havasu Cty",Mohave County,Area Code 928
+523,86406,Standard,"Lake Havasu City, Lk Havasu Cty",Mohave County,Area Code 928
+524,86409,Standard,"Kingman, Hualapai",Mohave County,Area Code 928
+525,86411,Standard,"Hackberry, Kingman",Mohave County,Area Code 928
+526,86412,PO Box,"Hualapai, Kingman",Mohave County,Area Code 928
+527,86413,Standard,"Golden Valley, Kingman",Mohave County,Area Code 928
+528,86426,Standard,"Fort Mohave, Bullhead City",Mohave County,Area Code 928
+529,86427,PO Box,"Fort Mohave, Bullhead City",Mohave County,Area Code 928
+530,86429,Standard,Bullhead City,Mohave County,Area Code 928
+531,86430,PO Box,Bullhead City,Mohave County,Area Code 928
+532,86431,PO Box,Chloride,Mohave County,Area Code 928
+533,86432,PO Box,"Littlefield, Beaver Dam, Scenic",Mohave County,Area Code 928
+534,86433,PO Box,Oatman,Mohave County,Area Code 928
+535,86434,Standard,Peach Springs,Mohave County,Area Code 928
+536,86435,PO Box,Supai,Coconino County,Area Code 928
+537,86436,Standard,Topock,Mohave County,Area Code 928
+538,86437,Standard,"Valentine, Kingman",Mohave County,Area Code 928
+539,86438,PO Box,Yucca,Mohave County,Area Code 928
+540,86439,PO Box,Bullhead City,Mohave County,Area Code 928
+541,86440,Standard,Mohave Valley,Mohave County,Area Code 928
+542,86441,Standard,Dolan Springs,Mohave County,Area Code 928
+543,86442,Standard,Bullhead City,Mohave County,Area Code 928
+544,86443,Standard,"Temple Bar Marina, Templ Bar Mar",Mohave County,Area Code 928
+545,86444,Standard,Meadview,Mohave County,Area Code 928
+546,86445,Standard,"Willow Beach, Kingman, White Hills",Mohave County,Area Code 928
+547,86446,PO Box,"Mohave Valley, Bullhead City",Mohave County,Area Code 928
+548,86502,PO Box,Chambers,Apache County,Area Code 928
+549,86503,Standard,Chinle,Apache County,Area Code 928
+550,86504,PO Box,Fort Defiance,Apache County,Area Code 928
+551,86505,Standard,Ganado,Apache County,Area Code 928
+552,86506,PO Box,Houck,Apache County,Area Code 928
+553,86507,PO Box,"Lukachukai, Chinle",Apache County,Area Code 928
+554,86508,PO Box,"Lupton, Houck",Apache County,Area Code 928
+555,86510,PO Box,Pinon,Navajo County,Area Code 928
+556,86511,PO Box,"Saint Michaels, St Michaels",Apache County,Area Code 928
+557,86512,PO Box,Sanders,Apache County,Area Code 928
+558,86514,Standard,Teec Nos Pos,Apache County,Area Code 928
+559,86515,PO Box,Window Rock,McKinley County,Area Code 928
+560,86520,PO Box,"Blue Gap, Pinon",Apache County,Area Code 928
+561,86535,PO Box,"Dennehotso, Teec Nos Pos",Apache County,Area Code 928
+562,86538,PO Box,"Many Farms, Chinle",Apache County,Area Code 928
+563,86540,PO Box,"Nazlini, Ganado",Apache County,Area Code 928
+564,86544,PO Box,"Red Valley, Teec Nos Pos",Apache County,Area Code 928
+565,86545,PO Box,Rock Point,Apache County,Area Code 928
+566,86547,Standard,"Round Rock, Chinle",Apache County,Area Code 928
+567,86555,Standard,Douglas,Cochise County,Area Code 520
+568,86556,PO Box,"Tsaile, Chinle",Apache County,Area Code 928

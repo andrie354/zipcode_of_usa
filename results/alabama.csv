@@ -1,0 +1,840 @@
+,zipcode,type,commoncity,county,areacode
+0,35004,Standard,"Moody, Acmar",St. Clair County,Area Code 205
+1,35005,Standard,Adamsville,Jefferson County,Area Code 205
+2,35006,Standard,Adger,Jefferson County,Area Code 205
+3,35007,Standard,Alabaster,Shelby County,Area Code 205
+4,35010,Standard,"Alexander City, Alex City",Tallapoosa County,Area Code 256
+5,35011,PO Box,"Alexander City, Alex City",Tallapoosa County,Area Code 256
+6,35013,PO Box,Allgood,Blount County,Area Code 205
+7,35014,Standard,Alpine,Talladega County,Area Code 256
+8,35015,PO Box,Alton,Jefferson County,Area Code 205
+9,35016,Standard,Arab,Marshall County,Area Code 256
+10,35019,Standard,Baileyton,Cullman County,
+11,35020,Standard,"Bessemer, Brighton",Jefferson County,Area Code 205
+12,35021,PO Box,Bessemer,Jefferson County,Area Code 205
+13,35022,Standard,"Bessemer, Helena, Hoover",Jefferson County,Area Code 205
+14,35023,Standard,"Bessemer, Hueytown",Jefferson County,Area Code 205
+15,35031,Standard,Blountsville,Blount County,Area Code 205
+16,35032,PO Box,Bon Air,Talladega County,
+17,35033,Standard,Bremen,Cullman County,Area Code 256
+18,35034,Standard,Brent,Bibb County,Area Code 205
+19,35035,Standard,Brierfield,Bibb County,
+20,35036,PO Box,"Brookside, Cardiff",Jefferson County,Area Code 205
+21,35038,PO Box,Burnwell,Walker County,Area Code 205
+22,35040,Standard,Calera,Shelby County,Area Code 205
+23,35041,PO Box,Cardiff,Jefferson County,Area Code 205
+24,35042,Standard,Centreville,Bibb County,Area Code 205
+25,35043,Standard,Chelsea,Shelby County,Area Code 205
+26,35044,Standard,"Childersburg, Coosa Pines",Talladega County,Area Code 256
+27,35045,Standard,Clanton,Chilton County,Area Code 205
+28,35046,Standard,Clanton,Chilton County,Area Code 205
+29,35048,PO Box,Clay,Jefferson County,Area Code 205
+30,35049,Standard,"Cleveland, Nectar",Blount County,Area Code 205
+31,35051,Standard,Columbiana,Shelby County,Area Code 205
+32,35052,PO Box,Cook Springs,St. Clair County,
+33,35053,Standard,Crane Hill,Cullman County,Area Code 256
+34,35054,Standard,Cropwell,St. Clair County,Area Code 256Area Code 205
+35,35055,Standard,"Cullman, Dodge City, Good Hope",Cullman County,Area Code 256
+36,35056,PO Box,Cullman,Cullman County,Area Code 256
+37,35057,Standard,"Cullman, Good Hope",Cullman County,Area Code 256
+38,35058,Standard,Cullman,Cullman County,Area Code 256
+39,35060,PO Box,Docena,Jefferson County,Area Code 205
+40,35061,Standard,Dolomite,Jefferson County,Area Code 205
+41,35062,Standard,Dora,Jefferson County,Area Code 205
+42,35063,Standard,Empire,Walker County,
+43,35064,Standard,Fairfield,Jefferson County,Area Code 205
+44,35068,Standard,"Fultondale, Coalburg",Jefferson County,Area Code 205
+45,35070,PO Box,Garden City,Cullman County,Area Code 256
+46,35071,Standard,Gardendale,Jefferson County,Area Code 205
+47,35072,Standard,Goodwater,Coosa County,Area Code 256Area Code 938
+48,35073,Standard,Graysville,Jefferson County,Area Code 205
+49,35074,PO Box,Green Pond,Bibb County,Area Code 205
+50,35077,Standard,Hanceville,Cullman County,Area Code 256
+51,35078,Standard,Harpersville,Shelby County,Area Code 205
+52,35079,Standard,Hayden,Blount County,Area Code 205
+53,35080,Standard,"Helena, Hoover",Shelby County,Area Code 205
+54,35082,PO Box,"Hollins, Sylacauga",Clay County,Area Code 256
+55,35083,Standard,Holly Pond,Cullman County,Area Code 256
+56,35085,Standard,Jemison,Chilton County,Area Code 205
+57,35087,Standard,Joppa,Cullman County,
+58,35089,Standard,Kellyton,Coosa County,Area Code 256
+59,35091,Standard,Kimberly,Jefferson County,Area Code 205
+60,35094,Standard,Leeds,Jefferson County,Area Code 205
+61,35096,Standard,Lincoln,Talladega County,Area Code 205
+62,35097,Standard,Locust Fork,Blount County,Area Code 205
+63,35098,Standard,Logan,Cullman County,Area Code 256
+64,35111,Standard,"Mc Calla, Lake View",Tuscaloosa County,Area Code 205
+65,35112,PO Box,Margaret,St. Clair County,
+66,35114,Standard,"Alabaster, Maylene",Shelby County,Area Code 205
+67,35115,Standard,Montevallo,Shelby County,Area Code 205
+68,35116,Standard,Morris,Jefferson County,Area Code 205
+69,35117,Standard,Mount Olive,Jefferson County,Area Code 205
+70,35118,Standard,"Mulga, Sylvan Spgs, Sylvan Springs",Jefferson County,Area Code 205
+71,35119,PO Box,New Castle,Jefferson County,Area Code 205
+72,35120,Standard,"Odenville, Branchville",St. Clair County,Area Code 205
+73,35121,Standard,"Oneonta, Highland Lake, Rosa",Blount County,Area Code 205
+74,35123,PO Box,Palmerdale,Jefferson County,Area Code 205
+75,35124,Standard,"Pelham, Hoover, Indian Spgs, Indian Springs, Ind...",Shelby County,Area Code 205
+76,35125,Standard,Pell City,St. Clair County,Area Code 205
+77,35126,Standard,"Pinson, Dixiana",Jefferson County,Area Code 205
+78,35127,Standard,"Pleasant Grove, Pleasant Grv",Jefferson County,Area Code 205
+79,35128,Standard,Pell City,St. Clair County,Area Code 205
+80,35130,Standard,"Quinton, W Jefferson, West Jefferson",Walker County,Area Code 205
+81,35131,Standard,Ragland,St. Clair County,Area Code 205
+82,35133,Standard,Remlap,Blount County,Area Code 205
+83,35135,Standard,Riverside,St. Clair County,
+84,35136,Standard,Rockford,Coosa County,Area Code 256
+85,35137,PO Box,Saginaw,Shelby County,Area Code 205
+86,35139,PO Box,Sayre,Jefferson County,Area Code 205
+87,35142,PO Box,Shannon,Jefferson County,Area Code 205
+88,35143,Standard,Shelby,Shelby County,Area Code 205
+89,35144,PO Box,"Siluria, Alabaster",Shelby County,Area Code 205
+90,35146,Standard,Springville,St. Clair County,Area Code 205
+91,35147,Standard,"Sterrett, Westover",Shelby County,Area Code 205
+92,35148,Standard,Sumiton,Walker County,Area Code 205
+93,35149,PO Box,Sycamore,Talladega County,
+94,35150,Standard,"Sylacauga, Oak Grove, Taladga Spgs, Talladega Sprin...",Talladega County,Area Code 256
+95,35151,Standard,"Sylacauga, Childersburg, Oak Grove",Talladega County,Area Code 256
+96,35160,Standard,"Talladega, Waldo",Talladega County,Area Code 256
+97,35161,PO Box,"Talladega, Waldo",Talladega County,Area Code 256
+98,35171,Standard,Thorsby,Chilton County,Area Code 205
+99,35172,Standard,"Trafford, County Line",Blount County,
+100,35173,Standard,Trussville,Jefferson County,Area Code 205
+101,35175,Standard,Union Grove,Marshall County,Area Code 256
+102,35176,Standard,Vandiver,Shelby County,Area Code 205
+103,35178,Standard,Vincent,Shelby County,Area Code 205
+104,35179,Standard,"Vinemont, S Vinemont, South Vinemont, West Point",Cullman County,Area Code 256
+105,35180,Standard,Warrior,Jefferson County,Area Code 205
+106,35181,PO Box,Watson,Jefferson County,Area Code 205
+107,35182,PO Box,Wattsville,St Clair County,
+108,35183,Standard,Weogufka,Coosa County,
+109,35184,Standard,West Blocton,Bibb County,Area Code 205
+110,35185,PO Box,Westover,Shelby County,Area Code 205
+111,35186,Standard,Wilsonville,Shelby County,Area Code 205
+112,35187,PO Box,Wilton,Shelby County,Area Code 205
+113,35188,Standard,Woodstock,Bibb County,Area Code 205
+114,35201,PO Box,Birmingham,Jefferson County,Area Code 205
+115,35202,PO Box,Birmingham,Jefferson County,Area Code 205
+116,35203,Standard,Birmingham,Jefferson County,Area Code 205
+117,35204,Standard,Birmingham,Jefferson County,Area Code 205
+118,35205,Standard,Birmingham,Jefferson County,Area Code 205
+119,35206,Standard,Birmingham,Jefferson County,Area Code 205
+120,35207,Standard,Birmingham,Jefferson County,Area Code 205
+121,35208,Standard,Birmingham,Jefferson County,Area Code 205
+122,35209,Standard,"Birmingham, Homewood, Mountain Brk",Jefferson County,Area Code 205
+123,35210,Standard,"Birmingham, Irondale, Mountain Brk",Jefferson County,Area Code 205
+124,35211,Standard,Birmingham,Jefferson County,Area Code 205
+125,35212,Standard,Birmingham,Jefferson County,Area Code 205
+126,35213,Standard,"Birmingham, Crestline Heights, Crestline Hts, Mounta...",Jefferson County,Area Code 205
+127,35214,Standard,"Birmingham, Forestdale",Jefferson County,Area Code 205
+128,35215,Standard,"Birmingham, Center Point",Jefferson County,Area Code 205
+129,35216,Standard,"Birmingham, Hoover, Mountain Brk, Vestavia, Vestavia...",Jefferson County,Area Code 205
+130,35217,Standard,"Birmingham, Tarrant",Jefferson County,Area Code 205
+131,35218,Standard,"Birmingham, Ensley",Jefferson County,Area Code 205
+132,35219,PO Box,"Birmingham, Homewood, Mountain Brk",Jefferson County,Area Code 205
+133,35220,PO Box,"Birmingham, Center Point",Jefferson County,Area Code 205
+134,35221,Standard,Birmingham,Jefferson County,Area Code 205
+135,35222,Standard,"Birmingham, Hoover",Jefferson County,Area Code 205
+136,35223,Standard,"Birmingham, Mountain Brk, Mountain Brook, Vestavia",Jefferson County,Area Code 205
+137,35224,Standard,Birmingham,Jefferson County,Area Code 205
+138,35225,Unique,Birmingham,Jefferson County,Area Code 205
+139,35226,Standard,"Birmingham, Bluff Park, Hoover, Vestavia, Vestavia H...",Jefferson County,Area Code 205
+140,35228,Standard,"Birmingham, Midfield",Jefferson County,Area Code 205
+141,35229,Unique,Birmingham,Jefferson County,Area Code 205
+142,35230,Unique,Birmingham,Jefferson County,Area Code 205
+143,35231,PO Box,Birmingham,Jefferson County,Area Code 205
+144,35232,PO Box,Birmingham,Jefferson County,Area Code 205
+145,35233,Standard,Birmingham,Jefferson County,Area Code 205
+146,35234,Standard,Birmingham,Jefferson County,Area Code 205
+147,35235,Standard,"Birmingham, Center Point",Jefferson County,Area Code 205
+148,35236,PO Box,"Birmingham, Hoover",Jefferson County,Area Code 205
+149,35237,PO Box,Birmingham,Jefferson County,Area Code 205
+150,35238,PO Box,Birmingham,Jefferson County,Area Code 205
+151,35240,Unique,Birmingham,Jefferson County,Area Code 205
+152,35242,Standard,"Birmingham, Hoover, Meadowbrook, Shoal Creek, Vestav...",Shelby County,Area Code 205
+153,35243,Standard,"Birmingham, Cahaba Heights, Cahaba Hts, Mountain Brk...",Jefferson County,Area Code 205
+154,35244,Standard,"Birmingham, Bluff Park, Hoover",Jefferson County,Area Code 205
+155,35245,Unique,Birmingham,Jefferson County,Area Code 205
+156,35246,Unique,Birmingham,Jefferson County,Area Code 205
+157,35249,Unique,Birmingham,Jefferson County,Area Code 205
+158,35253,PO Box,"Birmingham, Mountain Brk, Mountain Brook",Jefferson County,Area Code 205
+159,35254,Unique,Birmingham,Jefferson County,Area Code 205
+160,35255,PO Box,Birmingham,Jefferson County,Area Code 205
+161,35259,PO Box,"Birmingham, Homewood, Mountain Brk",Jefferson County,Area Code 205
+162,35260,PO Box,Birmingham,Jefferson County,Area Code 205
+163,35261,PO Box,Birmingham,Jefferson County,Area Code 205
+164,35263,Unique,Birmingham,Jefferson County,Area Code 205
+165,35266,PO Box,"Birmingham, Mountain Brk, Vestavia, Vestavia Hills, ...",Jefferson County,Area Code 205
+166,35270,Unique,Birmingham,,
+167,35277,Unique,Birmingham,Jefferson County,Area Code 205
+168,35278,Unique,Birmingham,Jefferson County,Area Code 205
+169,35279,Unique,Birmingham,Jefferson County,Area Code 205
+170,35280,Unique,Birmingham,Jefferson County,Area Code 205
+171,35281,Unique,Birmingham,Jefferson County,Area Code 205
+172,35282,Unique,Birmingham,Jefferson County,Area Code 205
+173,35283,PO Box,Birmingham,Jefferson County,Area Code 205
+174,35285,Unique,Birmingham,Jefferson County,Area Code 205
+175,35286,Unique,Birmingham,Jefferson County,Area Code 205
+176,35287,Unique,Birmingham,Jefferson County,Area Code 205
+177,35288,Unique,Birmingham,Jefferson County,Area Code 205
+178,35289,Unique,Birmingham,Jefferson County,Area Code 205
+179,35290,Unique,Birmingham,Jefferson County,Area Code 205
+180,35291,Unique,Birmingham,Jefferson County,Area Code 205
+181,35292,Unique,Birmingham,Jefferson County,Area Code 205
+182,35293,Unique,Birmingham,Jefferson County,Area Code 205
+183,35294,Unique,Birmingham,Jefferson County,Area Code 205
+184,35295,Unique,Birmingham,Jefferson County,Area Code 205
+185,35296,Unique,Birmingham,Jefferson County,Area Code 205
+186,35297,Unique,Birmingham,Jefferson County,Area Code 205
+187,35298,Unique,Birmingham,Jefferson County,Area Code 205
+188,35299,Unique,Birmingham,Jefferson County,Area Code 205
+189,35401,Standard,Tuscaloosa,Tuscaloosa County,Area Code 205
+190,35402,PO Box,Tuscaloosa,Tuscaloosa County,Area Code 205
+191,35403,PO Box,Tuscaloosa,Tuscaloosa County,Area Code 205
+192,35404,Standard,Tuscaloosa,Tuscaloosa County,Area Code 205
+193,35405,Standard,Tuscaloosa,Tuscaloosa County,Area Code 205
+194,35406,Standard,Tuscaloosa,Tuscaloosa County,Area Code 205
+195,35407,PO Box,Tuscaloosa,Tuscaloosa County,Area Code 205
+196,35440,PO Box,Abernant,Tuscaloosa County,Area Code 205
+197,35441,Standard,"Akron, Stewart",Hale County,Area Code 205
+198,35442,Standard,"Aliceville, Mcmullen, Old Memphis",Pickens County,Area Code 205
+199,35443,Standard,Boligee,Greene County,Area Code 205
+200,35444,Standard,Brookwood,Tuscaloosa County,
+201,35446,Standard,Buhl,Tuscaloosa County,Area Code 205
+202,35447,Standard,"Carrollton, Pickensville",Pickens County,Area Code 205
+203,35448,PO Box,Clinton,Greene County,Area Code 205
+204,35449,PO Box,Coaling,Tuscaloosa County,Area Code 205
+205,35452,Standard,Coker,Tuscaloosa County,Area Code 205
+206,35453,Standard,"Cottondale, Coaling",Tuscaloosa County,Area Code 205
+207,35456,Standard,Duncanville,Tuscaloosa County,Area Code 205
+208,35457,Standard,Echola,Tuscaloosa County,Area Code 205
+209,35458,Standard,Elrod,Tuscaloosa County,Area Code 205
+210,35459,Standard,Emelle,Sumter County,Area Code 205
+211,35460,Standard,Epes,Sumter County,Area Code 205
+212,35461,Standard,Ethelsville,Pickens County,Area Code 205
+213,35462,Standard,"Eutaw, Union",Greene County,Area Code 205
+214,35463,Standard,Fosters,Tuscaloosa County,Area Code 205
+215,35464,Standard,Gainesville,Sumter County,Area Code 205
+216,35466,Standard,Gordo,Pickens County,Area Code 205
+217,35468,PO Box,Kellerman,Tuscaloosa County,Area Code 205
+218,35469,Standard,Knoxville,Greene County,Area Code 205
+219,35470,Standard,"Livingston, Coatopa",Sumter County,Area Code 205
+220,35471,PO Box,Mc Shan,Pickens County,Area Code 205
+221,35473,Standard,Northport,Tuscaloosa County,Area Code 205
+222,35474,Standard,"Moundville, Cypress, Havana",Hale County,Area Code 205
+223,35475,Standard,Northport,Tuscaloosa County,Area Code 205
+224,35476,Standard,Northport,Tuscaloosa County,Area Code 205
+225,35477,PO Box,Panola,Sumter County,Area Code 205
+226,35478,PO Box,Peterson,Tuscaloosa County,Area Code 205
+227,35480,Standard,Ralph,Tuscaloosa County,Area Code 205
+228,35481,Standard,Reform,Pickens County,Area Code 205
+229,35482,PO Box,Samantha,Tuscaloosa County,Area Code 205
+230,35485,PO Box,Tuscaloosa,Tuscaloosa County,Area Code 205
+231,35486,PO Box,Tuscaloosa,Tuscaloosa County,Area Code 205
+232,35487,Unique,Tuscaloosa,Tuscaloosa County,Area Code 205
+233,35490,Standard,Vance,Tuscaloosa County,Area Code 205
+234,35491,PO Box,West Greene,Greene County,Area Code 205
+235,35501,Standard,Jasper,Walker County,Area Code 205
+236,35502,PO Box,Jasper,Walker County,Area Code 205
+237,35503,Standard,Jasper,Walker County,Area Code 205
+238,35504,Standard,Jasper,Walker County,Area Code 205
+239,35540,Standard,"Addison, Arley",Winston County,Area Code 256
+240,35541,Standard,Arley,Winston County,
+241,35542,Standard,Bankston,Fayette County,Area Code 205
+242,35543,Standard,Bear Creek,Marion County,Area Code 205
+243,35544,Standard,Beaverton,Lamar County,Area Code 205
+244,35545,PO Box,Belk,Fayette County,Area Code 205
+245,35546,Standard,Berry,Fayette County,Area Code 205
+246,35548,Standard,Brilliant,Marion County,Area Code 205
+247,35549,Standard,Carbon Hill,Walker County,Area Code 205
+248,35550,Standard,Cordova,Walker County,Area Code 205
+249,35551,PO Box,Delmar,Winston County,
+250,35552,Standard,Detroit,Lamar County,Area Code 205
+251,35553,Standard,"Double Springs, Double Spgs",Winston County,Area Code 256Area Code 205
+252,35554,Standard,Eldridge,Fayette County,
+253,35555,Standard,Fayette,Fayette County,Area Code 205
+254,35559,PO Box,Glen Allen,Fayette County,Area Code 205
+255,35560,PO Box,Goodsprings,Walker County,Area Code 205
+256,35563,Standard,"Guin, Gu Win",Marion County,Area Code 205
+257,35564,Standard,Hackleburg,Marion County,Area Code 205
+258,35565,Standard,Haleyville,Winston County,Area Code 205
+259,35570,Standard,Hamilton,Marion County,Area Code 205
+260,35571,Standard,Hodges,Franklin County,
+261,35572,Standard,Houston,Winston County,Area Code 256
+262,35573,PO Box,Kansas,Walker County,Area Code 205
+263,35574,Standard,Kennedy,Lamar County,Area Code 205
+264,35575,Standard,Lynn,Winston County,Area Code 205
+265,35576,Standard,Millport,Lamar County,Area Code 205
+266,35577,PO Box,"Natural Bridge, Natural Brg",Winston County,
+267,35578,Standard,Nauvoo,Walker County,Area Code 205
+268,35579,Standard,Oakman,Walker County,Area Code 205
+269,35580,Standard,Parrish,Walker County,Area Code 205
+270,35581,Standard,Phil Campbell,Franklin County,Area Code 205
+271,35582,Standard,Red Bay,Franklin County,Area Code 256Area Code 938
+272,35584,PO Box,Sipsey,Walker County,Area Code 205
+273,35585,Standard,Spruce Pine,Franklin County,
+274,35586,Standard,Sulligent,Lamar County,Area Code 205
+275,35587,Standard,Townley,Walker County,Area Code 205
+276,35592,Standard,Vernon,Lamar County,Area Code 205
+277,35593,Standard,Vina,Franklin County,
+278,35594,Standard,Winfield,Marion County,Area Code 205
+279,35601,Standard,Decatur,Morgan County,Area Code 256
+280,35602,PO Box,Decatur,Morgan County,Area Code 256
+281,35603,Standard,Decatur,Morgan County,Area Code 256
+282,35609,PO Box,Decatur,Morgan County,Area Code 256
+283,35610,Standard,Anderson,Lauderdale County,Area Code 256
+284,35611,Standard,Athens,Limestone County,Area Code 256
+285,35612,PO Box,Athens,Limestone County,Area Code 256
+286,35613,Standard,Athens,Limestone County,Area Code 256
+287,35614,Standard,Athens,Limestone County,Area Code 256
+288,35615,PO Box,Belle Mina,Limestone County,Area Code 256
+289,35616,Standard,Cherokee,Colbert County,Area Code 256
+290,35617,PO Box,Cloverdale,Lauderdale County,Area Code 256
+291,35618,Standard,"Courtland, N Courtland, North Courtland",Lawrence County,Area Code 256
+292,35619,Standard,Danville,Morgan County,Area Code 256
+293,35620,Standard,Elkmont,Limestone County,Area Code 256
+294,35621,Standard,Eva,Morgan County,Area Code 256
+295,35622,Standard,Falkville,Morgan County,Area Code 256
+296,35630,Standard,"Florence, Saint Florian",Lauderdale County,Area Code 256
+297,35631,PO Box,Florence,Lauderdale County,Area Code 256
+298,35632,Unique,Florence,Lauderdale County,Area Code 256
+299,35633,Standard,Florence,Lauderdale County,Area Code 256
+300,35634,Standard,Florence,Lauderdale County,Area Code 256
+301,35640,Standard,Hartselle,Morgan County,Area Code 256
+302,35643,Standard,Hillsboro,Lawrence County,Area Code 256
+303,35645,Standard,Killen,Lauderdale County,Area Code 256
+304,35646,Standard,Leighton,Colbert County,Area Code 256
+305,35647,Standard,Lester,Limestone County,Area Code 256
+306,35648,Standard,Lexington,Lauderdale County,Area Code 256
+307,35649,PO Box,Mooresville,Limestone County,Area Code 256
+308,35650,Standard,Moulton,Lawrence County,Area Code 256
+309,35651,Standard,Mount Hope,Lawrence County,Area Code 256
+310,35652,Standard,Rogersville,Lauderdale County,Area Code 256
+311,35653,Standard,"Russellville, Littleville",Franklin County,Area Code 256
+312,35654,Standard,Russellville,Franklin County,Area Code 256
+313,35660,Standard,Sheffield,Colbert County,Area Code 256
+314,35661,Standard,Muscle Shoals,Colbert County,Area Code 256
+315,35662,PO Box,Muscle Shoals,Colbert County,Area Code 256
+316,35670,Standard,Somerville,Morgan County,Area Code 256
+317,35671,Standard,Tanner,Limestone County,Area Code 256
+318,35672,Standard,Town Creek,Lawrence County,Area Code 256
+319,35673,Standard,Trinity,Morgan County,
+320,35674,Standard,Tuscumbia,Colbert County,Area Code 256
+321,35677,Standard,Waterloo,Lauderdale County,Area Code 256
+322,35699,Unique,Decatur,Morgan County,Area Code 256
+323,35739,Standard,Ardmore,Limestone County,Area Code 256
+324,35740,Standard,Bridgeport,Jackson County,Area Code 256
+325,35741,Standard,Brownsboro,Madison County,Area Code 256
+326,35742,PO Box,Capshaw,Limestone County,Area Code 256
+327,35744,Standard,Dutton,Jackson County,Area Code 256
+328,35745,Standard,Estillfork,Jackson County,Area Code 256
+329,35746,Standard,Fackler,Jackson County,Area Code 256
+330,35747,Standard,Grant,Marshall County,Area Code 256
+331,35748,Standard,Gurley,Madison County,Area Code 256
+332,35749,Standard,Harvest,Madison County,
+333,35750,Standard,Hazel Green,Madison County,Area Code 256
+334,35751,Standard,Hollytree,Jackson County,Area Code 256
+335,35752,Standard,Hollywood,Jackson County,Area Code 256
+336,35754,Standard,Laceys Spring,Morgan County,Area Code 256
+337,35755,Standard,Langston,Marshall County,
+338,35756,Standard,Madison,Limestone County,Area Code 256
+339,35757,Standard,Madison,Madison County,Area Code 256
+340,35758,Standard,"Madison, Triana",Madison County,Area Code 256
+341,35759,Standard,Meridianville,Madison County,Area Code 256
+342,35760,Standard,New Hope,Madison County,Area Code 256
+343,35761,Standard,New Market,Madison County,Area Code 256
+344,35762,PO Box,Normal,Madison County,Area Code 256
+345,35763,Standard,"Owens Cross Roads, Big Cove, Hampton Cove, Owens X Rds",Madison County,Area Code 256
+346,35764,Standard,Paint Rock,Jackson County,Area Code 256
+347,35765,Standard,Pisgah,Jackson County,Area Code 256
+348,35766,Standard,Princeton,Jackson County,Area Code 256
+349,35767,PO Box,Ryland,Madison County,Area Code 256
+350,35768,Standard,"Scottsboro, Hytop",Jackson County,Area Code 256
+351,35769,Standard,Scottsboro,Jackson County,Area Code 256
+352,35771,Standard,Section,Jackson County,Area Code 256
+353,35772,Standard,Stevenson,Jackson County,Area Code 256
+354,35773,Standard,Toney,Madison County,
+355,35774,Standard,Trenton,Jackson County,Area Code 256
+356,35775,Standard,"Valhermoso Springs, Valhermoso Sp, Valhermoso Spg, Vlhrmoso ...",Morgan County,Area Code 256
+357,35776,Standard,Woodville,Jackson County,
+358,35801,Standard,Huntsville,Madison County,Area Code 256
+359,35802,Standard,Huntsville,Madison County,Area Code 256
+360,35803,Standard,Huntsville,Madison County,Area Code 256
+361,35804,PO Box,Huntsville,Madison County,Area Code 256
+362,35805,Standard,Huntsville,Madison County,Area Code 256
+363,35806,Standard,Huntsville,Madison County,Area Code 256
+364,35807,PO Box,Huntsville,Madison County,Area Code 256
+365,35808,Standard,Huntsville,Madison County,Area Code 256
+366,35809,PO Box,Huntsville,Madison County,Area Code 256
+367,35810,Standard,Huntsville,Madison County,Area Code 256
+368,35811,Standard,Huntsville,Madison County,Area Code 256
+369,35812,PO Box,Huntsville,Madison County,Area Code 256
+370,35813,Standard,Huntsville,Madison County,Area Code 256
+371,35814,PO Box,Huntsville,Madison County,Area Code 256
+372,35815,PO Box,Huntsville,Madison County,Area Code 256
+373,35816,Standard,Huntsville,Madison County,Area Code 256
+374,35824,Standard,Huntsville,Madison County,Area Code 256
+375,35893,Unique,Huntsville,Madison County,Area Code 256
+376,35894,Unique,Huntsville,Madison County,Area Code 256
+377,35895,Unique,Huntsville,Madison County,Area Code 256
+378,35896,Unique,Huntsville,Madison County,Area Code 256
+379,35897,Unique,Huntsville,Madison County,Area Code 256
+380,35898,Unique,"Huntsville, Redstn Arsnl, Redstone Arsenal",Madison County,Area Code 256
+381,35899,Unique,Huntsville,Madison County,Area Code 256
+382,35901,Standard,Gadsden,Etowah County,Area Code 256
+383,35902,PO Box,Gadsden,Etowah County,Area Code 256
+384,35903,Standard,"Gadsden, East Gadsden, Hokes Bluff",Etowah County,Area Code 256
+385,35904,Standard,Gadsden,Etowah County,Area Code 256
+386,35905,Standard,"Gadsden, Glencoe",Etowah County,Area Code 256
+387,35906,Standard,"Rainbow City, Gadsden",Etowah County,Area Code 256
+388,35907,Standard,"Gadsden, Southside",Etowah County,Area Code 256
+389,35950,Standard,Albertville,Marshall County,Area Code 256
+390,35951,Standard,Albertville,Marshall County,Area Code 256
+391,35952,Standard,"Altoona, Snead, Susan Moore",Etowah County,Area Code 205
+392,35953,Standard,Ashville,St. Clair County,Area Code 205
+393,35954,Standard,Attalla,Etowah County,Area Code 256
+394,35956,Standard,"Boaz, Sardis City",Etowah County,Area Code 256
+395,35957,Standard,"Boaz, Sardis City",Marshall County,Area Code 256
+396,35958,Standard,Bryant,Jackson County,Area Code 256
+397,35959,Standard,Cedar Bluff,Cherokee County,Area Code 256
+398,35960,Standard,Centre,Cherokee County,Area Code 256
+399,35961,Standard,Collinsville,DeKalb County,Area Code 256
+400,35962,Standard,Crossville,DeKalb County,Area Code 256
+401,35963,Standard,Dawson,DeKalb County,Area Code 256
+402,35964,PO Box,Douglas,Marshall County,Area Code 256
+403,35966,Standard,Flat Rock,Jackson County,Area Code 256
+404,35967,Standard,Fort Payne,DeKalb County,Area Code 256
+405,35968,Standard,"Fort Payne, Pine Ridge",DeKalb County,Area Code 256
+406,35971,Standard,"Fyffe, Lakeview",DeKalb County,Area Code 256
+407,35972,Standard,Gallant,Etowah County,Area Code 205
+408,35973,Standard,Gaylesville,Cherokee County,Area Code 256
+409,35974,Standard,Geraldine,DeKalb County,Area Code 256
+410,35975,Standard,Groveoak,DeKalb County,Area Code 256
+411,35976,Standard,Guntersville,Marshall County,Area Code 256
+412,35978,Standard,Henagar,DeKalb County,Area Code 256
+413,35979,Standard,Higdon,DeKalb County,Area Code 256
+414,35980,Standard,Horton,Marshall County,Area Code 205
+415,35981,Standard,Ider,DeKalb County,Area Code 256
+416,35983,Standard,"Leesburg, Sand Rock, Sandrock",Cherokee County,Area Code 256
+417,35984,Standard,Mentone,DeKalb County,Area Code 256
+418,35986,Standard,"Rainsville, Powell, Shiloh",DeKalb County,Area Code 256
+419,35987,Standard,Steele,St. Clair County,Area Code 205
+420,35988,Standard,Sylvania,DeKalb County,Area Code 256
+421,35989,Standard,"Valley Head, Hammondville",DeKalb County,Area Code 256
+422,35990,PO Box,Walnut Grove,Etowah County,
+423,36003,Standard,Autaugaville,Autauga County,Area Code 334
+424,36005,Standard,Banks,Pike County,Area Code 334
+425,36006,Standard,Billingsley,Autauga County,
+426,36008,Standard,Booth,Autauga County,Area Code 334
+427,36009,Standard,Brantley,Crenshaw County,Area Code 334
+428,36010,Standard,Brundidge,Pike County,Area Code 334
+429,36013,Standard,Cecil,Montgomery County,Area Code 334
+430,36015,PO Box,Chapman,Butler County,Area Code 334
+431,36016,Standard,Clayton,Barbour County,Area Code 334
+432,36017,Standard,Clio,Barbour County,Area Code 334
+433,36020,Standard,Coosada,Elmore County,Area Code 334
+434,36022,Standard,Deatsville,Elmore County,Area Code 334
+435,36023,PO Box,"East Tallassee, E Tallassee, Tallassee",Tallapoosa County,
+436,36024,Standard,Eclectic,Elmore County,Area Code 334
+437,36025,Standard,Elmore,Elmore County,Area Code 334
+438,36026,Standard,Equality,Coosa County,Area Code 334
+439,36027,Standard,"Eufaula, Bakerhill",Barbour County,Area Code 334
+440,36028,Standard,Dozier,Covington County,Area Code 334
+441,36029,Standard,Fitzpatrick,Bullock County,Area Code 334
+442,36030,Standard,Forest Home,Butler County,Area Code 334
+443,36031,PO Box,Fort Davis,Macon County,Area Code 334
+444,36032,Standard,Fort Deposit,Lowndes County,Area Code 334
+445,36033,Standard,Georgiana,Butler County,Area Code 334
+446,36034,Standard,Glenwood,Pike County,
+447,36035,Standard,Goshen,Pike County,Area Code 334
+448,36036,Standard,Grady,Montgomery County,Area Code 334
+449,36037,Standard,Greenville,Butler County,Area Code 334
+450,36038,PO Box,Gantt,Covington County,Area Code 334
+451,36039,Standard,Hardaway,Macon County,Area Code 334
+452,36040,Standard,"Hayneville, Gordonville, White Hall",Lowndes County,Area Code 334
+453,36041,Standard,Highland Home,Crenshaw County,Area Code 334
+454,36042,Standard,Honoraville,Crenshaw County,Area Code 334
+455,36043,Standard,Hope Hull,Montgomery County,
+456,36045,PO Box,"Kent, Tallassee",Elmore County,Area Code 334
+457,36046,Standard,Lapine,Crenshaw County,
+458,36047,Standard,Letohatchee,Lowndes County,Area Code 334
+459,36048,Standard,Louisville,Barbour County,Area Code 334
+460,36049,Standard,Luverne,Crenshaw County,Area Code 334
+461,36051,Standard,Marbury,Autauga County,
+462,36052,Standard,Mathews,Montgomery County,Area Code 334
+463,36053,Standard,Midway,Bullock County,Area Code 334
+464,36054,Standard,Millbrook,Elmore County,Area Code 334
+465,36057,PO Box,Mount Meigs,Montgomery County,Area Code 334
+466,36061,PO Box,"Perote, Banks",Bullock County,Area Code 334
+467,36062,PO Box,Petrey,Crenshaw County,Area Code 334
+468,36064,Standard,Pike Road,Montgomery County,Area Code 334
+469,36065,PO Box,Pine Level,Montgomery County,Area Code 334
+470,36066,Standard,Prattville,Autauga County,Area Code 334
+471,36067,Standard,Prattville,Autauga County,Area Code 334
+472,36068,PO Box,Prattville,Autauga County,Area Code 334
+473,36069,Standard,Ramer,Montgomery County,Area Code 334
+474,36071,Standard,Rutledge,Crenshaw County,Area Code 334
+475,36072,PO Box,Eufaula,Barbour County,Area Code 334
+476,36075,Standard,Shorter,Macon County,Area Code 334
+477,36078,Standard,Tallassee,Elmore County,Area Code 334
+478,36079,Standard,Troy,Pike County,Area Code 334
+479,36080,Standard,Titus,Elmore County,Area Code 334
+480,36081,Standard,Troy,Pike County,Area Code 334
+481,36082,Unique,Troy,Pike County,Area Code 334
+482,36083,Standard,Tuskegee,Macon County,Area Code 334
+483,36087,PO Box,"Tuskegee Institute, Tuskegee Inst",Macon County,Area Code 334
+484,36088,Standard,"Tuskegee Institute, Tuskegee Inst",Macon County,Area Code 334
+485,36089,Standard,Union Springs,Bullock County,Area Code 334
+486,36091,Standard,Verbena,Chilton County,
+487,36092,Standard,Wetumpka,Elmore County,Area Code 334
+488,36093,Standard,Wetumpka,Elmore County,Area Code 334
+489,36101,PO Box,Montgomery,Montgomery County,Area Code 334
+490,36102,PO Box,Montgomery,Montgomery County,Area Code 334
+491,36103,PO Box,Montgomery,Montgomery County,Area Code 334
+492,36104,Standard,Montgomery,Montgomery County,Area Code 334
+493,36105,Standard,Montgomery,Montgomery County,Area Code 334
+494,36106,Standard,Montgomery,Montgomery County,Area Code 334
+495,36107,Standard,Montgomery,Montgomery County,Area Code 334
+496,36108,Standard,Montgomery,Montgomery County,Area Code 334
+497,36109,Standard,Montgomery,Montgomery County,Area Code 334
+498,36110,Standard,Montgomery,Montgomery County,Area Code 334
+499,36111,Standard,Montgomery,Montgomery County,Area Code 334
+500,36112,Standard,"Montgomery, Maxwell AFB",Montgomery County,Area Code 334
+501,36113,Standard,"Montgomery, Maxwell AFB",Montgomery County,Area Code 334
+502,36114,Standard,"Montgomery, Mafb Gun Annx, Maxwell AFB Gunter Annex",Montgomery County,Area Code 334
+503,36115,Standard,Montgomery,Montgomery County,Area Code 334
+504,36116,Standard,Montgomery,Montgomery County,Area Code 334
+505,36117,Standard,Montgomery,Montgomery County,Area Code 334
+506,36118,Unique,Montgomery,Montgomery County,Area Code 334
+507,36119,Standard,Montgomery,Montgomery County,Area Code 334
+508,36120,PO Box,Montgomery,Montgomery County,Area Code 334
+509,36121,PO Box,Montgomery,Montgomery County,Area Code 334
+510,36123,PO Box,Montgomery,Montgomery County,Area Code 334
+511,36124,PO Box,Montgomery,Montgomery County,Area Code 334
+512,36125,PO Box,Montgomery,Montgomery County,Area Code 334
+513,36130,Unique,Montgomery,Montgomery County,Area Code 334
+514,36131,Unique,Montgomery,Montgomery County,Area Code 334
+515,36132,Unique,Montgomery,Montgomery County,Area Code 334
+516,36133,Unique,Montgomery,Montgomery County,Area Code 334
+517,36134,Unique,Montgomery,Montgomery County,Area Code 334
+518,36135,Unique,Montgomery,Montgomery County,Area Code 334
+519,36140,Unique,Montgomery,Montgomery County,Area Code 334
+520,36141,Unique,Montgomery,Montgomery County,Area Code 334
+521,36142,Unique,Montgomery,Montgomery County,Area Code 334
+522,36177,Unique,Montgomery,Montgomery County,Area Code 334
+523,36191,Unique,Montgomery,Montgomery County,Area Code 334
+524,36201,Standard,"Anniston, Hobson City",Calhoun County,Area Code 256
+525,36202,PO Box,Anniston,Calhoun County,Area Code 256
+526,36203,Standard,"Oxford, Anniston, Hobson City",Calhoun County,Area Code 256
+527,36204,PO Box,"Anniston, Blue Mountain",Calhoun County,Area Code 256
+528,36205,Standard,"Anniston, Fort Mc Clellan, Ft Mcclellan",Calhoun County,Area Code 256
+529,36206,Standard,Anniston,Calhoun County,Area Code 256
+530,36207,Standard,Anniston,Calhoun County,Area Code 256
+531,36210,PO Box,Anniston,Calhoun County,Area Code 256
+532,36250,Standard,Alexandria,Calhoun County,Area Code 256
+533,36251,Standard,Ashland,Clay County,Area Code 256
+534,36253,PO Box,Bynum,Calhoun County,Area Code 256
+535,36254,PO Box,Choccolocco,Calhoun County,Area Code 256
+536,36255,Standard,Cragford,Clay County,Area Code 256
+537,36256,Standard,"Daviston, New Site",Tallapoosa County,
+538,36257,PO Box,De Armanville,Calhoun County,Area Code 256
+539,36258,Standard,Delta,Clay County,Area Code 256
+540,36260,Standard,Eastaboga,Calhoun County,
+541,36261,PO Box,Edwardsville,Cleburne County,Area Code 256
+542,36262,Standard,Fruithurst,Cleburne County,Area Code 256
+543,36263,Standard,Graham,Randolph County,Area Code 256
+544,36264,Standard,Heflin,Cleburne County,Area Code 256
+545,36265,Standard,Jacksonville,Calhoun County,Area Code 256
+546,36266,Standard,Lineville,Clay County,Area Code 256
+547,36267,PO Box,Millerville,Clay County,Area Code 256
+548,36268,Standard,Munford,Talladega County,Area Code 256
+549,36269,Standard,Muscadine,Cleburne County,Area Code 256
+550,36271,Standard,Ohatchee,Calhoun County,Area Code 256
+551,36272,Standard,"Piedmont, Borden Springs, Brdn Sprngs",Calhoun County,Area Code 256
+552,36273,Standard,Ranburne,Cleburne County,Area Code 256
+553,36274,Standard,Roanoke,Randolph County,Area Code 334
+554,36275,PO Box,Spring Garden,Cherokee County,Area Code 256
+555,36276,Standard,Wadley,Randolph County,Area Code 256
+556,36277,Standard,Weaver,Calhoun County,Area Code 256
+557,36278,Standard,Wedowee,Randolph County,Area Code 256
+558,36279,Standard,Wellington,Calhoun County,Area Code 256
+559,36280,Standard,"Woodland, Newell",Randolph County,Area Code 256
+560,36301,Standard,"Dothan, Rehobeth, Taylor",Houston County,Area Code 334
+561,36302,PO Box,Dothan,Houston County,Area Code 334
+562,36303,Standard,"Dothan, Kinsey",Houston County,Area Code 334
+563,36304,PO Box,Dothan,Houston County,Area Code 334
+564,36305,Standard,"Dothan, Taylor",Houston County,Area Code 334
+565,36310,Standard,Abbeville,Henry County,Area Code 334
+566,36311,Standard,Ariton,Dale County,Area Code 334
+567,36312,Standard,"Ashford, Avon",Houston County,Area Code 334
+568,36313,PO Box,Bellwood,Geneva County,Area Code 334
+569,36314,Standard,Black,Geneva County,Area Code 334
+570,36316,Standard,Chancellor,Geneva County,Area Code 334
+571,36317,Standard,Clopton,Henry County,Area Code 334
+572,36318,Standard,"Coffee Springs, Coffee Spgs",Geneva County,Area Code 334
+573,36319,Standard,Columbia,Houston County,Area Code 334
+574,36320,Standard,Cottonwood,Houston County,Area Code 334
+575,36321,Standard,Cowarts,Houston County,Area Code 334
+576,36322,Standard,"Daleville, Level Plains",Dale County,Area Code 334
+577,36323,Standard,Elba,Coffee County,Area Code 334
+578,36330,Standard,Enterprise,Coffee County,Area Code 334
+579,36331,PO Box,Enterprise,Coffee County,Area Code 334
+580,36340,Standard,Geneva,Geneva County,Area Code 334
+581,36343,Standard,Gordon,Houston County,Area Code 334
+582,36344,Standard,Hartford,Geneva County,Area Code 334
+583,36345,Standard,Headland,Henry County,Area Code 334
+584,36346,Standard,Jack,Coffee County,Area Code 334
+585,36349,PO Box,Malvern,Geneva County,Area Code 334
+586,36350,Standard,Midland City,Dale County,Area Code 334
+587,36351,Standard,New Brockton,Coffee County,Area Code 334
+588,36352,Standard,Newton,Houston County,Area Code 334
+589,36353,Standard,Newville,Henry County,Area Code 334
+590,36360,Standard,Ozark,Dale County,Area Code 334
+591,36361,PO Box,Ozark,Dale County,Area Code 334
+592,36362,Standard,Fort Rucker,Dale County,Area Code 334
+593,36370,Standard,Pansey,Houston County,Area Code 334
+594,36371,PO Box,Pinckard,Dale County,Area Code 334
+595,36373,Standard,Shorterville,Henry County,Area Code 334
+596,36374,Standard,Skipperville,Dale County,Area Code 334
+597,36375,Standard,Slocomb,Geneva County,Area Code 334
+598,36376,Standard,Webb,Houston County,Area Code 334
+599,36401,Standard,Evergreen,Conecuh County,Area Code 251
+600,36420,Standard,"Andalusia, Babbie, Carolina, Heath, Sanford",Covington County,Area Code 334
+601,36421,Standard,Andalusia,Covington County,Area Code 334
+602,36425,Standard,Beatrice,Monroe County,Area Code 251
+603,36426,Standard,"Brewton, East Brewton",Escambia County,Area Code 251
+604,36427,PO Box,Brewton,Escambia County,Area Code 251
+605,36429,PO Box,Brooklyn,Conecuh County,Area Code 251
+606,36432,Standard,Castleberry,Conecuh County,Area Code 251
+607,36435,Standard,Coy,Wilcox County,
+608,36436,Standard,Dickinson,Clarke County,Area Code 251
+609,36439,PO Box,Excel,Monroe County,
+610,36441,Standard,Flomaton,Escambia County,Area Code 251
+611,36442,Standard,Florala,Covington County,Area Code 334
+612,36444,Standard,Franklin,Monroe County,Area Code 251
+613,36445,Standard,Frisco City,Monroe County,Area Code 251
+614,36446,PO Box,Fulton,Clarke County,
+615,36449,PO Box,Uriah,Monroe County,
+616,36451,Standard,"Grove Hill, Allen",Clarke County,Area Code 251
+617,36453,Standard,Kinston,Covington County,Area Code 334
+618,36454,Standard,Lenox,Conecuh County,Area Code 251
+619,36455,PO Box,Lockhart,Covington County,Area Code 334
+620,36456,Standard,"Mc Kenzie, Mckenzie",Butler County,Area Code 334
+621,36457,PO Box,Megargel,Monroe County,
+622,36458,PO Box,Mexia,Monroe County,
+623,36460,Standard,Monroeville,Monroe County,Area Code 251
+624,36461,PO Box,Monroeville,Monroe County,Area Code 251
+625,36462,Unique,Monroeville,Monroe County,Area Code 251
+626,36467,Standard,"Opp, Horn Hill, Onycha",Covington County,Area Code 334
+627,36470,PO Box,Perdue Hill,Monroe County,
+628,36471,Standard,Peterman,Monroe County,Area Code 251
+629,36473,Standard,Range,Conecuh County,Area Code 251
+630,36474,Standard,Red Level,Covington County,Area Code 334
+631,36475,Standard,Repton,Conecuh County,Area Code 251
+632,36476,PO Box,River Falls,Covington County,Area Code 334
+633,36477,Standard,Samson,Geneva County,Area Code 334
+634,36480,Standard,Uriah,Monroe County,Area Code 251
+635,36481,Standard,Vredenburgh,Monroe County,Area Code 334
+636,36482,Standard,Whatley,Clarke County,Area Code 251
+637,36483,Standard,Wing,Covington County,Area Code 334
+638,36501,Standard,"Jackson, Alma, Gainestown",Clarke County,
+639,36502,Standard,"Atmore, Mc Cullough, Mccullough",Escambia County,Area Code 251
+640,36503,PO Box,Atmore,Escambia County,Area Code 251
+641,36504,PO Box,Atmore,Escambia County,Area Code 251
+642,36505,Standard,Axis,Mobile County,Area Code 251
+643,36507,Standard,Bay Minette,Baldwin County,Area Code 251
+644,36509,Standard,"Bayou La Batre, Bayou Labatre",Mobile County,Area Code 251
+645,36511,Standard,Bon Secour,Baldwin County,Area Code 251
+646,36512,PO Box,Bucks,Mobile County,Area Code 251
+647,36513,PO Box,Calvert,Washington County,Area Code 251
+648,36515,Standard,Carlton,Clarke County,Area Code 251
+649,36518,Standard,Chatom,Washington County,Area Code 251
+650,36521,Standard,Chunchula,Mobile County,Area Code 251
+651,36522,Standard,Citronelle,Mobile County,Area Code 251
+652,36523,Standard,Coden,Mobile County,Area Code 251
+653,36524,Standard,Coffeeville,Clarke County,Area Code 251
+654,36525,Standard,Creola,Mobile County,Area Code 251
+655,36526,Standard,Daphne,Baldwin County,Area Code 251
+656,36527,Standard,"Daphne, Spanish Fort",Baldwin County,Area Code 251
+657,36528,Standard,"Dauphin Island, Dauphin Isl",Mobile County,Area Code 251
+658,36529,Standard,Deer Park,Washington County,Area Code 251
+659,36530,Standard,"Elberta, Perdido Beach",Baldwin County,Area Code 251
+660,36532,Standard,Fairhope,Baldwin County,Area Code 251
+661,36533,PO Box,Fairhope,Baldwin County,Area Code 251
+662,36535,Standard,Foley,Baldwin County,Area Code 251
+663,36536,PO Box,Foley,Baldwin County,Area Code 251
+664,36538,Standard,Frankville,Washington County,Area Code 251
+665,36539,Standard,Fruitdale,Washington County,Area Code 251
+666,36540,Standard,Gainestown,Clarke County,
+667,36541,Standard,Grand Bay,Mobile County,Area Code 251
+668,36542,Standard,Gulf Shores,Baldwin County,Area Code 251
+669,36543,PO Box,Huxford,Escambia County,
+670,36544,Standard,Irvington,Mobile County,Area Code 251
+671,36545,Standard,"Jackson, Salipta, Walker Spgs, Walker Springs",Clarke County,Area Code 251
+672,36547,PO Box,Gulf Shores,Baldwin County,Area Code 251
+673,36548,Standard,Leroy,Washington County,Area Code 251
+674,36549,Standard,Lillian,Baldwin County,Area Code 251
+675,36550,Standard,Little River,Baldwin County,Area Code 251
+676,36551,Standard,Loxley,Baldwin County,Area Code 251
+677,36553,Standard,Mc Intosh,Washington County,Area Code 251
+678,36555,Standard,"Magnolia Springs, Magnolia Spgs",Baldwin County,Area Code 251
+679,36556,PO Box,Malcolm,Washington County,Area Code 251
+680,36558,Standard,"Millry, Bigbee",Washington County,Area Code 251
+681,36559,PO Box,Montrose,Baldwin County,Area Code 251
+682,36560,Standard,Mount Vernon,Mobile County,Area Code 251
+683,36561,Standard,Orange Beach,Baldwin County,Area Code 251
+684,36562,Standard,Perdido,Baldwin County,Area Code 251
+685,36564,PO Box,Point Clear,Baldwin County,Area Code 251
+686,36567,Standard,Robertsdale,Baldwin County,Area Code 251
+687,36568,PO Box,Saint Elmo,Mobile County,Area Code 251
+688,36569,Standard,"Saint Stephens, St Stephens",Washington County,Area Code 251
+689,36571,Standard,Saraland,Mobile County,Area Code 251
+690,36572,Standard,Satsuma,Mobile County,Area Code 251
+691,36574,Standard,"Seminole, Robertsdale",Baldwin County,Area Code 251
+692,36575,Standard,Semmes,Mobile County,Area Code 251
+693,36576,Standard,Silverhill,Baldwin County,Area Code 251
+694,36577,PO Box,Spanish Fort,Baldwin County,Area Code 251
+695,36578,Standard,Stapleton,Baldwin County,Area Code 251
+696,36579,Standard,Stockton,Baldwin County,Area Code 251
+697,36580,Standard,Summerdale,Baldwin County,Area Code 251
+698,36581,Standard,Sunflower,Washington County,Area Code 251
+699,36582,Standard,"Theodore, Saltaire",Mobile County,Area Code 251
+700,36583,Standard,Tibbie,Washington County,Area Code 251
+701,36584,Standard,Vinegar Bend,Washington County,Area Code 251
+702,36585,Standard,Wagarville,Washington County,Area Code 251
+703,36587,Standard,Wilmer,Mobile County,Area Code 251
+704,36590,PO Box,Theodore,Mobile County,Area Code 251
+705,36601,PO Box,Mobile,Mobile County,Area Code 251
+706,36602,Standard,Mobile,Mobile County,Area Code 251
+707,36603,Standard,Mobile,Mobile County,Area Code 251
+708,36604,Standard,Mobile,Mobile County,Area Code 251
+709,36605,Standard,Mobile,Mobile County,Area Code 251
+710,36606,Standard,Mobile,Mobile County,Area Code 251
+711,36607,Standard,Mobile,Mobile County,Area Code 251
+712,36608,Standard,Mobile,Mobile County,Area Code 251
+713,36609,Standard,Mobile,Mobile County,Area Code 251
+714,36610,Standard,"Mobile, Magazine, Prichard",Mobile County,Area Code 251
+715,36611,Standard,"Mobile, Chickasaw",Mobile County,Area Code 251
+716,36612,Standard,"Mobile, Whistler",Mobile County,Area Code 251
+717,36613,Standard,"Eight Mile, Mobile, Prichard",Mobile County,Area Code 251
+718,36615,Standard,"Mobile, Brookley Field, Brookley Fld",Mobile County,Area Code 251
+719,36616,PO Box,Mobile,Mobile County,Area Code 251
+720,36617,Standard,"Mobile, Prichard",Mobile County,Area Code 251
+721,36618,Standard,Mobile,Mobile County,Area Code 251
+722,36619,Standard,Mobile,Mobile County,Area Code 251
+723,36621,Unique,Mobile,Mobile County,Area Code 251
+724,36622,Unique,Mobile,Mobile County,Area Code 251
+725,36625,Unique,Mobile,Mobile County,Area Code 251
+726,36628,Unique,Mobile,Mobile County,Area Code 251
+727,36630,Unique,Mobile,Mobile County,Area Code 251
+728,36633,PO Box,Mobile,Mobile County,Area Code 251
+729,36640,PO Box,Mobile,Mobile County,Area Code 251
+730,36641,PO Box,Mobile,Mobile County,Area Code 251
+731,36644,Unique,Mobile,Mobile County,Area Code 251
+732,36652,PO Box,Mobile,Mobile County,Area Code 251
+733,36660,PO Box,Mobile,Mobile County,Area Code 251
+734,36663,PO Box,Mobile,Mobile County,Area Code 251
+735,36670,PO Box,Mobile,Mobile County,Area Code 251
+736,36671,PO Box,Mobile,Mobile County,Area Code 251
+737,36675,Unique,Mobile,Mobile County,Area Code 251
+738,36685,PO Box,Mobile,Mobile County,Area Code 251
+739,36688,Unique,Mobile,Mobile County,Area Code 251
+740,36689,PO Box,Mobile,Mobile County,Area Code 251
+741,36690,Unique,Mobile,Mobile County,Area Code 251
+742,36691,PO Box,Mobile,Mobile County,Area Code 251
+743,36693,Standard,Mobile,Mobile County,Area Code 251
+744,36695,Standard,Mobile,Mobile County,Area Code 251
+745,36701,Standard,"Selma, Valley Grande",Dallas County,Area Code 334
+746,36702,PO Box,Selma,Dallas County,Area Code 334
+747,36703,Standard,"Selma, Valley Grande",Dallas County,Area Code 334
+748,36720,Standard,Alberta,Wilcox County,Area Code 334
+749,36721,Standard,Annemanie,Wilcox County,
+750,36722,Standard,Arlington,Wilcox County,Area Code 334
+751,36723,PO Box,Boykin,Wilcox County,
+752,36726,Standard,Camden,Wilcox County,Area Code 334
+753,36727,Standard,Campbell,Clarke County,
+754,36728,Standard,"Catherine, Prairie",Wilcox County,Area Code 334
+755,36732,Standard,Demopolis,Marengo County,Area Code 334
+756,36736,Standard,Dixons Mills,Marengo County,Area Code 334
+757,36738,Standard,"Faunsdale, Dayton",Marengo County,Area Code 334
+758,36740,Standard,Forkland,Greene County,
+759,36741,PO Box,Furman,Wilcox County,
+760,36742,Standard,"Gallion, Providence",Marengo County,Area Code 334
+761,36744,Standard,Greensboro,Hale County,Area Code 334
+762,36745,PO Box,Jefferson,Marengo County,Area Code 334
+763,36748,Standard,Linden,Marengo County,Area Code 334
+764,36749,Standard,Jones,Autauga County,
+765,36750,Standard,Maplesville,Chilton County,Area Code 334
+766,36751,Standard,"Lower Peach Tree, Low Peach Tre, Lwr Pch Tree",Monroe County,Area Code 251
+767,36752,Standard,"Lowndesboro, Burkville, White Hall",Lowndes County,Area Code 334
+768,36753,PO Box,Mc Williams,Monroe County,
+769,36754,Standard,Magnolia,Marengo County,Area Code 334
+770,36756,Standard,"Marion, Sprott",Perry County,Area Code 334
+771,36758,Standard,Plantersville,Dallas County,
+772,36759,Standard,"Marion Junction, Marion Jct",Dallas County,Area Code 334
+773,36761,Standard,Minter,Dallas County,
+774,36762,Standard,"Morvin, Thomasville",Clarke County,Area Code 334
+775,36763,PO Box,Myrtlewood,Marengo County,Area Code 334
+776,36764,PO Box,Nanafalia,Marengo County,Area Code 334
+777,36765,Standard,Newbern,Hale County,
+778,36766,PO Box,Oak Hill,Wilcox County,
+779,36767,Standard,Orrville,Dallas County,Area Code 334
+780,36768,Standard,"Pine Apple, Snow Hill",Wilcox County,Area Code 251
+781,36769,Standard,"Pine Hill, Yellow Bluff",Wilcox County,Area Code 334
+782,36773,Standard,Safford,Dallas County,Area Code 334
+783,36775,Standard,Sardis,Dallas County,Area Code 334
+784,36776,Standard,Sawyerville,Hale County,
+785,36782,Standard,Sweet Water,Marengo County,Area Code 334
+786,36783,Standard,Thomaston,Marengo County,Area Code 334
+787,36784,Standard,Thomasville,Clarke County,Area Code 334
+788,36785,Standard,"Tyler, Benton, White Hall",Lowndes County,Area Code 334
+789,36786,Standard,Uniontown,Perry County,Area Code 334
+790,36790,Standard,Stanton,Chilton County,
+791,36792,Standard,Randolph,Bibb County,Area Code 205
+792,36793,Standard,Lawley,Bibb County,Area Code 334
+793,36801,Standard,Opelika,Lee County,Area Code 334
+794,36802,PO Box,Opelika,Lee County,Area Code 334
+795,36803,PO Box,Opelika,Lee County,Area Code 334
+796,36804,Standard,Opelika,Lee County,Area Code 334
+797,36830,Standard,Auburn,Lee County,Area Code 334
+798,36831,PO Box,Auburn,Lee County,Area Code 334
+799,36832,Standard,Auburn,Lee County,Area Code 334
+800,36849,Unique,"Auburn University, Auburn, Auburn Univ",Lee County,Area Code 334
+801,36850,Standard,Camp Hill,Tallapoosa County,Area Code 334Area Code 256
+802,36851,PO Box,Cottonton,Russell County,Area Code 334
+803,36852,Standard,Cusseta,Lee County,Area Code 334
+804,36853,Standard,Dadeville,Tallapoosa County,Area Code 256
+805,36854,Standard,Valley,Chambers County,Area Code 334
+806,36855,Standard,Five Points,Chambers County,Area Code 334
+807,36856,Standard,Fort Mitchell,Russell County,Area Code 334
+808,36858,Standard,Hatchechubbee,Russell County,Area Code 334
+809,36859,PO Box,Holy Trinity,Russell County,Area Code 334
+810,36860,Standard,Hurtsboro,Russell County,Area Code 334
+811,36861,Standard,Jacksons Gap,Tallapoosa County,Area Code 256Area Code 334
+812,36862,Standard,Lafayette,Chambers County,Area Code 334
+813,36863,Standard,Lanett,Chambers County,Area Code 334
+814,36865,PO Box,Loachapoka,Lee County,
+815,36866,Standard,Notasulga,Macon County,Area Code 334
+816,36867,Standard,Phenix City,Russell County,Area Code 334
+817,36868,PO Box,Phenix City,Russell County,Area Code 334
+818,36869,Standard,Phenix City,Russell County,Area Code 334
+819,36870,Standard,Phenix City,Lee County,Area Code 334
+820,36871,Standard,Pittsview,Russell County,Area Code 334
+821,36872,PO Box,Valley,Chambers County,Area Code 334
+822,36874,Standard,Salem,Lee County,
+823,36875,Standard,Seale,Russell County,Area Code 334
+824,36877,Standard,"Smiths Station, Smiths, Smiths Sta",Lee County,
+825,36879,Standard,"Waverly, Auburn",Lee County,Area Code 256
+826,36901,PO Box,Bellamy,Sumter County,Area Code 205
+827,36904,Standard,"Butler, Lavaca",Choctaw County,Area Code 205
+828,36907,Standard,Cuba,Sumter County,Area Code 205
+829,36908,Standard,Gilbertown,Choctaw County,Area Code 251
+830,36910,Standard,Jachin,Choctaw County,Area Code 205
+831,36912,Standard,Lisman,Choctaw County,Area Code 205
+832,36913,Standard,Melvin,Choctaw County,Area Code 251
+833,36915,Standard,Needham,Choctaw County,Area Code 205
+834,36916,Standard,Pennington,Choctaw County,Area Code 334Area Code 205
+835,36919,Standard,"Silas, Bolinger",Choctaw County,Area Code 251
+836,36921,Standard,Toxey,Choctaw County,Area Code 251
+837,36922,Standard,Ward,Choctaw County,
+838,36925,Standard,York,Sumter County,Area Code 205

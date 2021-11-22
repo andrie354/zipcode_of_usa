@@ -1,0 +1,713 @@
+,zipcode,type,commoncity,county,areacode
+0,71601,Standard,Pine Bluff,Jefferson County,Area Code 870
+1,71602,Standard,"White Hall, Pine Bluff",Jefferson County,Area Code 870
+2,71603,Standard,Pine Bluff,Jefferson County,Area Code 870
+3,71611,PO Box,Pine Bluff,Jefferson County,Area Code 870
+4,71612,PO Box,"White Hall, Pine Bluff",Jefferson County,Area Code 870
+5,71613,PO Box,Pine Bluff,Jefferson County,Area Code 870
+6,71630,PO Box,Arkansas City,Desha County,Area Code 870
+7,71631,Standard,Banks,Bradley County,Area Code 870
+8,71635,Standard,Crossett,Ashley County,Area Code 870
+9,71638,Standard,"Dermott, Collins",Chicot County,Area Code 870
+10,71639,Standard,Dumas,Desha County,Area Code 870
+11,71640,Standard,Eudora,Chicot County,Area Code 870
+12,71642,Standard,Fountain Hill,Ashley County,
+13,71643,Standard,Gould,Lincoln County,Area Code 870
+14,71644,Standard,Grady,Lincoln County,Area Code 870
+15,71646,Standard,Hamburg,Ashley County,Area Code 870
+16,71647,Standard,Hermitage,Bradley County,Area Code 870
+17,71651,Standard,Jersey,Bradley County,Area Code 870
+18,71652,Standard,Kingsland,Cleveland County,Area Code 870
+19,71653,Standard,"Lake Village, Jennie",Chicot County,Area Code 870
+20,71654,Standard,"Mc Gehee, Mcgehee",Desha County,Area Code 870
+21,71655,Standard,Monticello,Drew County,Area Code 870
+22,71656,PO Box,Monticello,Drew County,Area Code 870
+23,71657,PO Box,Monticello,Drew County,Area Code 870
+24,71658,Standard,Montrose,Ashley County,Area Code 870
+25,71659,PO Box,Moscow,Jefferson County,
+26,71660,Standard,New Edinburg,Cleveland County,Area Code 870
+27,71661,Standard,Parkdale,Ashley County,Area Code 870
+28,71662,Standard,Pickens,Desha County,Area Code 870
+29,71663,Standard,Portland,Ashley County,Area Code 870
+30,71665,Standard,Rison,Cleveland County,Area Code 870
+31,71666,PO Box,"Rohwer, Mc Gehee, Mcgehee",Desha County,Area Code 870
+32,71667,Standard,Star City,Lincoln County,Area Code 870
+33,71670,Standard,Tillar,Desha County,Area Code 870
+34,71671,Standard,Warren,Bradley County,Area Code 870
+35,71674,Standard,Watson,Desha County,Area Code 870
+36,71675,Standard,Wilmar,Drew County,Area Code 870
+37,71676,Standard,Wilmot,Ashley County,Area Code 870
+38,71677,PO Box,Winchester,Drew County,Area Code 870
+39,71678,PO Box,Yorktown,Lincoln County,Area Code 870
+40,71701,Standard,"Camden, East Camden",Ouachita County,Area Code 870
+41,71711,PO Box,Camden,Calhoun County,Area Code 870
+42,71720,Standard,Bearden,Ouachita County,Area Code 870
+43,71721,PO Box,Beirne,Clark County,Area Code 870
+44,71722,Standard,Bluff City,Nevada County,
+45,71724,PO Box,Calion,Union County,Area Code 870
+46,71725,Standard,Carthage,Dallas County,Area Code 870
+47,71726,Standard,"Chidester, Reader",Ouachita County,Area Code 870
+48,71728,PO Box,Curtis,Clark County,Area Code 870
+49,71730,Standard,El Dorado,Union County,Area Code 870
+50,71731,PO Box,El Dorado,Union County,Area Code 870
+51,71740,Standard,Emerson,Columbia County,Area Code 870
+52,71742,Standard,Fordyce,Dallas County,Area Code 870
+53,71743,Standard,Gurdon,Clark County,Area Code 870
+54,71744,Standard,Hampton,Calhoun County,Area Code 870
+55,71745,PO Box,Harrell,Calhoun County,Area Code 870
+56,71747,Standard,Huttig,Union County,Area Code 870
+57,71748,PO Box,Ivan,Dallas County,Area Code 870
+58,71749,Standard,Junction City,Union County,Area Code 870
+59,71750,PO Box,Lawson,Union County,Area Code 870
+60,71751,Standard,Louann,Ouachita County,Area Code 870
+61,71752,Standard,Mc Neil,Columbia County,Area Code 870
+62,71753,Standard,"Magnolia, Village",Columbia County,Area Code 870
+63,71754,PO Box,Magnolia,Columbia County,Area Code 870
+64,71758,Standard,Mount Holly,Union County,Area Code 870
+65,71759,PO Box,Norphlet,Union County,Area Code 870
+66,71762,Standard,Smackover,Union County,Area Code 870
+67,71763,Standard,"Sparkman, Manning",Dallas County,Area Code 870
+68,71764,Standard,Stephens,Ouachita County,Area Code 870
+69,71765,Standard,Strong,Union County,Area Code 870
+70,71766,Standard,Thornton,Calhoun County,Area Code 870
+71,71768,Standard,"El Dorado, Urbana",Union County,Area Code 870
+72,71770,Standard,Waldo,Columbia County,Area Code 870
+73,71772,PO Box,"Whelen Springs, Whelen Spgs",Clark County,Area Code 870
+74,71801,Standard,Hope,Hempstead County,Area Code 870
+75,71802,PO Box,Hope,Hempstead County,Area Code 870
+76,71820,PO Box,Alleene,Little River County,Area Code 870
+77,71822,Standard,Ashdown,Little River County,Area Code 870
+78,71823,PO Box,Ben Lomond,Sevier County,Area Code 870
+79,71825,Standard,Blevins,Hempstead County,Area Code 870
+80,71826,Standard,Bradley,Lafayette County,Area Code 870
+81,71827,Standard,Buckner,Lafayette County,Area Code 870
+82,71828,PO Box,Cale,Nevada County,Area Code 870
+83,71831,Standard,Columbus,Hempstead County,Area Code 870
+84,71832,Standard,De Queen,Sevier County,Area Code 870
+85,71833,Standard,Dierks,Howard County,Area Code 870
+86,71834,Standard,Doddridge,Miller County,Area Code 870
+87,71835,Standard,Emmet,Nevada County,Area Code 870
+88,71836,Standard,Foreman,Little River County,Area Code 870
+89,71837,Standard,Fouke,Miller County,Area Code 870
+90,71838,Standard,Fulton,Hempstead County,Area Code 870
+91,71839,Standard,Garland City,Miller County,Area Code 870
+92,71840,PO Box,Genoa,Miller County,Area Code 870
+93,71841,Standard,Gillham,Sevier County,Area Code 870
+94,71842,Standard,Horatio,Sevier County,Area Code 870
+95,71844,PO Box,Laneburg,Nevada County,Area Code 870
+96,71845,Standard,Lewisville,Lafayette County,Area Code 870
+97,71846,Standard,Lockesburg,Sevier County,Area Code 870
+98,71847,Standard,Mc Caskill,Hempstead County,Area Code 870
+99,71851,Standard,"Mineral Springs, Mineral Spgs",Howard County,Area Code 870
+100,71852,Standard,Nashville,Howard County,Area Code 870
+101,71853,Standard,Ogden,Little River County,Area Code 870
+102,71854,Standard,Texarkana,Miller County,Area Code 870
+103,71855,Standard,Ozan,Hempstead County,Area Code 870
+104,71857,Standard,"Prescott, Laneburg",Nevada County,Area Code 870
+105,71858,Standard,Rosston,Nevada County,Area Code 870
+106,71859,Standard,Saratoga,Hempstead County,Area Code 870
+107,71860,Standard,Stamps,Lafayette County,Area Code 870
+108,71861,Standard,Taylor,Columbia County,Area Code 870
+109,71862,Standard,Washington,Hempstead County,Area Code 870
+110,71864,PO Box,Willisville,Nevada County,Area Code 870
+111,71865,PO Box,Wilton,Little River County,Area Code 870
+112,71866,Standard,Winthrop,Little River County,Area Code 870
+113,71901,Standard,"Hot Springs National Park, Fountain Lake, Hot Springs",Garland County,Area Code 501
+114,71902,PO Box,"Hot Springs National Park, Hot Springs",Garland County,Area Code 501
+115,71903,PO Box,"Hot Springs National Park, Hot Springs",Garland County,Area Code 501
+116,71909,Standard,"Hot Springs Village, Hot Springs, Hot Springs National Park",Garland County,Area Code 501
+117,71910,PO Box,"Hot Springs Village, Hot Springs, Hot Springs National Park",Saline County,Area Code 501
+118,71913,Standard,"Hot Springs National Park, Hot Springs, Lake Hamilton",Garland County,Area Code 501
+119,71914,PO Box,"Hot Springs National Park, Hot Springs",Garland County,Area Code 501
+120,71920,Standard,Alpine,Clark County,Area Code 870
+121,71921,Standard,"Amity, Alpine",Clark County,Area Code 870
+122,71922,PO Box,Antoine,Pike County,Area Code 870
+123,71923,Standard,"Arkadelphia, Caddo Valley",Clark County,Area Code 870
+124,71929,Standard,Bismarck,Hot Spring County,Area Code 501
+125,71932,PO Box,Board Camp,Polk County,
+126,71933,Standard,Bonnerdale,Garland County,Area Code 501
+127,71935,Standard,Caddo Gap,Montgomery County,Area Code 870
+128,71937,Standard,"Cove, Hatton",Polk County,Area Code 870
+129,71940,Standard,Delight,Pike County,Area Code 870
+130,71941,Standard,Donaldson,Hot Spring County,Area Code 870Area Code 501
+131,71942,PO Box,Friendship,Hot Spring County,Area Code 501
+132,71943,Standard,Glenwood,Pike County,Area Code 870
+133,71944,Standard,Grannis,Polk County,
+134,71945,Standard,Hatfield,Polk County,Area Code 870
+135,71949,Standard,"Jessieville, Buckville",Garland County,Area Code 501
+136,71950,Standard,Kirby,Pike County,Area Code 870
+137,71951,Standard,"Hot Springs National Park, Hot Springs",Garland County,Area Code 501
+138,71952,Standard,Langley,Pike County,Area Code 870
+139,71953,Standard,Mena,Polk County,Area Code 479
+140,71956,Standard,Mountain Pine,Garland County,Area Code 501
+141,71957,Standard,Mount Ida,Montgomery County,Area Code 870
+142,71958,Standard,Murfreesboro,Pike County,Area Code 870
+143,71959,Standard,Newhope,Pike County,Area Code 870
+144,71960,Standard,Norman,Montgomery County,Area Code 870
+145,71961,Standard,"Oden, Pine Ridge",Montgomery County,Area Code 870
+146,71962,Standard,Okolona,Clark County,Area Code 870
+147,71964,Standard,Pearcy,Garland County,Area Code 501
+148,71965,Standard,Pencil Bluff,Montgomery County,Area Code 870
+149,71966,PO Box,"Oden, Pine Ridge",Montgomery County,Area Code 870
+150,71968,Standard,Royal,Garland County,Area Code 501
+151,71969,Standard,Sims,Montgomery County,Area Code 870
+152,71970,Standard,Story,Montgomery County,Area Code 870
+153,71971,Standard,Umpire,Howard County,Area Code 870
+154,71972,Standard,Vandervoort,Polk County,
+155,71973,Standard,Wickes,Polk County,Area Code 870
+156,71998,Unique,Arkadelphia,Clark County,Area Code 870
+157,71999,Unique,Arkadelphia,Clark County,Area Code 870
+158,72001,Standard,Adona,Perry County,Area Code 501
+159,72002,Standard,Alexander,Saline County,Area Code 501
+160,72003,Standard,Almyra,Arkansas County,Area Code 870
+161,72004,Standard,Altheimer,Jefferson County,Area Code 870
+162,72005,Standard,"Amagon, Balch",Jackson County,Area Code 870
+163,72006,Standard,Augusta,Woodruff County,Area Code 870
+164,72007,Standard,Austin,Lonoke County,
+165,72010,Standard,Bald Knob,White County,Area Code 501
+166,72011,Standard,Bauxite,Saline County,Area Code 501
+167,72012,Standard,Beebe,White County,Area Code 501Area Code 870
+168,72013,Standard,Bee Branch,Van Buren County,Area Code 501
+169,72014,PO Box,Beedeville,Jackson County,
+170,72015,Standard,"Benton, Bryant, Haskell, Tull",Saline County,Area Code 501
+171,72016,Standard,Bigelow,Perry County,Area Code 501
+172,72017,Standard,Biscoe,Prairie County,Area Code 870
+173,72018,PO Box,Benton,Saline County,Area Code 501
+174,72019,Standard,"Benton, Bryant",Saline County,Area Code 501
+175,72020,Standard,Bradford,White County,Area Code 501
+176,72021,Standard,Brinkley,Monroe County,Area Code 870
+177,72022,Standard,"Bryant, Benton",Saline County,Area Code 501
+178,72023,Standard,Cabot,Lonoke County,Area Code 501
+179,72024,Standard,Carlisle,Lonoke County,Area Code 870
+180,72025,Standard,Casa,Perry County,Area Code 501
+181,72026,Standard,Casscoe,Arkansas County,Area Code 870
+182,72027,Standard,Center Ridge,Conway County,Area Code 501
+183,72028,PO Box,Choctaw,Van Buren County,Area Code 501
+184,72029,Standard,Clarendon,Monroe County,Area Code 870
+185,72030,Standard,Cleveland,Conway County,Area Code 501
+186,72031,Standard,Clinton,Van Buren County,Area Code 501
+187,72032,Standard,Conway,Faulkner County,Area Code 501
+188,72033,PO Box,Conway,Faulkner County,Area Code 501
+189,72034,Standard,Conway,Faulkner County,Area Code 501
+190,72035,Unique,Conway,Faulkner County,Area Code 501
+191,72036,Standard,Cotton Plant,Woodruff County,Area Code 870
+192,72037,PO Box,Coy,Lonoke County,
+193,72038,Standard,"Crocketts Bluff, Crocketts Blf",Arkansas County,Area Code 870
+194,72039,Standard,"Damascus, Twin Groves",Faulkner County,Area Code 501
+195,72040,Standard,Des Arc,Prairie County,Area Code 870
+196,72041,Standard,"De Valls Bluff, De Valls Blf, Devalls Bluff",Prairie County,Area Code 870
+197,72042,Standard,"De Witt, Dewitt",Arkansas County,Area Code 870
+198,72043,PO Box,Diaz,Jackson County,
+199,72044,Standard,Edgemont,Cleburne County,Area Code 870
+200,72045,Standard,El Paso,White County,Area Code 501
+201,72046,Standard,England,Lonoke County,Area Code 501
+202,72047,Standard,Enola,Faulkner County,Area Code 501
+203,72048,Standard,Ethel,Arkansas County,Area Code 870
+204,72051,Standard,Fox,Stone County,Area Code 870
+205,72052,PO Box,Garner,White County,Area Code 501
+206,72053,PO Box,"College Station, College Sta",Pulaski County,Area Code 501
+207,72055,Standard,Gillett,Arkansas County,Area Code 870
+208,72057,Standard,Grapevine,Grant County,Area Code 870
+209,72058,Standard,Greenbrier,Faulkner County,Area Code 501
+210,72059,PO Box,Gregory,Woodruff County,Area Code 870
+211,72060,Standard,Griffithville,White County,Area Code 501
+212,72061,Standard,Guy,Faulkner County,Area Code 501
+213,72063,Standard,Hattieville,Conway County,Area Code 501
+214,72064,Standard,Hazen,Prairie County,Area Code 870
+215,72065,Standard,Hensley,Saline County,Area Code 501
+216,72066,PO Box,"Hickory Plains, Hickory Plns",Prairie County,Area Code 870
+217,72067,Standard,"Higden, Greers Ferry",Cleburne County,Area Code 501
+218,72068,Standard,Higginson,White County,Area Code 501
+219,72069,Standard,Holly Grove,Monroe County,Area Code 870
+220,72070,Standard,Houston,Perry County,Area Code 501
+221,72072,Standard,Humnoke,Lonoke County,Area Code 501
+222,72073,Standard,Humphrey,Arkansas County,Area Code 870
+223,72074,PO Box,Hunter,Woodruff County,Area Code 870
+224,72075,PO Box,Jacksonport,Jackson County,
+225,72076,Standard,"Jacksonville, Gravel Ridge, Little Rock AFB, Lr AFB, L...",Pulaski County,Area Code 501
+226,72078,PO Box,Jacksonville,Pulaski County,Area Code 501
+227,72079,Standard,Jefferson,Jefferson County,
+228,72080,Standard,Jerusalem,Conway County,Area Code 501
+229,72081,Standard,"Judsonia, Steprock",White County,Area Code 501
+230,72082,Standard,Kensett,White County,Area Code 501
+231,72083,PO Box,Keo,Lonoke County,
+232,72084,Standard,Leola,Grant County,Area Code 870
+233,72085,PO Box,Letona,White County,Area Code 501
+234,72086,Standard,Lonoke,Lonoke County,Area Code 501
+235,72087,Standard,Lonsdale,Saline County,Area Code 501
+236,72088,Standard,"Fairfield Bay, Shirley",Van Buren County,Area Code 501
+237,72089,PO Box,Bryant,Saline County,Area Code 501
+238,72099,Unique,"Little Rock Air Force Base, Jacksonville, Little Rock AFB, Lr AFB, L...",Pulaski County,Area Code 501
+239,72101,Standard,"Mc Crory, Fair Oaks, Howell, Mccrory",Woodruff County,Area Code 870
+240,72102,Standard,Mc Rae,White County,Area Code 870Area Code 501
+241,72103,Standard,"Mabelvale, Shannon Hills",Saline County,Area Code 501
+242,72104,Standard,"Malvern, Rockport",Hot Spring County,Area Code 501
+243,72105,PO Box,"Jones Mill, Malvern",Hot Spring County,Area Code 501
+244,72106,Standard,Mayflower,Faulkner County,Area Code 501
+245,72107,PO Box,Menifee,Conway County,Area Code 501
+246,72108,PO Box,Monroe,Monroe County,Area Code 870
+247,72110,Standard,"Morrilton, Oppelo",Conway County,Area Code 501
+248,72111,Standard,Mount Vernon,Faulkner County,Area Code 501
+249,72112,Standard,Newport,Jackson County,Area Code 870
+250,72113,Standard,"Maumelle, N Little Rock, North Little Rock",Pulaski County,Area Code 501
+251,72114,Standard,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+252,72115,PO Box,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+253,72116,Standard,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+254,72117,Standard,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+255,72118,Standard,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+256,72119,PO Box,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+257,72120,Standard,"Sherwood, N Little Rock, North Little Rock",Pulaski County,
+258,72121,Standard,Pangburn,White County,Area Code 501
+259,72122,Standard,Paron,Saline County,Area Code 501
+260,72123,PO Box,Patterson,Woodruff County,Area Code 870
+261,72124,PO Box,"North Little Rock, N Little Rock, Sherwood",Pulaski County,Area Code 501
+262,72125,Standard,Perry,Perry County,Area Code 501
+263,72126,Standard,Perryville,Perry County,Area Code 501
+264,72127,Standard,Plumerville,Conway County,Area Code 501
+265,72128,Standard,Poyen,Grant County,Area Code 870
+266,72129,Standard,Prattsville,Grant County,Area Code 870
+267,72130,Standard,Prim,Cleburne County,Area Code 870
+268,72131,Standard,Quitman,Cleburne County,Area Code 501
+269,72132,Standard,Redfield,Jefferson County,Area Code 501
+270,72133,PO Box,Reydell,Jefferson County,
+271,72134,Standard,Roe,Monroe County,Area Code 870
+272,72135,Standard,Roland,Pulaski County,Area Code 501
+273,72136,Standard,Romance,White County,Area Code 501
+274,72137,Standard,Rose Bud,White County,Area Code 501
+275,72139,PO Box,Russell,White County,Area Code 501
+276,72140,Standard,Saint Charles,Arkansas County,Area Code 870
+277,72141,Standard,Scotland,Van Buren County,Area Code 501
+278,72142,Standard,Scott,Lonoke County,Area Code 501
+279,72143,Standard,"Searcy, Georgetown",White County,Area Code 501
+280,72145,PO Box,Searcy,White County,Area Code 501
+281,72149,Unique,Searcy,White County,Area Code 501
+282,72150,Standard,Sheridan,Grant County,Area Code 870
+283,72152,Standard,Sherrill,Jefferson County,Area Code 870
+284,72153,Standard,Shirley,Van Buren County,Area Code 501
+285,72156,Standard,Solgohachia,Conway County,Area Code 501
+286,72157,Standard,Springfield,Conway County,Area Code 501
+287,72158,PO Box,Benton,Saline County,Area Code 501
+288,72160,Standard,Stuttgart,Arkansas County,Area Code 870
+289,72164,PO Box,Sweet Home,Pulaski County,Area Code 501
+290,72165,Standard,Thida,Independence County,
+291,72166,Standard,Tichnor,Arkansas County,Area Code 870
+292,72167,Standard,Traskwood,Saline County,Area Code 501
+293,72168,Standard,Tucker,Jefferson County,Area Code 501
+294,72169,PO Box,Tupelo,Jackson County,
+295,72170,PO Box,Ulm,Prairie County,Area Code 870
+296,72173,Standard,"Vilonia, Holland",Faulkner County,Area Code 501
+297,72175,Standard,Wabbaseka,Jefferson County,Area Code 870
+298,72176,Standard,Ward,Lonoke County,Area Code 870
+299,72178,PO Box,West Point,White County,Area Code 501
+300,72179,Standard,Wilburn,Cleburne County,
+301,72180,PO Box,Woodson,Pulaski County,Area Code 501
+302,72181,Standard,Wooster,Faulkner County,Area Code 501
+303,72182,PO Box,Wright,Jefferson County,
+304,72183,PO Box,Wrightsville,Pulaski County,Area Code 501
+305,72189,Unique,Mc Crory,Woodruff County,Area Code 870
+306,72190,PO Box,"North Little Rock, N Little Rock",Pulaski County,Area Code 501
+307,72198,Standard,"North Little Rock, N Little Rock, Scholastic Parcels",Pulaski County,Area Code 501
+308,72199,Unique,"North Little Rock, N Little Rock, Nlr, No Little Rock",Pulaski County,Area Code 501
+309,72201,Standard,Little Rock,Pulaski County,Area Code 501
+310,72202,Standard,Little Rock,Pulaski County,Area Code 501
+311,72203,PO Box,Little Rock,Pulaski County,Area Code 501
+312,72204,Standard,Little Rock,Pulaski County,Area Code 501
+313,72205,Standard,Little Rock,Pulaski County,Area Code 501
+314,72206,Standard,Little Rock,Pulaski County,Area Code 501
+315,72207,Standard,"Little Rock, Cammack Village, Cammack Vlg",Pulaski County,Area Code 501
+316,72209,Standard,Little Rock,Pulaski County,Area Code 501
+317,72210,Standard,Little Rock,Pulaski County,Area Code 501
+318,72211,Standard,Little Rock,Pulaski County,Area Code 501
+319,72212,Standard,Little Rock,Pulaski County,Area Code 501
+320,72214,PO Box,Little Rock,Pulaski County,Area Code 501
+321,72215,PO Box,Little Rock,Pulaski County,Area Code 501
+322,72216,PO Box,Little Rock,Pulaski County,Area Code 501
+323,72217,PO Box,Little Rock,Pulaski County,Area Code 501
+324,72219,PO Box,Little Rock,Pulaski County,Area Code 501
+325,72221,PO Box,Little Rock,Pulaski County,Area Code 501
+326,72222,PO Box,Little Rock,Pulaski County,Area Code 501
+327,72223,Standard,Little Rock,Pulaski County,Area Code 501
+328,72225,PO Box,Little Rock,Pulaski County,Area Code 501
+329,72227,Standard,Little Rock,Pulaski County,Area Code 501
+330,72231,PO Box,Little Rock,Pulaski County,Area Code 501
+331,72255,Unique,Little Rock,,
+332,72260,PO Box,Little Rock,Pulaski County,Area Code 501
+333,72295,PO Box,Little Rock,Pulaski County,Area Code 501
+334,72301,Standard,West Memphis,Crittenden County,Area Code 870
+335,72303,PO Box,West Memphis,Crittenden County,Area Code 870
+336,72310,PO Box,Armorel,Mississippi County,Area Code 870
+337,72311,PO Box,Aubrey,Lee County,
+338,72312,PO Box,Barton,Phillips County,Area Code 870
+339,72313,PO Box,Bassett,Mississippi County,Area Code 870
+340,72315,Standard,"Blytheville, Gosnell",Mississippi County,Area Code 870
+341,72316,PO Box,Blytheville,Mississippi County,Area Code 870
+342,72319,PO Box,"Gosnell, Blytheville",Mississippi County,Area Code 870
+343,72320,Standard,Brickeys,Lee County,Area Code 870
+344,72321,PO Box,Burdette,Mississippi County,Area Code 870
+345,72322,PO Box,Caldwell,St. Francis County,Area Code 870
+346,72324,Standard,"Cherry Valley, Birdeye",Cross County,Area Code 870
+347,72325,PO Box,Clarkedale,Crittenden County,Area Code 870
+348,72326,Standard,Colt,St. Francis County,Area Code 870
+349,72327,Standard,"Crawfordsville, Crawfordsvlle",Crittenden County,Area Code 870
+350,72328,PO Box,Crumrod,Phillips County,Area Code 870
+351,72329,PO Box,Driver,Mississippi County,Area Code 870
+352,72330,Standard,Dyess,Mississippi County,Area Code 870
+353,72331,Standard,"Earle, Twist",Crittenden County,Area Code 870
+354,72332,PO Box,Edmondson,Crittenden County,Area Code 870
+355,72333,Standard,Elaine,Phillips County,Area Code 870
+356,72335,Standard,Forrest City,St. Francis County,Area Code 870
+357,72336,PO Box,Forrest City,St. Francis County,Area Code 870
+358,72338,Standard,"Frenchmans Bayou, Frenchman Byu",Mississippi County,Area Code 870
+359,72339,PO Box,Gilmore,Crittenden County,Area Code 870
+360,72340,PO Box,Goodwin,St. Francis County,Area Code 870
+361,72341,PO Box,Haynes,Lee County,Area Code 870
+362,72342,Standard,Helena,Phillips County,Area Code 870
+363,72346,Standard,Heth,St. Francis County,Area Code 870
+364,72347,Standard,Hickory Ridge,Cross County,Area Code 870
+365,72348,Standard,"Hughes, Horseshoe Lake, Horseshoe Lk",St. Francis County,Area Code 870
+366,72350,Standard,Joiner,Mississippi County,Area Code 870
+367,72351,PO Box,Keiser,Mississippi County,Area Code 870
+368,72352,PO Box,La Grange,Lee County,Area Code 870
+369,72353,PO Box,Lambrook,Phillips County,Area Code 870
+370,72354,Standard,Lepanto,Poinsett County,Area Code 870
+371,72355,Standard,Lexa,Phillips County,
+372,72358,Standard,Luxora,Mississippi County,Area Code 870
+373,72359,PO Box,Madison,St. Francis County,Area Code 870
+374,72360,Standard,Marianna,Lee County,Area Code 870
+375,72364,Standard,Marion,Crittenden County,Area Code 870
+376,72365,Standard,Marked Tree,Poinsett County,Area Code 870
+377,72366,Standard,Marvell,Phillips County,Area Code 870
+378,72367,PO Box,Mellwood,Phillips County,Area Code 870
+379,72368,Standard,Moro,Lee County,Area Code 870
+380,72369,PO Box,Oneida,Phillips County,Area Code 870
+381,72370,Standard,Osceola,Mississippi County,Area Code 870
+382,72372,Standard,Palestine,St. Francis County,Area Code 870
+383,72373,Standard,Parkin,Cross County,Area Code 870
+384,72374,Standard,Poplar Grove,Phillips County,Area Code 870
+385,72376,Standard,Proctor,Crittenden County,Area Code 870
+386,72377,PO Box,Rivervale,Poinsett County,Area Code 870
+387,72379,PO Box,Snow Lake,Desha County,Area Code 870
+388,72383,PO Box,Turner,Phillips County,Area Code 870
+389,72384,Standard,Turrell,Crittenden County,Area Code 870
+390,72386,Standard,Tyronza,Poinsett County,Area Code 870
+391,72387,PO Box,Vanndale,Cross County,Area Code 870
+392,72389,PO Box,Wabash,Phillips County,Area Code 870
+393,72390,Standard,West Helena,Phillips County,Area Code 870
+394,72391,PO Box,West Ridge,Mississippi County,Area Code 870
+395,72392,Standard,Wheatley,St. Francis County,Area Code 870
+396,72394,Standard,"Widener, Round Pond",St. Francis County,Area Code 870
+397,72395,Standard,Wilson,Mississippi County,Area Code 870
+398,72396,Standard,Wynne,Cross County,Area Code 870
+399,72401,Standard,Jonesboro,Craighead County,Area Code 870
+400,72402,PO Box,Jonesboro,Craighead County,Area Code 870
+401,72403,PO Box,Jonesboro,Craighead County,Area Code 870
+402,72404,Standard,Jonesboro,Craighead County,Area Code 870
+403,72405,Standard,Jonesboro,Craighead County,
+404,72410,Standard,Alicia,Lawrence County,Area Code 870
+405,72411,Standard,Bay,Craighead County,Area Code 870
+406,72412,Standard,Beech Grove,Greene County,Area Code 870
+407,72413,Standard,Biggers,Randolph County,Area Code 870
+408,72414,Standard,Black Oak,Craighead County,Area Code 870
+409,72415,Standard,Black Rock,Lawrence County,Area Code 870
+410,72416,Standard,Bono,Craighead County,Area Code 870
+411,72417,Standard,Brookland,Craighead County,Area Code 870
+412,72419,Standard,Caraway,Craighead County,Area Code 870
+413,72421,Standard,Cash,Craighead County,Area Code 870
+414,72422,Standard,Corning,Clay County,Area Code 870
+415,72424,PO Box,Datto,Clay County,Area Code 870
+416,72425,Standard,Delaplaine,Greene County,Area Code 870
+417,72426,PO Box,Dell,Mississippi County,Area Code 870
+418,72427,PO Box,Egypt,Craighead County,Area Code 870
+419,72428,Standard,Etowah,Mississippi County,Area Code 870
+420,72429,Standard,Fisher,Poinsett County,Area Code 870
+421,72430,Standard,Greenway,Clay County,Area Code 870
+422,72431,PO Box,Grubbs,Jackson County,
+423,72432,Standard,Harrisburg,Poinsett County,Area Code 870
+424,72433,Standard,Hoxie,Lawrence County,Area Code 870
+425,72434,Standard,Imboden,Lawrence County,Area Code 870
+426,72435,Standard,"Knobel, Peach Orchard",Clay County,Area Code 870
+427,72436,Standard,"Lafe, Marmaduke",Greene County,Area Code 870
+428,72437,Standard,Lake City,Craighead County,Area Code 870
+429,72438,Standard,Leachville,Mississippi County,Area Code 870
+430,72439,Standard,"Light, Walnut Ridge",Greene County,Area Code 870
+431,72440,Standard,Lynn,Lawrence County,Area Code 870
+432,72441,PO Box,Mc Dougal,Clay County,Area Code 870
+433,72442,Standard,Manila,Mississippi County,Area Code 870
+434,72443,Standard,Marmaduke,Greene County,Area Code 870
+435,72444,Standard,Maynard,Randolph County,Area Code 870
+436,72445,PO Box,Minturn,Lawrence County,Area Code 870
+437,72447,Standard,Monette,Craighead County,Area Code 870
+438,72449,PO Box,O Kean,Randolph County,Area Code 870
+439,72450,Standard,Paragould,Greene County,Area Code 870
+440,72451,PO Box,Paragould,Greene County,Area Code 870
+441,72453,Standard,Peach Orchard,Clay County,Area Code 870
+442,72454,Standard,Piggott,Clay County,Area Code 870
+443,72455,Standard,Pocahontas,Randolph County,Area Code 870
+444,72456,Standard,Pollard,Clay County,Area Code 870
+445,72457,PO Box,Portia,Lawrence County,Area Code 870
+446,72458,Standard,Powhatan,Lawrence County,Area Code 870
+447,72459,Standard,Ravenden,Lawrence County,Area Code 870
+448,72460,Standard,"Ravenden Springs, Ravenden Spgs",Randolph County,Area Code 870
+449,72461,Standard,Rector,Clay County,Area Code 870
+450,72462,PO Box,Reyno,Randolph County,Area Code 870
+451,72464,PO Box,Saint Francis,Clay County,Area Code 870
+452,72465,PO Box,Sedgwick,Lawrence County,Area Code 870
+453,72466,Standard,Smithville,Lawrence County,Area Code 870
+454,72467,PO Box,"State University, State Univ",Craighead County,Area Code 870
+455,72469,Standard,"Strawberry, Calamine",Lawrence County,Area Code 870
+456,72470,Standard,Success,Clay County,Area Code 870
+457,72471,Standard,Swifton,Jackson County,Area Code 870
+458,72472,Standard,Trumann,Poinsett County,Area Code 870
+459,72473,Standard,Tuckerman,Jackson County,Area Code 870
+460,72474,PO Box,Walcott,Greene County,Area Code 870
+461,72475,PO Box,Waldenburg,Poinsett County,Area Code 870
+462,72476,Standard,"Walnut Ridge, Williams Baptist College, Wms College",Lawrence County,Area Code 870
+463,72478,Standard,Warm Springs,Randolph County,Area Code 870
+464,72479,Standard,Weiner,Poinsett County,Area Code 870
+465,72482,Standard,Williford,Sharp County,Area Code 870
+466,72501,Standard,"Batesville, Southside",Independence County,Area Code 870
+467,72503,PO Box,Batesville,Independence County,
+468,72512,Standard,"Horseshoe Bend, Franklin, Horseshoe Bnd",Izard County,Area Code 870
+469,72513,Standard,Ash Flat,Sharp County,Area Code 870
+470,72515,Standard,Bexar,Fulton County,Area Code 870
+471,72517,Standard,Brockwell,Izard County,Area Code 870
+472,72519,Standard,"Calico Rock, Jordan",Izard County,Area Code 870
+473,72520,Standard,Camp,Fulton County,Area Code 870
+474,72521,Standard,Cave City,Sharp County,Area Code 870
+475,72522,Standard,Charlotte,Independence County,
+476,72523,Standard,Concord,Cleburne County,Area Code 870
+477,72524,Standard,Cord,Independence County,
+478,72525,PO Box,"Cherokee Village, Cherokee Vlg",Fulton County,Area Code 870
+479,72526,PO Box,Cushman,Independence County,
+480,72527,Standard,Desha,Independence County,Area Code 870
+481,72528,Standard,Dolph,Izard County,Area Code 870
+482,72529,Standard,"Cherokee Village, Cherokee Vlg, Hardy",Sharp County,Area Code 870
+483,72530,Standard,Drasco,Cleburne County,Area Code 870
+484,72531,Standard,Elizabeth,Fulton County,
+485,72532,Standard,Evening Shade,Sharp County,Area Code 870
+486,72533,Standard,"Fifty Six, Mountain View",Stone County,Area Code 870
+487,72534,Standard,Floral,Independence County,
+488,72536,Standard,Franklin,Izard County,Area Code 870
+489,72537,Standard,Gamaliel,Baxter County,Area Code 870
+490,72538,Standard,Gepp,Fulton County,Area Code 870
+491,72539,Standard,Glencoe,Fulton County,Area Code 870
+492,72540,Standard,Guion,Izard County,Area Code 870
+493,72542,Standard,"Hardy, Highland",Sharp County,Area Code 870
+494,72543,Standard,Heber Springs,Cleburne County,Area Code 501
+495,72544,Standard,Henderson,Baxter County,Area Code 870
+496,72545,Unique,Heber Springs,Cleburne County,Area Code 501
+497,72546,Standard,Ida,Cleburne County,
+498,72550,Standard,Locust Grove,Independence County,Area Code 870
+499,72553,PO Box,Magness,Independence County,
+500,72554,Standard,"Mammoth Spring, Mammoth Spg",Fulton County,Area Code 870
+501,72555,Standard,Marcella,Stone County,Area Code 870
+502,72556,Standard,"Melbourne, Boswell, Zion",Izard County,Area Code 870
+503,72560,Standard,"Mountain View, Hanover",Stone County,Area Code 870
+504,72561,Standard,"Mount Pleasant, Mt Pleasant",Izard County,Area Code 870
+505,72562,Standard,Newark,Independence County,Area Code 870
+506,72564,Standard,Oil Trough,Independence County,Area Code 870
+507,72565,Standard,Oxford,Izard County,Area Code 870
+508,72566,Standard,Pineville,Izard County,Area Code 870
+509,72567,Standard,"Pleasant Grove, Pleasant Grv",Stone County,Area Code 870
+510,72568,Standard,"Pleasant Plains, Pleasant Plns",Independence County,Area Code 501
+511,72569,Standard,Poughkeepsie,Sharp County,Area Code 870
+512,72571,Standard,Rosie,Independence County,
+513,72572,Standard,Saffell,Lawrence County,Area Code 870
+514,72573,Standard,Sage,Izard County,Area Code 870
+515,72575,PO Box,Salado,Independence County,
+516,72576,Standard,"Salem, Moko",Fulton County,Area Code 870
+517,72577,Standard,Sidney,Izard County,Area Code 870
+518,72578,Standard,Sturkie,Fulton County,Area Code 870
+519,72579,Standard,Sulphur Rock,Independence County,
+520,72581,Standard,"Tumbling Shoals, Tumbling Shls",Cleburne County,
+521,72583,Standard,Viola,Fulton County,Area Code 870
+522,72584,Standard,Violet Hill,Izard County,Area Code 870
+523,72585,Standard,Wideman,Izard County,Area Code 870
+524,72587,Standard,Wiseman,Izard County,Area Code 870
+525,72601,Standard,Harrison,Boone County,Area Code 870
+526,72602,PO Box,Harrison,Boone County,Area Code 870
+527,72611,Standard,Alpena,Carroll County,Area Code 870
+528,72613,PO Box,Beaver,Carroll County,
+529,72615,PO Box,Bergman,Boone County,Area Code 870
+530,72616,Standard,Berryville,Carroll County,Area Code 870
+531,72617,Standard,"Big Flat, Harriet",Baxter County,Area Code 870
+532,72619,Standard,Bull Shoals,Marion County,Area Code 870
+533,72623,Standard,Clarkridge,Baxter County,Area Code 870
+534,72624,Standard,Compton,Newton County,Area Code 870
+535,72626,Standard,Cotter,Baxter County,Area Code 870
+536,72628,Standard,Deer,Newton County,Area Code 479Area Code 870
+537,72629,Standard,Dennard,Van Buren County,Area Code 501
+538,72630,PO Box,Diamond City,Boone County,Area Code 870
+539,72631,Standard,"Eureka Springs, Busch, Eureka Spgs, Holiday Island, Holi...",Carroll County,Area Code 479
+540,72632,Standard,"Eureka Springs, Eureka Spgs",Carroll County,Area Code 479
+541,72633,Standard,Everton,Boone County,Area Code 870
+542,72634,Standard,Flippin,Marion County,Area Code 870
+543,72635,Standard,Gassville,Baxter County,Area Code 870
+544,72636,PO Box,Gilbert,Searcy County,Area Code 870
+545,72638,Standard,Green Forest,Carroll County,Area Code 870
+546,72639,Standard,"Harriet, Cozahome",Searcy County,Area Code 870
+547,72640,Standard,Hasty,Newton County,Area Code 870
+548,72641,Standard,Jasper,Newton County,Area Code 870
+549,72642,Standard,Lakeview,Baxter County,Area Code 870
+550,72644,Standard,"Lead Hill, Diamond City",Boone County,Area Code 870
+551,72645,Standard,Leslie,Searcy County,Area Code 870
+552,72648,Standard,Marble Falls,Newton County,Area Code 870
+553,72650,Standard,Marshall,Searcy County,Area Code 870
+554,72651,Standard,Midway,Baxter County,Area Code 870
+555,72653,Standard,"Mountain Home, Salesville",Baxter County,Area Code 870
+556,72654,PO Box,Mountain Home,Baxter County,Area Code 870
+557,72655,Standard,"Mount Judea, Bass",Newton County,Area Code 870
+558,72657,Standard,Timbo,Stone County,Area Code 870
+559,72658,Standard,"Norfork, Old Joe",Baxter County,Area Code 870
+560,72659,Standard,Norfork,Baxter County,Area Code 870
+561,72660,Standard,Oak Grove,Carroll County,Area Code 870
+562,72661,Standard,"Oakland, Price Place",Marion County,Area Code 870
+563,72662,Standard,Omaha,Boone County,Area Code 870
+564,72663,Standard,Onia,Stone County,Area Code 870
+565,72666,Standard,Parthenon,Newton County,Area Code 870
+566,72668,Standard,Peel,Marion County,Area Code 870
+567,72669,PO Box,Pindall,Searcy County,Area Code 870
+568,72670,Standard,Ponca,Newton County,Area Code 870
+569,72672,PO Box,Pyatt,Marion County,Area Code 870
+570,72675,Standard,Saint Joe,Searcy County,Area Code 870
+571,72677,PO Box,Summit,Marion County,Area Code 870
+572,72679,Standard,Tilly,Pope County,
+573,72680,Standard,"Timbo, Alco",Stone County,Area Code 870
+574,72682,Standard,"Valley Springs, Bruno, Valley Spgs",Marion County,Area Code 870
+575,72683,Standard,Vendor,Newton County,Area Code 870
+576,72685,Standard,Western Grove,Newton County,Area Code 870
+577,72686,Standard,Witts Springs,Searcy County,Area Code 870
+578,72687,Standard,Yellville,Marion County,Area Code 870
+579,72701,Standard,Fayetteville,Washington County,Area Code 479
+580,72702,PO Box,Fayetteville,Washington County,Area Code 479
+581,72703,Standard,Fayetteville,Washington County,Area Code 479
+582,72704,Standard,"Fayetteville, Tontitown, Wheeler",Washington County,Area Code 479
+583,72711,PO Box,Avoca,Benton County,Area Code 479
+584,72712,Standard,Bentonville,Benton County,Area Code 479
+585,72713,Standard,Bentonville,Benton County,
+586,72714,Standard,Bella Vista,Benton County,Area Code 479
+587,72715,Standard,Bella Vista,Benton County,Area Code 479
+588,72716,Unique,Bentonville,Benton County,Area Code 479
+589,72717,Standard,Canehill,Washington County,Area Code 479
+590,72718,Standard,Cave Springs,Benton County,Area Code 479
+591,72719,Standard,Centerton,Benton County,Area Code 479
+592,72721,Standard,Combs,Madison County,
+593,72722,Standard,Decatur,Benton County,Area Code 479
+594,72727,Standard,Elkins,Washington County,Area Code 479
+595,72728,PO Box,Elm Springs,Benton County,Area Code 479
+596,72729,Standard,Evansville,Washington County,Area Code 479
+597,72730,Standard,"Farmington, Fayetteville",Washington County,Area Code 479
+598,72732,Standard,Garfield,Benton County,Area Code 479
+599,72733,PO Box,Gateway,Benton County,Area Code 479
+600,72734,Standard,"Gentry, Springtown",Benton County,Area Code 479
+601,72735,PO Box,Goshen,Washington County,Area Code 479
+602,72736,Standard,Gravette,Benton County,Area Code 479
+603,72737,PO Box,Greenland,Washington County,Area Code 479
+604,72738,Standard,Hindsville,Madison County,Area Code 479
+605,72739,Standard,Hiwasse,Benton County,Area Code 479
+606,72740,Standard,Huntsville,Madison County,Area Code 479
+607,72741,PO Box,Johnson,Washington County,Area Code 479
+608,72742,Standard,Kingston,Madison County,Area Code 870Area Code 479
+609,72744,Standard,Lincoln,Washington County,Area Code 479
+610,72745,Standard,Lowell,Benton County,Area Code 479
+611,72747,Standard,Maysville,Benton County,Area Code 479
+612,72749,Standard,Morrow,Washington County,Area Code 479
+613,72751,Standard,Pea Ridge,Benton County,Area Code 479
+614,72752,Standard,Pettigrew,Madison County,Area Code 479
+615,72753,Standard,Prairie Grove,Washington County,Area Code 479
+616,72756,Standard,"Rogers, Little Flock",Benton County,Area Code 479
+617,72757,PO Box,Rogers,Benton County,Area Code 479
+618,72758,Standard,Rogers,Benton County,Area Code 479
+619,72760,Standard,Saint Paul,Madison County,Area Code 479
+620,72761,Standard,"Siloam Springs, Siloam Spgs",Benton County,Area Code 479
+621,72762,Standard,"Springdale, Tontitown",Washington County,Area Code 479
+622,72764,Standard,"Springdale, Bethel Heights, Bethel Hts, Fayetteville",Washington County,Area Code 479
+623,72765,PO Box,Springdale,Washington County,Area Code 479
+624,72766,PO Box,Springdale,Washington County,Area Code 479
+625,72768,Standard,"Sulphur Springs, Sulphur Spgs",Benton County,Area Code 479
+626,72769,Standard,Summers,Washington County,Area Code 479
+627,72770,PO Box,Tontitown,Washington County,Area Code 479
+628,72773,Standard,Wesley,Madison County,Area Code 479
+629,72774,Standard,West Fork,Washington County,Area Code 479
+630,72776,Standard,Witter,Madison County,Area Code 479
+631,72801,Standard,Russellville,Pope County,Area Code 479
+632,72802,Standard,Russellville,Pope County,Area Code 479
+633,72811,PO Box,Russellville,Pope County,Area Code 479
+634,72812,PO Box,Russellville,Pope County,Area Code 479
+635,72820,PO Box,Alix,Franklin County,Area Code 479
+636,72821,Standard,"Altus, Wiederkehr Vg, Wiederkehr Village",Franklin County,Area Code 479
+637,72823,Standard,"Atkins, Appleton, Blackwell",Pope County,Area Code 501Area Code 479
+638,72824,Standard,Belleville,Yell County,Area Code 479
+639,72826,PO Box,Blue Mountain,Logan County,Area Code 479
+640,72827,Standard,Bluffton,Yell County,Area Code 479
+641,72828,Standard,Briggsville,Yell County,Area Code 479
+642,72829,PO Box,Centerville,Yell County,Area Code 479
+643,72830,Standard,Clarksville,Johnson County,Area Code 479
+644,72832,Standard,Coal Hill,Johnson County,Area Code 479
+645,72833,Standard,Danville,Yell County,Area Code 479
+646,72834,Standard,Dardanelle,Yell County,Area Code 479
+647,72835,Standard,Delaware,Logan County,Area Code 479
+648,72837,Standard,Dover,Pope County,Area Code 479
+649,72838,Standard,Gravelly,Yell County,Area Code 479
+650,72839,Standard,Hagarville,Johnson County,Area Code 479
+651,72840,Standard,"Hartman, Hunt",Johnson County,Area Code 479
+652,72841,Standard,Harvey,Scott County,Area Code 479
+653,72842,Standard,"Havana, Waveland",Yell County,Area Code 479
+654,72843,Standard,Hector,Pope County,Area Code 479
+655,72845,Standard,Knoxville,Johnson County,Area Code 479
+656,72846,Standard,Lamar,Johnson County,Area Code 479
+657,72847,Standard,London,Pope County,Area Code 479
+658,72851,Standard,New Blaine,Logan County,Area Code 479
+659,72852,Standard,Oark,Johnson County,Area Code 479
+660,72853,Standard,Ola,Yell County,Area Code 501Area Code 479
+661,72854,Standard,Ozone,Johnson County,Area Code 479
+662,72855,Standard,Paris,Logan County,Area Code 479
+663,72856,Standard,Pelsor,Newton County,Area Code 870
+664,72857,Standard,Plainview,Yell County,Area Code 479Area Code 501
+665,72858,Standard,Pottsville,Pope County,Area Code 479
+666,72860,Standard,Rover,Yell County,Area Code 501
+667,72863,Standard,Scranton,Logan County,Area Code 479
+668,72865,Standard,Subiaco,Logan County,Area Code 479
+669,72901,Standard,Fort Smith,Sebastian County,Area Code 479
+670,72902,PO Box,Fort Smith,Sebastian County,Area Code 479
+671,72903,Standard,Fort Smith,Sebastian County,Area Code 479
+672,72904,Standard,Fort Smith,Sebastian County,Area Code 479
+673,72905,Unique,"Fort Smith, Fort Chaffee",Sebastian County,Area Code 479
+674,72906,PO Box,Fort Smith,Sebastian County,Area Code 479
+675,72908,Standard,Fort Smith,Sebastian County,Area Code 479
+676,72913,PO Box,Fort Smith,Sebastian County,Area Code 479
+677,72914,PO Box,Fort Smith,Sebastian County,Area Code 479
+678,72916,Standard,"Fort Smith, Bonanza",Sebastian County,Area Code 479
+679,72917,PO Box,Fort Smith,Sebastian County,Area Code 479
+680,72918,PO Box,Fort Smith,Sebastian County,Area Code 479
+681,72919,Unique,Fort Smith,Sebastian County,Area Code 479
+682,72921,Standard,Alma,Crawford County,Area Code 479
+683,72923,Standard,Barling,Sebastian County,Area Code 479
+684,72926,Standard,Boles,Scott County,Area Code 479
+685,72927,Standard,Booneville,Logan County,Area Code 479
+686,72928,Standard,Branch,Franklin County,Area Code 479
+687,72930,Standard,Cecil,Franklin County,Area Code 479
+688,72932,Standard,Cedarville,Crawford County,Area Code 479
+689,72933,Standard,Charleston,Franklin County,Area Code 479
+690,72934,Standard,Chester,Crawford County,Area Code 479
+691,72935,PO Box,Dyer,Crawford County,Area Code 479
+692,72936,Standard,Greenwood,Sebastian County,Area Code 479
+693,72937,Standard,Hackett,Sebastian County,Area Code 479
+694,72938,Standard,Hartford,Sebastian County,Area Code 479
+695,72940,Standard,Huntington,Sebastian County,Area Code 479
+696,72941,Standard,"Lavaca, Central City",Sebastian County,Area Code 479
+697,72943,Standard,Magazine,Logan County,Area Code 479
+698,72944,Standard,Mansfield,Sebastian County,Area Code 479
+699,72945,PO Box,Midland,Sebastian County,Area Code 479
+700,72946,Standard,Mountainburg,Crawford County,Area Code 479
+701,72947,Standard,Mulberry,Crawford County,Area Code 479
+702,72948,Standard,Natural Dam,Crawford County,Area Code 479
+703,72949,Standard,Ozark,Franklin County,Area Code 479
+704,72950,Standard,Parks,Scott County,Area Code 479
+705,72951,Standard,Ratcliff,Logan County,Area Code 479
+706,72952,Standard,Rudy,Crawford County,Area Code 479
+707,72955,Standard,Uniontown,Crawford County,Area Code 479
+708,72956,Standard,Van Buren,Crawford County,Area Code 479
+709,72957,PO Box,Van Buren,Crawford County,Area Code 479
+710,72958,Standard,"Waldron, Bates",Scott County,Area Code 479
+711,72959,Standard,Winslow,Washington County,Area Code 479

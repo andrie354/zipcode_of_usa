@@ -1,0 +1,663 @@
+,zipcode,type,commoncity,county,areacode
+0,80001,PO Box,Arvada,Jefferson County,Area Code 303
+1,80002,Standard,Arvada,Jefferson County,Area Code 303Area Code 720
+2,80003,Standard,"Arvada, Westminster",Jefferson County,Area Code 303
+3,80004,Standard,Arvada,Jefferson County,Area Code 303
+4,80005,Standard,"Arvada, Westminster",Jefferson County,Area Code 303
+5,80006,PO Box,Arvada,Jefferson County,Area Code 303
+6,80007,Standard,Arvada,Jefferson County,Area Code 303
+7,80010,Standard,Aurora,Arapahoe County,Area Code 303Area Code 720
+8,80011,Standard,"Aurora, Buckley AFB, Buckley Air Force Base",Arapahoe County,Area Code 303Area Code 720
+9,80012,Standard,"Aurora, Denver",Arapahoe County,Area Code 303Area Code 720
+10,80013,Standard,Aurora,Arapahoe County,Area Code 303
+11,80014,Standard,"Aurora, Denver",Arapahoe County,Area Code 720Area Code 303
+12,80015,Standard,"Aurora, Centennial",Arapahoe County,Area Code 720
+13,80016,Standard,"Aurora, Centennial, Foxfield",Arapahoe County,Area Code 720
+14,80017,Standard,Aurora,Arapahoe County,Area Code 720
+15,80018,Standard,Aurora,Arapahoe County,Area Code 303
+16,80019,Standard,Aurora,Adams County,Area Code 303
+17,80020,Standard,"Broomfield, Westminster",Broomfield County,Area Code 303
+18,80021,Standard,"Broomfield, Westminster",Jefferson County,Area Code 303
+19,80022,Standard,"Commerce City, Denver",Adams County,Area Code 303
+20,80023,Standard,"Broomfield, Thornton, Westminster",Broomfield County,Area Code 303
+21,80024,PO Box,Dupont,Adams County,Area Code 303
+22,80025,PO Box,"Eldorado Springs, Eldorado Sprg",Boulder County,Area Code 303
+23,80026,Standard,Lafayette,Boulder County,Area Code 303
+24,80027,Standard,"Louisville, Superior",Boulder County,Area Code 303
+25,80028,Unique,Louisville,Boulder County,Area Code 303
+26,80030,Standard,Westminster,Adams County,Area Code 303
+27,80031,Standard,Westminster,Adams County,Area Code 303
+28,80033,Standard,"Wheat Ridge, Denver",Jefferson County,Area Code 303
+29,80034,PO Box,Wheat Ridge,Jefferson County,Area Code 303
+30,80035,PO Box,Westminster,Jefferson County,Area Code 303
+31,80036,PO Box,Westminster,Jefferson County,Area Code 303
+32,80037,PO Box,Commerce City,Adams County,Area Code 303
+33,80038,PO Box,Broomfield,Broomfield County,Area Code 303
+34,80040,PO Box,Aurora,Arapahoe County,Area Code 303
+35,80041,PO Box,Aurora,Arapahoe County,Area Code 303
+36,80042,PO Box,Aurora,Arapahoe County,Area Code 303
+37,80044,PO Box,Aurora,Arapahoe County,Area Code 303
+38,80045,Standard,Aurora,Adams County,Area Code 720
+39,80046,PO Box,Aurora,Arapahoe County,Area Code 303
+40,80047,PO Box,Aurora,Arapahoe County,Area Code 303
+41,80101,Standard,Agate,Elbert County,Area Code 719
+42,80102,Standard,Bennett,Adams County,Area Code 303
+43,80103,Standard,Byers,Arapahoe County,Area Code 303
+44,80104,Standard,Castle Rock,Douglas County,Area Code 303
+45,80105,Standard,Deer Trail,Arapahoe County,Area Code 719Area Code 303Area Code 720
+46,80106,Standard,Elbert,El Paso County,Area Code 719
+47,80107,Standard,Elizabeth,Elbert County,Area Code 719
+48,80108,Standard,"Castle Rock, Castle Pines",Douglas County,Area Code 303
+49,80109,Standard,Castle Rock,Douglas County,Area Code 303
+50,80110,Standard,"Englewood, Cherry Hills, Cherry Hills Village, Cher...",Arapahoe County,Area Code 303
+51,80111,Standard,"Englewood, Centennial, Cherry Hills, Cherry Hills V...",Arapahoe County,Area Code 303
+52,80112,Standard,"Englewood, Centennial, Greenwood Village, Greenwood...",Arapahoe County,Area Code 303Area Code 720
+53,80113,Standard,"Englewood, Cherry Hills, Cherry Hills Village, Cher...",Arapahoe County,Area Code 303
+54,80116,Standard,Franktown,Douglas County,Area Code 303
+55,80117,Standard,Kiowa,Elbert County,Area Code 719
+56,80118,Standard,Larkspur,Douglas County,Area Code 303
+57,80120,Standard,Littleton,Arapahoe County,Area Code 303
+58,80121,Standard,"Littleton, Centennial, Cherry Hills Village, Cherry...",Arapahoe County,Area Code 303
+59,80122,Standard,"Littleton, Centennial",Arapahoe County,Area Code 303Area Code 720
+60,80123,Standard,"Littleton, Bow Mar, Columbine Valley, Columbine Vly...",Jefferson County,Area Code 303Area Code 720
+61,80124,Standard,"Lone Tree, Littleton",Douglas County,Area Code 303Area Code 720
+62,80125,Standard,"Littleton, Roxborough",Douglas County,Area Code 303
+63,80126,Standard,"Littleton, Hghlnds Ranch, Highlands Ranch",Douglas County,Area Code 303Area Code 720
+64,80127,Standard,"Littleton, Denver",Jefferson County,Area Code 303Area Code 720
+65,80128,Standard,Littleton,Jefferson County,Area Code 303
+66,80129,Standard,"Littleton, Hghlnds Ranch, Highlands Ranch",Douglas County,Area Code 303Area Code 720
+67,80130,Standard,"Littleton, Hghlnds Ranch, Highlands Ranch",Douglas County,Area Code 303Area Code 720
+68,80131,PO Box,Louviers,Douglas County,Area Code 303
+69,80132,Standard,Monument,El Paso County,Area Code 719
+70,80133,Standard,Palmer Lake,El Paso County,Area Code 719
+71,80134,Standard,"Parker, Lone Tree",Douglas County,Area Code 303
+72,80135,Standard,"Sedalia, Deckers",Douglas County,Area Code 303Area Code 720
+73,80136,Standard,Strasburg,Adams County,Area Code 303
+74,80137,Standard,Watkins,Arapahoe County,Area Code 303
+75,80138,Standard,Parker,Douglas County,Area Code 303
+76,80150,PO Box,Englewood,Arapahoe County,Area Code 303
+77,80151,PO Box,Englewood,Arapahoe County,Area Code 303
+78,80155,PO Box,"Englewood, Greenwood Village, Greenwood Vlg",Arapahoe County,Area Code 303
+79,80160,PO Box,Littleton,Arapahoe County,Area Code 303
+80,80161,PO Box,"Littleton, Centennial",Arapahoe County,Area Code 303
+81,80162,PO Box,Littleton,Arapahoe County,Area Code 303
+82,80163,PO Box,"Littleton, Hghlnds Ranch, Highlands Ranch",Arapahoe County,Area Code 303
+83,80165,Unique,Littleton,Arapahoe County,Area Code 303
+84,80166,Unique,Littleton,Arapahoe County,Area Code 303
+85,80201,PO Box,Denver,Denver County,Area Code 303
+86,80202,Standard,Denver,Denver County,Area Code 303Area Code 720
+87,80203,Standard,Denver,Denver County,Area Code 303Area Code 720
+88,80204,Standard,Denver,Denver County,Area Code 720Area Code 303
+89,80205,Standard,Denver,Denver County,Area Code 720
+90,80206,Standard,Denver,Denver County,Area Code 303Area Code 720
+91,80207,Standard,Denver,Denver County,Area Code 303Area Code 720
+92,80208,Unique,Denver,Denver County,Area Code 303
+93,80209,Standard,Denver,Denver County,Area Code 303Area Code 720
+94,80210,Standard,Denver,Denver County,Area Code 303Area Code 720
+95,80211,Standard,Denver,Denver County,Area Code 303Area Code 720
+96,80212,Standard,"Denver, Wheat Ridge",Denver County,Area Code 303Area Code 720
+97,80214,Standard,"Denver, Edgewater, Lakewood, Wheat Ridge",Jefferson County,Area Code 303Area Code 720
+98,80215,Standard,"Denver, Lakewood, Wheat Ridge",Jefferson County,Area Code 303Area Code 720
+99,80216,Standard,"Denver, Commerce City",Denver County,Area Code 303Area Code 720
+100,80217,PO Box,Denver,Denver County,Area Code 303
+101,80218,Standard,Denver,Denver County,Area Code 303Area Code 720
+102,80219,Standard,Denver,Denver County,Area Code 303Area Code 720
+103,80220,Standard,Denver,Denver County,Area Code 720Area Code 303
+104,80221,Standard,"Denver, Federal Heights, Federal Hgts, Thornton,...",Adams County,Area Code 303Area Code 720
+105,80222,Standard,Denver,Denver County,Area Code 303Area Code 720
+106,80223,Standard,Denver,Denver County,Area Code 303Area Code 720
+107,80224,Standard,Denver,Denver County,Area Code 303Area Code 720
+108,80225,PO Box,"Denver, Lakewood",Denver County,Area Code 303
+109,80226,Standard,"Denver, Lakewood",Jefferson County,Area Code 303Area Code 720
+110,80227,Standard,"Denver, Lakewood",Jefferson County,Area Code 303Area Code 720
+111,80228,Standard,"Denver, Lakewood",Jefferson County,Area Code 303Area Code 720
+112,80229,Standard,"Denver, Thornton",Adams County,Area Code 303Area Code 720
+113,80230,Standard,"Denver, Lowry, Montclair",Denver County,Area Code 720Area Code 303
+114,80231,Standard,Denver,Denver County,Area Code 303Area Code 720
+115,80232,Standard,"Denver, Lakewood",Jefferson County,Area Code 720Area Code 303
+116,80233,Standard,"Denver, Northglenn, Thornton",Adams County,Area Code 720Area Code 303
+117,80234,Standard,"Denver, North Glenn, Northglenn, Westminster",Adams County,Area Code 303Area Code 720
+118,80235,Standard,"Denver, Lakewood",Jefferson County,Area Code 303Area Code 720
+119,80236,Standard,"Denver, Lakewood",Denver County,Area Code 303Area Code 720
+120,80237,Standard,Denver,Denver County,Area Code 303Area Code 720
+121,80238,Standard,"Denver, Montbello",Denver County,Area Code 303Area Code 720
+122,80239,Standard,Denver,Denver County,Area Code 303Area Code 720
+123,80241,Standard,"Thornton, Denver, Northglenn, Westminster",Adams County,Area Code 303Area Code 720
+124,80243,Unique,Denver,Denver County,Area Code 303
+125,80244,Unique,Denver,Denver County,Area Code 303
+126,80246,Standard,"Denver, Glendale",Denver County,Area Code 303
+127,80247,Standard,"Denver, Aurora",Arapahoe County,Area Code 303
+128,80248,PO Box,Denver,Denver County,Area Code 303
+129,80249,Standard,Denver,Denver County,Area Code 720
+130,80250,PO Box,Denver,Denver County,Area Code 303
+131,80251,Unique,Denver,Denver County,Area Code 303
+132,80252,Unique,Denver,Denver County,Area Code 303
+133,80256,Unique,Denver,Denver County,Area Code 303
+134,80257,Unique,Denver,Denver County,Area Code 303
+135,80259,Unique,Denver,Denver County,Area Code 303
+136,80260,Standard,"Denver, Federal Heights, Federal Hgts, Northglen...",Adams County,Area Code 303
+137,80261,Unique,Denver,Denver County,Area Code 303
+138,80262,Unique,Denver,Denver County,Area Code 303
+139,80263,Unique,Denver,Denver County,Area Code 303
+140,80264,Standard,Denver,Denver County,Area Code 303Area Code 720
+141,80265,Standard,Denver,Denver County,Area Code 720Area Code 303
+142,80266,Standard,Denver,Denver County,Area Code 303
+143,80271,Unique,Denver,Denver County,Area Code 303
+144,80273,Unique,Denver,Denver County,Area Code 303
+145,80274,Unique,Denver,Denver County,Area Code 303
+146,80279,Unique,Denver,Denver County,Area Code 303
+147,80280,Unique,Denver,Denver County,Area Code 303
+148,80281,Unique,Denver,Denver County,Area Code 303
+149,80290,Standard,Denver,Denver County,Area Code 303Area Code 720
+150,80291,Unique,Denver,Denver County,Area Code 303
+151,80293,Standard,Denver,Denver County,Area Code 303
+152,80294,Standard,Denver,Denver County,Area Code 720Area Code 303
+153,80295,Standard,Denver,Denver County,Area Code 720
+154,80299,Standard,Denver,Denver County,Area Code 303Area Code 720
+155,80301,Standard,Boulder,Boulder County,Area Code 303
+156,80302,Standard,Boulder,Boulder County,Area Code 303
+157,80303,Standard,Boulder,Boulder County,Area Code 303
+158,80304,Standard,Boulder,Boulder County,Area Code 303
+159,80305,Standard,Boulder,Boulder County,Area Code 303
+160,80306,PO Box,Boulder,Boulder County,Area Code 303
+161,80307,PO Box,Boulder,Boulder County,Area Code 303
+162,80308,PO Box,Boulder,Boulder County,Area Code 303
+163,80309,Unique,Boulder,Boulder County,Area Code 303
+164,80310,Unique,Boulder,Boulder County,Area Code 303
+165,80314,Unique,Boulder,Boulder County,Area Code 303
+166,80321,Unique,Boulder,Boulder County,Area Code 303
+167,80322,Unique,Boulder,Boulder County,Area Code 303
+168,80323,Unique,Boulder,Boulder County,Area Code 303
+169,80328,Unique,Boulder,Boulder County,Area Code 303
+170,80329,Unique,Boulder,Boulder County,Area Code 303
+171,80401,Standard,"Golden, Evergreen, Lakewood",Jefferson County,Area Code 303Area Code 720
+172,80402,PO Box,Golden,Jefferson County,Area Code 303
+173,80403,Standard,"Golden, Arvada",Jefferson County,Area Code 303Area Code 720
+174,80419,Unique,Golden,Jefferson County,Area Code 303
+175,80420,PO Box,Alma,Park County,Area Code 719
+176,80421,Standard,Bailey,Park County,Area Code 719
+177,80422,Standard,Black Hawk,Gilpin County,Area Code 720
+178,80423,Standard,Bond,Eagle County,Area Code 970
+179,80424,Standard,"Breckenridge, Blue River",Summit County,Area Code 970
+180,80425,PO Box,Buffalo Creek,Jefferson County,Area Code 303
+181,80426,PO Box,Burns,Eagle County,Area Code 970
+182,80427,PO Box,Central City,Gilpin County,Area Code 303
+183,80428,Standard,Clark,Routt County,Area Code 970
+184,80429,PO Box,"Climax, Leadville",Lake County,Area Code 719
+185,80430,Standard,"Coalmont, Walden",Jackson County,Area Code 970
+186,80432,PO Box,"Como, Fairplay",Park County,Area Code 719
+187,80433,Standard,"Conifer, Foxton",Jefferson County,
+188,80434,PO Box,Cowdrey,Jackson County,Area Code 970
+189,80435,Standard,"Dillon, Keystone, Montezuma",Summit County,Area Code 970
+190,80436,PO Box,Dumont,Clear Creek County,Area Code 303
+191,80437,PO Box,Evergreen,Jefferson County,Area Code 303
+192,80438,PO Box,Empire,Clear Creek County,Area Code 303
+193,80439,Standard,"Evergreen, Golden",Jefferson County,Area Code 303Area Code 720
+194,80440,Standard,Fairplay,Park County,Area Code 719
+195,80442,PO Box,Fraser,Grand County,Area Code 970
+196,80443,PO Box,Frisco,Summit County,Area Code 970
+197,80444,PO Box,Georgetown,Clear Creek County,Area Code 303
+198,80446,Standard,Granby,Grand County,Area Code 970
+199,80447,Standard,Grand Lake,Grand County,Area Code 970
+200,80448,PO Box,Grant,Park County,Area Code 719
+201,80449,Standard,Hartsel,Park County,Area Code 719
+202,80451,PO Box,"Hot Sulphur Springs, Hot Slphr Spr",Grand County,Area Code 970
+203,80452,Standard,Idaho Springs,Clear Creek County,Area Code 303Area Code 720
+204,80453,PO Box,Idledale,Jefferson County,Area Code 303
+205,80454,PO Box,Indian Hills,Jefferson County,Area Code 303
+206,80455,Standard,Jamestown,Boulder County,Area Code 720
+207,80456,Standard,"Jefferson, Como, Fairplay",Park County,Area Code 719
+208,80457,PO Box,Kittredge,Jefferson County,Area Code 303
+209,80459,Standard,Kremmling,Grand County,Area Code 970
+210,80461,Standard,Leadville,Lake County,Area Code 719
+211,80463,Standard,Mc Coy,Routt County,Area Code 970
+212,80465,Standard,Morrison,Jefferson County,Area Code 303
+213,80466,Standard,Nederland,Boulder County,Area Code 970
+214,80467,Standard,Oak Creek,Routt County,Area Code 970
+215,80468,Standard,Parshall,Grand County,Area Code 970
+216,80469,PO Box,Phippsburg,Routt County,Area Code 970
+217,80470,Standard,Pine,Jefferson County,Area Code 303
+218,80471,PO Box,Pinecliffe,Boulder County,Area Code 303
+219,80473,PO Box,Rand,Jackson County,Area Code 970
+220,80474,PO Box,Rollinsville,Gilpin County,Area Code 303
+221,80475,PO Box,Shawnee,Park County,Area Code 719
+222,80476,PO Box,Silver Plume,Clear Creek County,Area Code 303
+223,80477,PO Box,"Steamboat Springs, Steamboat Spr",Routt County,Area Code 970
+224,80478,PO Box,Tabernash,Grand County,Area Code 970
+225,80479,PO Box,Toponas,Routt County,Area Code 970
+226,80480,Standard,Walden,Jackson County,Area Code 970
+227,80481,Standard,Ward,Boulder County,Area Code 303
+228,80482,PO Box,Winter Park,Grand County,Area Code 970
+229,80483,PO Box,Yampa,Routt County,Area Code 970
+230,80487,Standard,"Steamboat Springs, Steamboat Spr",Routt County,Area Code 970
+231,80488,PO Box,"Steamboat Springs, Steamboat Spr",Routt County,Area Code 970
+232,80497,PO Box,Silverthorne,Summit County,Area Code 970
+233,80498,Standard,"Silverthorne, Heeney",Summit County,Area Code 970
+234,80501,Standard,Longmont,Boulder County,Area Code 303Area Code 720
+235,80502,PO Box,Longmont,Boulder County,Area Code 303
+236,80503,Standard,"Longmont, Niwot",Boulder County,Area Code 303Area Code 720
+237,80504,Standard,"Longmont, Firestone, Frederick, Mead, Niwot",Boulder County,Area Code 303Area Code 720
+238,80510,Standard,Allenspark,Boulder County,Area Code 720Area Code 303
+239,80511,PO Box,Estes Park,Larimer County,Area Code 970
+240,80512,Standard,Bellvue,Larimer County,Area Code 970
+241,80513,Standard,Berthoud,Larimer County,Area Code 970
+242,80514,Standard,"Dacono, Erie",Weld County,
+243,80515,Standard,Drake,Larimer County,Area Code 970
+244,80516,Standard,"Erie, Frederick",Weld County,
+245,80517,Standard,Estes Park,Larimer County,Area Code 970
+246,80520,PO Box,Firestone,Weld County,
+247,80521,Standard,Fort Collins,Larimer County,Area Code 970
+248,80522,PO Box,Fort Collins,Larimer County,Area Code 970
+249,80523,Unique,Fort Collins,Larimer County,Area Code 970
+250,80524,Standard,"Fort Collins, Severance",Larimer County,Area Code 970
+251,80525,Standard,"Fort Collins, Timnath",Larimer County,Area Code 970
+252,80526,Standard,Fort Collins,Larimer County,Area Code 970
+253,80527,PO Box,Fort Collins,Larimer County,Area Code 970
+254,80528,Standard,"Fort Collins, Windsor",Larimer County,Area Code 970
+255,80530,Standard,Frederick,Weld County,
+256,80532,PO Box,Glen Haven,Larimer County,Area Code 970
+257,80533,PO Box,Hygiene,Boulder County,Area Code 303
+258,80534,Standard,"Johnstown, Loveland",Weld County,Area Code 970
+259,80535,Standard,Laporte,Larimer County,Area Code 970
+260,80536,Standard,"Livermore, Virginia Dale",Larimer County,Area Code 970
+261,80537,Standard,Loveland,Larimer County,Area Code 970
+262,80538,Standard,Loveland,Larimer County,Area Code 970
+263,80539,PO Box,Loveland,Larimer County,Area Code 970
+264,80540,Standard,Lyons,Boulder County,Area Code 303Area Code 720
+265,80541,PO Box,Masonville,Larimer County,Area Code 970
+266,80542,Standard,Mead,Weld County,Area Code 970
+267,80543,Standard,Milliken,Weld County,Area Code 970
+268,80544,PO Box,Niwot,Boulder County,Area Code 303
+269,80545,Standard,"Red Feather Lakes, Red Fe Lks",Larimer County,Area Code 970
+270,80546,PO Box,Severance,Weld County,
+271,80547,Standard,Timnath,Larimer County,Area Code 970
+272,80549,Standard,Wellington,Larimer County,Area Code 970
+273,80550,Standard,"Windsor, Severance",Weld County,Area Code 970
+274,80551,Unique,Windsor,Weld County,Area Code 970
+275,80553,Unique,Fort Collins,Larimer County,Area Code 970
+276,80601,Standard,Brighton,Adams County,Area Code 303Area Code 720
+277,80602,Standard,"Brighton, Thornton",Adams County,Area Code 303Area Code 720
+278,80603,Standard,"Brighton, Commerce City, Lochbuie",Weld County,Area Code 303Area Code 720
+279,80610,Standard,"Ault, Severance",Weld County,
+280,80611,Standard,Briggsdale,Weld County,Area Code 970
+281,80612,Standard,Carr,Weld County,Area Code 970
+282,80614,PO Box,Eastlake,Adams County,Area Code 303
+283,80615,Standard,"Eaton, Severance",Weld County,Area Code 970
+284,80620,Standard,Evans,Weld County,Area Code 970
+285,80621,Standard,"Fort Lupton, Wattenburg",Weld County,Area Code 303Area Code 720
+286,80622,Standard,Galeton,Weld County,
+287,80623,PO Box,Gilcrest,Weld County,
+288,80624,Standard,Gill,Weld County,
+289,80631,Standard,"Greeley, Garden City",Weld County,Area Code 970
+290,80632,PO Box,Greeley,Weld County,Area Code 970
+291,80633,PO Box,Greeley,Weld County,Area Code 970
+292,80634,Standard,"Greeley, Evans",Weld County,Area Code 970
+293,80638,Unique,Greeley,Weld County,Area Code 970
+294,80639,Unique,Greeley,Weld County,Area Code 970
+295,80640,Standard,"Henderson, Brighton, Commerce City",Adams County,Area Code 720
+296,80642,Standard,Hudson,Weld County,Area Code 303Area Code 720
+297,80643,Standard,Keenesburg,Weld County,Area Code 303Area Code 720
+298,80644,Standard,Kersey,Weld County,
+299,80645,Standard,"La Salle, Evans",Weld County,Area Code 970
+300,80646,PO Box,Lucerne,Weld County,
+301,80648,Standard,Nunn,Weld County,Area Code 970
+302,80649,Standard,Orchard,Morgan County,Area Code 303
+303,80650,Standard,Pierce,Weld County,
+304,80651,Standard,Platteville,Weld County,Area Code 970
+305,80652,Standard,Roggen,Weld County,Area Code 303
+306,80653,Standard,Weldona,Morgan County,Area Code 970
+307,80654,Standard,"Wiggins, Hoyt",Morgan County,Area Code 970
+308,80701,Standard,Fort Morgan,Morgan County,Area Code 970
+309,80705,Standard,"Log Lane Village, Fort Morgan, Log Lane Vlg",Morgan County,Area Code 970
+310,80720,Standard,Akron,Washington County,Area Code 970
+311,80721,Standard,Amherst,Phillips County,Area Code 970
+312,80722,Standard,Atwood,Logan County,Area Code 970
+313,80723,Standard,Brush,Morgan County,Area Code 970
+314,80726,Standard,Crook,Logan County,Area Code 970
+315,80727,Standard,Eckley,Yuma County,Area Code 970
+316,80728,Standard,Fleming,Logan County,Area Code 970
+317,80729,Standard,Grover,Weld County,Area Code 970
+318,80731,Standard,Haxtun,Phillips County,Area Code 970
+319,80732,PO Box,Hereford,Weld County,
+320,80733,Standard,Hillrose,Morgan County,Area Code 970
+321,80734,Standard,Holyoke,Phillips County,Area Code 970
+322,80735,Standard,"Idalia, Hale",Yuma County,Area Code 970
+323,80736,Standard,Iliff,Logan County,Area Code 970
+324,80737,Standard,Julesburg,Sedgwick County,Area Code 970
+325,80740,Standard,Lindon,Washington County,Area Code 970
+326,80741,Standard,"Merino, Willard",Logan County,Area Code 970
+327,80742,Standard,New Raymer,Weld County,Area Code 970
+328,80743,Standard,Otis,Washington County,Area Code 970
+329,80744,Standard,Ovid,Sedgwick County,Area Code 970
+330,80745,Standard,Padroni,Logan County,Area Code 970
+331,80746,Standard,Paoli,Phillips County,Area Code 970
+332,80747,Standard,Peetz,Logan County,Area Code 970
+333,80749,Standard,Sedgwick,Sedgwick County,Area Code 970
+334,80750,Standard,Snyder,Morgan County,Area Code 970
+335,80751,Standard,Sterling,Logan County,Area Code 970
+336,80754,Standard,Stoneham,Weld County,Area Code 970
+337,80755,Standard,Vernon,Yuma County,Area Code 970
+338,80757,Standard,"Woodrow, Last Chance",Washington County,Area Code 970
+339,80758,Standard,"Wray, Laird",Yuma County,Area Code 970
+340,80759,Standard,Yuma,Yuma County,Area Code 970
+341,80801,Standard,Anton,Washington County,Area Code 970
+342,80802,Standard,Arapahoe,Cheyenne County,Area Code 719
+343,80804,Standard,Arriba,Lincoln County,Area Code 970Area Code 719
+344,80805,Standard,Bethune,Kit Carson County,Area Code 719
+345,80807,Standard,Burlington,Kit Carson County,Area Code 719
+346,80808,Standard,Calhan,El Paso County,Area Code 719
+347,80809,Standard,Cascade,El Paso County,Area Code 719
+348,80810,Standard,"Cheyenne Wells, Cheyenne Wls",Cheyenne County,Area Code 719
+349,80812,Standard,Cope,Washington County,Area Code 970
+350,80813,Standard,Cripple Creek,Teller County,Area Code 719
+351,80814,Standard,Divide,Teller County,Area Code 719
+352,80815,Standard,Flagler,Kit Carson County,Area Code 719Area Code 970
+353,80816,Standard,Florissant,Teller County,Area Code 719
+354,80817,Standard,Fountain,El Paso County,Area Code 719
+355,80818,Standard,Genoa,Lincoln County,Area Code 719
+356,80819,PO Box,"Green Mountain Falls, Green Mtn Fls",El Paso County,Area Code 719
+357,80820,Standard,Guffey,Park County,
+358,80821,Standard,"Hugo, Boyero",Lincoln County,Area Code 719
+359,80822,Standard,Joes,Yuma County,Area Code 970
+360,80823,Standard,Karval,Lincoln County,Area Code 719
+361,80824,Standard,Kirk,Yuma County,Area Code 970
+362,80825,Standard,Kit Carson,Cheyenne County,Area Code 719
+363,80826,Unique,Limon,Lincoln County,Area Code 719
+364,80827,Standard,Lake George,Park County,Area Code 719
+365,80828,Standard,Limon,Lincoln County,Area Code 719
+366,80829,Standard,"Manitou Springs, Manitou Spgs",El Paso County,Area Code 719
+367,80830,Standard,Matheson,Elbert County,Area Code 719
+368,80831,Standard,"Peyton, Falcon",El Paso County,Area Code 719
+369,80832,Standard,Ramah,El Paso County,Area Code 719
+370,80833,Standard,Rush,El Paso County,Area Code 719
+371,80834,Standard,Seibert,Kit Carson County,Area Code 970
+372,80835,Standard,Simla,Elbert County,Area Code 719
+373,80836,Standard,Stratton,Kit Carson County,Area Code 719
+374,80840,Standard,"Usaf Academy, United States Air Force Acad, Us Air For...",El Paso County,Area Code 719
+375,80841,PO Box,"Usaf Academy, Cadet Sta",El Paso County,Area Code 719
+376,80860,PO Box,Victor,Teller County,Area Code 719
+377,80861,Standard,Vona,Kit Carson County,Area Code 719
+378,80862,PO Box,Wild Horse,Cheyenne County,Area Code 719
+379,80863,Standard,Woodland Park,Teller County,Area Code 719
+380,80864,Standard,Yoder,El Paso County,Area Code 719
+381,80866,PO Box,Woodland Park,Teller County,Area Code 719
+382,80901,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+383,80902,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs, Fort Carson, F...",El Paso County,Area Code 719
+384,80903,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+385,80904,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+386,80905,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+387,80906,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+388,80907,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+389,80908,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+390,80909,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+391,80910,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+392,80911,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+393,80912,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs, Schriever AFB",El Paso County,Area Code 719
+394,80913,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs, Fort Carson, F...",El Paso County,Area Code 719
+395,80914,PO Box,"Colorado Springs, Chey Mtn AFB, Cheyenne Mountain AFB, Col...",El Paso County,Area Code 719
+396,80915,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+397,80916,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+398,80917,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+399,80918,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+400,80919,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+401,80920,Standard,"Colorado Springs, Co Spgs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+402,80921,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+403,80922,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+404,80923,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+405,80924,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+406,80925,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+407,80926,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+408,80927,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+409,80928,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+410,80929,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+411,80930,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+412,80931,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+413,80932,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+414,80933,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+415,80934,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+416,80935,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+417,80936,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+418,80937,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+419,80938,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+420,80939,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+421,80940,Unique,"Colorado Springs, Colorado Spgs",El Paso County,Area Code 719
+422,80941,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+423,80942,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+424,80943,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+425,80944,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+426,80945,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+427,80946,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+428,80947,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+429,80949,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+430,80950,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+431,80951,Standard,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+432,80960,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+433,80962,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+434,80970,PO Box,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+435,80977,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+436,80995,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+437,80997,Unique,"Colorado Springs, Colo Spgs, Colorado Spgs",El Paso County,Area Code 719
+438,81001,Standard,"Pueblo, Pueblo Dep Ac, Pueblo Depot Activity",Pueblo County,Area Code 719
+439,81002,PO Box,Pueblo,Pueblo County,Area Code 719
+440,81003,Standard,Pueblo,Pueblo County,Area Code 719
+441,81004,Standard,Pueblo,Pueblo County,Area Code 719
+442,81005,Standard,Pueblo,Pueblo County,Area Code 719
+443,81006,Standard,Pueblo,Pueblo County,Area Code 719
+444,81007,Standard,"Pueblo, Pueblo West",Pueblo County,Area Code 719
+445,81008,Standard,Pueblo,Pueblo County,Area Code 719
+446,81009,Unique,Pueblo,Pueblo County,Area Code 719
+447,81010,Unique,Pueblo,Pueblo County,Area Code 719
+448,81011,Unique,Pueblo,Pueblo County,Area Code 719
+449,81012,Unique,Pueblo,Pueblo County,Area Code 719
+450,81019,PO Box,"Colorado City, Colo City",Pueblo County,Area Code 719
+451,81020,Standard,Aguilar,Las Animas County,Area Code 719
+452,81021,Standard,Arlington,Kiowa County,Area Code 719
+453,81022,Standard,"Avondale, N Avondale, North Avondale",Pueblo County,Area Code 719
+454,81023,Standard,Beulah,Pueblo County,Area Code 719
+455,81024,Standard,Boncarbo,Las Animas County,Area Code 719
+456,81025,Standard,Boone,Pueblo County,Area Code 719
+457,81027,Standard,Branson,Las Animas County,Area Code 719
+458,81029,Standard,Campo,Baca County,Area Code 719
+459,81030,PO Box,Cheraw,Otero County,Area Code 719
+460,81033,PO Box,Crowley,Crowley County,Area Code 719
+461,81034,Unique,Ordway,Crowley County,Area Code 719
+462,81036,Standard,"Eads, Chivington",Kiowa County,Area Code 719
+463,81038,PO Box,Fort Lyon,Bent County,Area Code 719
+464,81039,Standard,Fowler,Otero County,Area Code 719
+465,81040,Standard,Gardner,Huerfano County,Area Code 719
+466,81041,Standard,Granada,Prowers County,Area Code 719
+467,81043,PO Box,Hartman,Prowers County,Area Code 719
+468,81044,Standard,"Hasty, Caddoa",Bent County,Area Code 719
+469,81045,Standard,Haswell,Kiowa County,Area Code 719
+470,81046,PO Box,Hoehne,Las Animas County,Area Code 719
+471,81047,Standard,"Holly, Bristol",Prowers County,Area Code 719
+472,81049,Standard,"Kim, Villegreen",Las Animas County,Area Code 719
+473,81050,Standard,"La Junta, Timpas",Otero County,Area Code 719
+474,81052,Standard,Lamar,Prowers County,Area Code 719
+475,81054,Standard,"Las Animas, Deora, Fort Lyon, Ninaview",Bent County,Area Code 719
+476,81055,Standard,La Veta,Huerfano County,Area Code 719
+477,81057,Standard,Mc Clave,Bent County,Area Code 719
+478,81058,Standard,Manzanola,Otero County,Area Code 719
+479,81059,Standard,"Model, Delhi, Thatcher, Tyrone",Las Animas County,
+480,81062,Standard,Olney Springs,Crowley County,Area Code 719
+481,81063,Standard,Ordway,Crowley County,Area Code 719
+482,81064,Standard,"Pritchett, Utleyville",Baca County,Area Code 719
+483,81067,Standard,Rocky Ford,Otero County,Area Code 719
+484,81069,Standard,Rye,Pueblo County,Area Code 719
+485,81071,Standard,"Sheridan Lake, Brandon, Towner",Kiowa County,Area Code 719
+486,81073,Standard,Springfield,Baca County,Area Code 719
+487,81075,Standard,Stonington,,
+488,81076,Standard,Sugar City,Crowley County,Area Code 719
+489,81077,PO Box,Swink,Otero County,Area Code 719
+490,81081,Standard,Trinchera,Las Animas County,Area Code 719
+491,81082,Standard,"Trinidad, Cokedale, Jansen, Sopris, Starkville",Las Animas County,Area Code 719
+492,81084,Standard,"Two Buttes, Lycan",Baca County,Area Code 719
+493,81087,PO Box,Vilas,Baca County,Area Code 719
+494,81089,Standard,"Walsenburg, Farista",Huerfano County,Area Code 719
+495,81090,Standard,"Walsh, Stonington",Baca County,Area Code 719
+496,81091,Standard,Weston,Las Animas County,Area Code 719
+497,81092,Standard,Wiley,Prowers County,Area Code 719
+498,81101,Standard,"Alamosa, Great Sand Dunes National Mo, Sand Dunes...",Alamosa County,Area Code 719
+499,81102,Unique,Alamosa,Alamosa County,Area Code 719
+500,81120,Standard,Antonito,Conejos County,Area Code 719
+501,81121,PO Box,Arboles,Archuleta County,Area Code 970
+502,81122,Standard,"Bayfield, Chimney Rock",La Plata County,Area Code 970
+503,81123,Standard,Blanca,Costilla County,Area Code 719
+504,81124,PO Box,Capulin,Conejos County,Area Code 719
+505,81125,Standard,Center,Saguache County,Area Code 719
+506,81126,PO Box,Chama,Costilla County,Area Code 719
+507,81127,Standard,"Chimney Rock, Piedra",Archuleta County,Area Code 970
+508,81128,PO Box,Chromo,Archuleta County,Area Code 970
+509,81129,PO Box,Conejos,Conejos County,Area Code 719
+510,81130,Standard,Creede,Mineral County,Area Code 719
+511,81131,PO Box,Crestone,Saguache County,Area Code 719
+512,81132,Standard,Del Norte,Rio Grande County,Area Code 719
+513,81133,Standard,"Fort Garland, Sangre De Cri, Sangre De Cristo Ranches",Costilla County,Area Code 719
+514,81134,Standard,"San Luis, Garcia",Costilla County,Area Code 719
+515,81135,PO Box,"Homelake, Monte Vista",Rio Grande County,Area Code 719
+516,81136,Standard,Hooper,Alamosa County,Area Code 719
+517,81137,Standard,"Ignacio, S Ute Indian, Southern Ute Indian Reserv...",San Juan County,Area Code 970
+518,81138,PO Box,Jaroso,Costilla County,Area Code 719
+519,81140,Standard,La Jara,Conejos County,Area Code 719
+520,81141,PO Box,Manassa,Conejos County,Area Code 719
+521,81143,Standard,Moffat,Saguache County,Area Code 719
+522,81144,Standard,Monte Vista,Rio Grande County,Area Code 719
+523,81146,Standard,Mosca,Alamosa County,Area Code 719
+524,81147,Standard,"Pagosa Springs, Chimney Rock, Pagosa Spgs",Archuleta County,Area Code 970
+525,81148,PO Box,Romeo,Conejos County,Area Code 719
+526,81149,Standard,Saguache,Saguache County,Area Code 719
+527,81151,Standard,"Sanford, San Acacio",Conejos County,Area Code 719
+528,81152,Standard,"San Luis, Garcia, Mesita, San Pablo",Costilla County,Area Code 719
+529,81153,PO Box,"San Pablo, La Valley, Los Fuertes, San Francisco, S...",Costilla County,Area Code 719
+530,81154,Standard,South Fork,Rio Grande County,Area Code 719
+531,81155,Standard,Villa Grove,Saguache County,Area Code 719
+532,81157,PO Box,"Pagosa Springs, Pagosa Spgs",Archuleta County,Area Code 970
+533,81201,Standard,"Salida, Poncha Spgs, Poncha Springs",Chaffee County,Area Code 719
+534,81210,Standard,Almont,Gunnison County,Area Code 970
+535,81211,Standard,Buena Vista,Chaffee County,Area Code 719
+536,81212,Standard,"Canon City, Brookside",Fremont County,Area Code 719
+537,81215,PO Box,Canon City,Fremont County,Area Code 719
+538,81220,Standard,Cimarron,Gunnison County,Area Code 970
+539,81221,PO Box,Coal Creek,Fremont County,Area Code 719
+540,81222,PO Box,Coaldale,Fremont County,Area Code 719
+541,81223,Standard,Cotopaxi,Fremont County,Area Code 719
+542,81224,Standard,Crested Butte,Gunnison County,Area Code 970
+543,81225,PO Box,Crested Butte,Gunnison County,Area Code 970
+544,81226,Standard,Florence,Fremont County,Area Code 719
+545,81227,PO Box,"Monarch, Salida",Chaffee County,Area Code 719
+546,81228,Standard,"Granite, Twin Lakes",Lake County,
+547,81230,Standard,Gunnison,Gunnison County,Area Code 970
+548,81231,Unique,Gunnison,Gunnison County,Area Code 970
+549,81232,PO Box,Hillside,Fremont County,Area Code 719
+550,81233,Standard,Howard,Fremont County,Area Code 719
+551,81235,Standard,Lake City,Hinsdale County,Area Code 970
+552,81236,Standard,Nathrop,Chaffee County,Area Code 719
+553,81237,Standard,Ohio City,Gunnison County,Area Code 970
+554,81239,Standard,Parlin,Gunnison County,Area Code 970
+555,81240,Standard,Penrose,Fremont County,Area Code 719
+556,81241,PO Box,Pitkin,Gunnison County,Area Code 970
+557,81242,PO Box,"Poncha Springs, Poncha Spgs",Chaffee County,Area Code 719
+558,81243,Standard,Powderhorn,Gunnison County,Area Code 970
+559,81244,PO Box,Rockvale,Fremont County,Area Code 719
+560,81247,Standard,"Gunnison, Sapinero",Gunnison County,Area Code 970
+561,81248,PO Box,Sargents,Saguache County,Area Code 719
+562,81251,Standard,Twin Lakes,Lake County,Area Code 719
+563,81252,Standard,"Westcliffe, Silver Cliff",Custer County,Area Code 719
+564,81253,Standard,Wetmore,Custer County,
+565,81290,Unique,Florence,Fremont County,Area Code 719
+566,81301,Standard,Durango,La Plata County,Area Code 970
+567,81302,PO Box,Durango,La Plata County,Area Code 970
+568,81303,Standard,Durango,La Plata County,Area Code 970
+569,81320,Standard,Cahone,Dolores County,Area Code 970
+570,81321,Standard,Cortez,Montezuma County,Area Code 970
+571,81323,Standard,Dolores,Montezuma County,Area Code 970
+572,81324,Standard,Dove Creek,Dolores County,Area Code 970
+573,81325,Standard,"Egnar, Slick Rock",San Miguel County,Area Code 970
+574,81326,Standard,Hesperus,La Plata County,Area Code 970
+575,81327,Standard,Lewis,Montezuma County,Area Code 970
+576,81328,Standard,Mancos,Montezuma County,Area Code 970
+577,81329,PO Box,Marvel,La Plata County,Area Code 970
+578,81330,PO Box,"Mesa Verde National Park, Mesa Verde",Montezuma County,Area Code 970
+579,81331,Standard,Pleasant View,Montezuma County,Area Code 970
+580,81332,PO Box,Rico,Dolores County,Area Code 970
+581,81334,PO Box,Towaoc,Montezuma County,Area Code 970
+582,81335,Standard,Yellow Jacket,Montezuma County,Area Code 970
+583,81401,Standard,Montrose,Montrose County,Area Code 970
+584,81402,PO Box,Montrose,Montrose County,Area Code 970
+585,81403,Standard,Montrose,Montrose County,Area Code 970
+586,81410,Standard,"Austin, Orchard City",Delta County,Area Code 970
+587,81411,Standard,Bedrock,Montrose County,Area Code 970
+588,81413,Standard,Cedaredge,Delta County,Area Code 970
+589,81414,PO Box,Cory,Delta County,Area Code 970
+590,81415,Standard,"Crawford, Maher",Delta County,Area Code 970
+591,81416,Standard,Delta,Delta County,Area Code 970
+592,81418,Standard,Eckert,Delta County,Area Code 970
+593,81419,Standard,Hotchkiss,Delta County,Area Code 970
+594,81420,PO Box,Lazear,Delta County,Area Code 970
+595,81422,Standard,Naturita,Montrose County,Area Code 970
+596,81423,PO Box,Norwood,San Miguel County,Area Code 970
+597,81424,Standard,Nucla,Montrose County,Area Code 970
+598,81425,Standard,Olathe,Montrose County,Area Code 970
+599,81426,PO Box,Ophir,San Miguel County,Area Code 970
+600,81427,PO Box,Ouray,Ouray County,Area Code 970
+601,81428,Standard,Paonia,Delta County,Area Code 970
+602,81429,PO Box,Paradox,Montrose County,Area Code 970
+603,81430,PO Box,Placerville,San Miguel County,Area Code 970
+604,81431,Standard,Redvale,Montrose County,Area Code 970
+605,81432,Standard,Ridgway,Ouray County,Area Code 970
+606,81433,PO Box,Silverton,San Juan County,Area Code 970
+607,81434,Standard,Somerset,Gunnison County,Area Code 970
+608,81435,Standard,"Telluride, Mountain Village, Mountain Vlg",San Miguel County,Area Code 970
+609,81501,Standard,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+610,81502,PO Box,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+611,81503,Standard,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+612,81504,Standard,"Grand Junction, Fruitvale, Grand Jct",Mesa County,Area Code 970
+613,81505,Standard,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+614,81506,Standard,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+615,81507,Standard,"Grand Junction, Grand Jct",Mesa County,Area Code 970
+616,81520,Standard,Clifton,Mesa County,Area Code 970
+617,81521,Standard,Fruita,Mesa County,Area Code 970
+618,81522,Standard,Gateway,Mesa County,Area Code 970
+619,81523,Standard,Glade Park,Mesa County,Area Code 970
+620,81524,Standard,Loma,Mesa County,Area Code 970
+621,81525,Standard,Mack,Mesa County,Area Code 970
+622,81526,Standard,Palisade,Mesa County,Area Code 970
+623,81527,Standard,Whitewater,Mesa County,Area Code 970
+624,81601,Standard,"Glenwood Springs, Glenwood Spgs",Garfield County,Area Code 970
+625,81602,PO Box,"Glenwood Springs, Glenwood Spgs",Garfield County,Area Code 970
+626,81610,Standard,Dinosaur,Moffat County,Area Code 970
+627,81611,Standard,Aspen,Pitkin County,Area Code 970
+628,81612,PO Box,Aspen,Pitkin County,Area Code 970
+629,81615,PO Box,"Snowmass Village, Snowmass Vlg",Pitkin County,Area Code 970
+630,81620,PO Box,"Avon, Beaver Creek",Eagle County,Area Code 970
+631,81621,Standard,Basalt,Eagle County,Area Code 970
+632,81623,Standard,"Carbondale, El Jebel, Marble, Redstone",Garfield County,Area Code 970
+633,81624,Standard,Collbran,Mesa County,Area Code 970
+634,81625,Standard,Craig,Moffat County,Area Code 970
+635,81626,PO Box,Craig,Moffat County,Area Code 970
+636,81630,Standard,De Beque,Mesa County,Area Code 970
+637,81631,PO Box,Eagle,Eagle County,Area Code 970
+638,81632,Standard,"Edwards, Cordillera",Eagle County,Area Code 970
+639,81633,Standard,"Dinosaur, Elk Springs",Moffat County,Area Code 970
+640,81635,Standard,"Parachute, Battlement Mesa, Btlmt Mesa",Garfield County,Area Code 970
+641,81636,PO Box,"Battlement Mesa, Btlmt Mesa, Parachute",Garfield County,Area Code 970
+642,81637,Standard,Gypsum,Eagle County,Area Code 970
+643,81638,Standard,Hamilton,Moffat County,
+644,81639,Standard,Hayden,Routt County,Area Code 970
+645,81640,Standard,Maybell,Moffat County,Area Code 970
+646,81641,Standard,Meeker,Rio Blanco County,Area Code 970
+647,81642,Standard,Meredith,Pitkin County,Area Code 970
+648,81643,PO Box,Mesa,Mesa County,Area Code 970
+649,81645,PO Box,"Minturn, Gilman",Eagle County,Area Code 970
+650,81646,PO Box,Molina,Mesa County,Area Code 970
+651,81647,Standard,New Castle,Garfield County,Area Code 970
+652,81648,Standard,Rangely,Rio Blanco County,Area Code 970
+653,81649,PO Box,Red Cliff,Eagle County,Area Code 970
+654,81650,Standard,Rifle,Garfield County,Area Code 970
+655,81652,Standard,Silt,Garfield County,Area Code 970
+656,81653,Standard,Slater,Moffat County,Area Code 970
+657,81654,Standard,Snowmass,Pitkin County,Area Code 970
+658,81655,PO Box,Wolcott,Eagle County,Area Code 970
+659,81656,PO Box,Woody Creek,Pitkin County,Area Code 970
+660,81657,Standard,Vail,Eagle County,Area Code 970
+661,81658,PO Box,Vail,Eagle County,Area Code 970
